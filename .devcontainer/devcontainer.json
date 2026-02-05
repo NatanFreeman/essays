@@ -12,9 +12,6 @@
 			"version": "lts"
 		}
 	},
-	"remoteEnv": {
-		"OPENROUTER_API_KEY": "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"
-	},
 	"mounts": [
 		"source=${localEnv:HOME}/.codex,target=/home/vscode/.codex,type=bind,consistency=cached"
 	],
