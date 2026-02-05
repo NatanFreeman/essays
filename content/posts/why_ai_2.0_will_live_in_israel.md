@@ -1,10 +1,9 @@
 ---
 title: "The Von Neumann bottleneck: Why AI 2.0 will live in Israel"
-date: 2026-02-05T10:00:00-05:00 
-draft: true
+date: 2026-02-05T10:00:00-05:00
+draft: false
 ---
-The Von Neumann bottleneck: Why
-AI 2.0 will live in Israel
+# The Von Neumann bottleneck: Why AI 2.0 will live in Israel
 By Natan Freeman
 
 ## The Philosophical Failure: Breaking the Von Neumann Bottleneck

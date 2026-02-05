@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://&lt;USERNAME&gt;.github.io/%3CREPOSITORY_NAME%3E/categories/</loc>
+    <loc>https://NatanFreeman.github.io/essays/</loc>
+    <lastmod>2026-02-05T10:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://&lt;USERNAME&gt;.github.io/%3CREPOSITORY_NAME%3E/</loc>
+    <loc>https://NatanFreeman.github.io/essays/posts/</loc>
+    <lastmod>2026-02-05T10:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://&lt;USERNAME&gt;.github.io/%3CREPOSITORY_NAME%3E/tags/</loc>
+    <loc>https://NatanFreeman.github.io/essays/posts/why_ai_2.0_will_live_in_israel/</loc>
+    <lastmod>2026-02-05T10:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://NatanFreeman.github.io/essays/categories/</loc>
+  </url><url>
+    <loc>https://NatanFreeman.github.io/essays/tags/</loc>
   </url>
 </urlset>

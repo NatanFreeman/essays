@@ -1,5 +1,5 @@
 baseURL = 'https://NatanFreeman.github.io/essays/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Essays by Natan Freeman'
 theme = "ananke"
 publishDir = "docs"

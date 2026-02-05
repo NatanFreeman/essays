@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Essays by Natan Freeman</title>
-    <link>https://NatanFreeman.github.io/essays/</link>
-    <description>Recent content on Essays by Natan Freeman</description>
+    <title>Posts on Essays by Natan Freeman</title>
+    <link>https://NatanFreeman.github.io/essays/posts/</link>
+    <description>Recent content in Posts on Essays by Natan Freeman</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Feb 2026 10:00:00 -0500</lastBuildDate>
-    <atom:link href="https://NatanFreeman.github.io/essays/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://NatanFreeman.github.io/essays/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Von Neumann bottleneck: Why AI 2.0 will live in Israel</title>
       <link>https://NatanFreeman.github.io/essays/posts/why_ai_2.0_will_live_in_israel/</link>
