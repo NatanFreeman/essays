@@ -35,5 +35,5 @@ jobs:
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs # Hugo's output directory
+          publish_dir: ./public # Hugo's default output directory
           force_orphan: true # Overwrite the gh-pages branch

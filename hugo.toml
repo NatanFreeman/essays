@@ -2,4 +2,3 @@ baseURL = 'https://NatanFreeman.github.io/essays/'
 languageCode = 'en-us'
 title = 'Essays by Natan Freeman'
 theme = "ananke"
-publishDir = "docs"
