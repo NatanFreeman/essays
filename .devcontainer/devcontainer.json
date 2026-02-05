@@ -24,7 +24,8 @@
 				"ms-azuretools.vscode-docker",
 				"esbenp.prettier-vscode",
 				"openai.chatgpt",
-				"Google.gemini-cli-vscode-ide-companion"
+				"Google.gemini-cli-vscode-ide-companion",
+				"bep.hugo"
 			]
 		}
 	},
