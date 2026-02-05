@@ -7,9 +7,7 @@ The Von Neuman bottleneck: Why
 Al 2.0 will live in Israel
 By Natan Freeman
 
-The Philosophical Failure: Breaking the Von
-Neumann
-Bottleneck
+## The Philosophical Failure: Breaking the Von Neumann Bottleneck
 
 There has been sentiment of lament over Israel's supposed failure to invest in
 the Al space. "Why isn't there an Israeli ChatGPT?" one might ask. This is
@@ -102,8 +100,7 @@ Yet companies in this space have failed to reach mass production. But there
 is one country looking to break this barrier. In this essay I will explain exactly
 how.
 
-The Innovator's Dilemma: Why the Giants and
-Startups Failed
+## The Innovator's Dilemma: Why the Giants and Startups Failed
 Let us first look at some failures as a test case. Intel's Loihi 3 chip is a key
 example.
 
@@ -189,8 +186,7 @@ lithographic nodes need to be thought out and developed in a cohesive
 ecosystem. This isn't a company – it's an entire industry. And the one place
 where this industry is being developed is Israel.
 
-The Silicon Island: Israel's Sovereign Vertical
-Integration
+## The Silicon Island: Israel’s Sovereign Vertical Integration
 It's natural to draw analogies between Israel's neuromorphic computing
 industry and Taiwan's silicon industry from the 1980s. This is by design of
 course. Israel has learnt the lessons used to transform Taiwan into the world's
