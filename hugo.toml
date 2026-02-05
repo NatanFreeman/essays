@@ -1,4 +1,4 @@
-baseURL = 'https://<USERNAME>.github.io/<REPOSITORY_NAME>/' # IMPORTANT: Update this to your GitHub Pages URL
+baseURL = 'https://NatanFreeman.github.io/essays/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"

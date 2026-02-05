@@ -1,18 +1,18 @@
 ---
 title: "The Von Neumann bottleneck: Why AI 2.0 will live in Israel"
-date: 2026-02-05T10:00:00-05:00 # Placeholder date, adjust as needed
+date: 2026-02-05T10:00:00-05:00 
 draft: true
 ---
 The Von Neumann bottleneck: Why
 AI 2.0 will live in Israel
 By Natan Freeman
 
-## The Philosophical Failure: Breaking the Von Neumannn Bottleneck
+## The Philosophical Failure: Breaking the Von Neumann Bottleneck
 
 There has been sentiment of lament over Israel's supposed failure to invest in
 the AI space. "Why isn't there an Israeli ChatGPT?" one might ask. This is
 unfair as a lot of the R&D is happening in Israel. Consider NVIDIA's significant
-presence in Israel or Google Deepmind's Israeli research team. Not to
+presence in Israel or Google DeepMind's Israeli research team. Not to
 mention the work done by universities and startups in this space as well as
 the Ministry of Defense's dedicated AI unit. One could argue that ChatGPT is
 the Israeli ChatGPT.
@@ -76,7 +76,7 @@ nonexistent and decisions must be made in microseconds, the current "store-
 then-compute" architecture is simply too slow to survive.
 
 The reason we cannot implement these features today is not a lack of clever
-code; it is the Von Neumannn bottleneck. In our current architecture, the
+code; it is the Von Neumann bottleneck. In our current architecture, the
 processing unit (the brain) and the memory unit (the book) are physically
 separated, connected by a narrow bus. Every time the AI wants to "think" or
 "learn," it must stop, send a request to memory, drag the data across the wire,
@@ -144,7 +144,7 @@ Consider Mythic AI, a Texas-based startup that became the poster child for
 the dangers of this industry.
 
 Mythic didn't just try to tweak the existing paradigm; they tried to shatter the
-Von Neumannn bottleneck by betting on analog compute-in-memory. Their
+Von Neumann bottleneck by betting on analog compute-in-memory. Their
 premise was brilliant and deeply biologically inspired: instead of shuttling data
 back and forth between memory and processors (the exact bottleneck Intel
 struggles with), Mythic performed calculations inside the memory arrays
@@ -424,7 +424,7 @@ cannot support the use-cases people actually need. The brute-force era of
 "scaling laws"—where we just add more parameters and more power-will hit
 a point of diminishing returns.
 
-The irony of the Von Neumannn bottleneck is that it was named after a genius
+The irony of the Von Neumann bottleneck is that it was named after a genius
 who knew it was a temporary fix. John von Neumann himself was deeply
 interested in the workings of the human brain, recognizing that biology had
 solved computation problems his architecture could not. For seventy years,
