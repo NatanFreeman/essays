@@ -3,8 +3,6 @@ title: "The Von Neumann bottleneck: Why AI 2.0 will live in Israel"
 date: 2026-02-05T10:00:00-05:00
 draft: false
 ---
-# The Von Neumann bottleneck: Why AI 2.0 will live in Israel
-By Natan Freeman
 
 ## The Philosophical Failure: Breaking the Von Neumann Bottleneck
 
@@ -392,16 +390,6 @@ allows for a "dynamic site" where the AI adapts to the user in real-time,
 effectively moving us from the static brochures of GPT-4 to the responsive,
 living applications of the future.
 
-Breaking this bottleneck precipitates a shift in power dynamics reminiscent of
-the personal computer revolution. We are currently in the mainframe era of AI;
-we send our requests to a centralized oracle in a data center and wait for a
-response. AI 2.0, driven by efficient, low-power neuromorphic hardware,
-brings the "Personal Computer" moment to artificial intelligence. By allowing
-complex inference and learning to happen on the edge-on the drone, the
-phone, or the headset—we decouple intelligence from the cloud. Thus moving
-AI from a service we subscribe to into a tool we physically possess and
-control.
-
 We are pouring concrete and burning coal to build data centers the size of
 small cities, all to power Large Language Models that are, effectively, the
 "Web 1.0" of artificial intelligence. They are static, read-only repositories of
@@ -438,3 +426,37 @@ enter the real world.
 
 The first generation of AI lived in the cloud. AI 2.0 will live in the edge. And the
 chips that power it will be born in Israel.
+
+## You can throw it out of a window
+
+I talked about Web 2.0 but I'd like to touch on another revolution in
+computing. That is, of course, the personal computer revolution.
+
+In the early 1960s, public and cultural perceptions of computers were nothing
+like they are today. They were characterized by the image of the "Big Brother"
+machine: a centralized, dehumanizing tool of state surveillance and bureaucratic
+oppression. This perception was not just a science-fiction trope, but a reaction to
+the physical and social reality of how computers existed at the time.
+
+There was no such thing as a "personal" computer. Computers (mainframes)
+were massive, room-sized machines owned exclusively by the government, the
+military, or giant corporations like IBM.
+
+Only once the personal revolution happened did this view start to shift. A group
+of counterculture hackers began to argue that computers didn't have to be
+"Big Brother" tools. If individuals could have their own computers, the machines
+could become tools for personal liberation and "human augmentation" rather
+than oppression.
+
+What I find to be the most telling piece of media from this era is the [1981 interview
+with Steve Jobs on ABC news](https://www.youtube.com/watch?v=3H-Y-D3-j-M). I implore everyone reading this watch the interview immediately. There are two things which are particularly striking about it. The first is that both David Burnham (who warned about the dangers of computers) and Steve Jobs were right. Computers do compromise people's privacy and are used to oppress people. But they also enable personal expression and communication on levels that were never before possible. Equally as interesting is that this interview is not from 1981 - it's from 2031.
+
+Just replace the word "computer" with "AI" and the meaning is the same. Let's hear how Steve jobs describes the next generation of AI. AI 2.0 which allows for decentralization and personal expression.
+> many people see it for the first time and they don't think it's a computer - it's about 12 pounds you can throw it out the window if the relationship isn't going so well. And I think if you look at the process of the technical revolution that we're all in, it's a process of taking very centralized things and making them very democratic - if you will, very individualized. Making them affordable by individuals for a small collection of tasks
+
+We are currently in the mainframe era of AI; we send our requests to a centralized oracle in a data center and wait for a
+response. AI 2.0, driven by efficient, low-power neuromorphic hardware,
+brings the "Personal Computer" moment to artificial intelligence. By allowing
+complex inference and learning to happen on the edge-on the drone, the
+phone, or the headset—we decouple intelligence from the cloud. Thus moving
+AI from a service we subscribe to into a tool we physically possess. One we can even through out the window if the relationship isn't going so well.
