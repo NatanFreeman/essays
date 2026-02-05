@@ -6,7 +6,7 @@ draft: false
 
 ## The Philosophical Failure: Breaking the Von Neumann Bottleneck
 
-There has been sentiment of lament over Israel's supposed failure to invest in
+There has been a sentiment of lament over Israel's supposed failure to invest in
 the AI space. "Why isn't there an Israeli ChatGPT?" one might ask. This is
 unfair as a lot of the R&D is happening in Israel. Consider NVIDIA's significant
 presence in Israel or Google DeepMind's Israeli research team. Not to mention
@@ -18,7 +18,7 @@ But there is some truth to this sentiment. Israel isn't building datacenters to
 the same extent as the U.S., and we aren't seeing many foundation models coming
 from Israel. But this is not an oversight. Israel is simply looking two steps
 ahead. They know they can't directly compete with the U.S. and China in the
-current landscape of GPU-dominated large-language-models. So Israel is building
+current landscape of GPU-dominated large language models. So Israel is building
 out the infrastructure for the next generation of AI. The one which will be
 defined by lower power costs, greater real-time capabilities and more
 decentralization in edge and server environments. Israel is building AI 2.0. The
@@ -28,7 +28,7 @@ You see there is a glass ceiling to AI which is fundamentally limiting what AI
 can do. Whenever we try to incorporate biologically inspired features we hit
 this ceiling and fail catastrophically. Attempts to encode episodic memory,
 continuous memory, real-time data streaming or efficient processing have either
-resulted in low fidelity implementations or inefficiency with our current
+resulted in low-fidelity implementations or inefficiency with our current
 hardware. This is not a failure of implementation; it's a failure of philosophy.
 You cannot fix a hardware problem with a software solution.
 
@@ -41,7 +41,7 @@ instantly. Consider a child touching a hot stove: they do not need to touch it
 ten thousand times to understand it is dangerous. They experience it once, and
 their neural pathways physically alter to encode that memory forever. Current AI
 cannot do this. To "teach" a neural network a new fact, you must run a massive
-training pass, updating billions of parameters in a slow, energy- intensive
+training pass, updating billions of parameters in a slow, energy-intensive
 batch process. If an autonomous drone flies into a new type of windowpane it
 hasn't seen before, it cannot simply "remember" that obstacle for the return
 trip. It remains frozen in the state it was trained in until a team of engineers
@@ -57,7 +57,7 @@ forgetting what it used to know. This renders AI systems brittle and static;
 they are "frozen brains" trapped in the past. Real-world applications—whether
 it's a personalized healthcare assistant tracking a patient's degrading
 condition over years, or a missile defense system adapting to a new flight
-trajectory mid-air-require a system that can continuously update its
+trajectory mid-air—require a system that can continuously update its
 understanding of the world without needing to go offline for a reboot. We need
 AI that evolves, not just AI that executes.
 
@@ -69,8 +69,8 @@ survival depends on processing information as a continuous, noisy stream. A
 self-driving car on a highway doesn't have the luxury of batching 50 frames of
 video to decide if a pedestrian is stepping out; it needs to process the photon
 hitting the sensor immediately. In edge environments, where bandwidth is
-nonexistent and decisions must be made in microseconds, the current "store-
-then-compute" architecture is simply too slow to survive.
+nonexistent and decisions must be made in microseconds, the current "store-then-compute"
+architecture is simply too slow to survive.
 
 The reason we cannot implement these features today is not a lack of clever
 code; it is the Von Neumann bottleneck. In our current architecture, the
@@ -93,7 +93,7 @@ tear down this wall and build chips where the memory is the computer.
 
 This is what neuromorphic computing has been preaching for over a decade. Yet
 companies in this space have failed to reach mass production. But there is one
-country looking to break this barrier. In this essay I will explain exactly how.
+country looking to break this barrier. In this essay, I will explain exactly how.
 
 ## The Innovator's Dilemma: Why the Giants and Startups Failed
 
@@ -124,7 +124,7 @@ hesitation born of the Innovator's Dilemma. Intel is the reigning emperor of the
 Von Neumann architecture. Their entire trillion-dollar legacy, supply chain, and
 revenue stream are built on the x86 instruction set-on high-frequency clock
 cycles and the distinct separation of memory and processing. To truly
-Democratize neuromorphic computing-to make it cheap, accessible, and
+democratize neuromorphic computing-to make it cheap, accessible, and
 interoperable-would be to cannibalize their own core business. Intel cannot
 aggressively push a technology that renders their cash cow obsolete. As a
 result, they are incentivized to keep neuromorphic computing as an eternal
@@ -132,8 +132,8 @@ result, they are incentivized to keep neuromorphic computing as an eternal
 to ensure it never threatens the dominance of their traditional processors. It
 lets them keep a foot in the door without letting anyone else in. Just in case.
 
-This is the innovator's dilemma, and we expect it from big companies. But what
-about the startups, how are they doing?
+This is the Innovator's Dilemma, and we expect it from big companies. But what
+about the startups? How are they doing?
 
 Consider Mythic AI, a Texas-based startup that became the poster child for the
 dangers of this industry.
@@ -177,7 +177,7 @@ building a very expensive museum piece.
 
 To enter this space, a startup would have to have full vertical integration.
 Everything from the market product, to the software stack and even the
-lithographic nodes need to be thought out and developed in a cohesive ecosystem.
+lithographic nodes needs to be thought out and developed in a cohesive ecosystem.
 This isn't a company – it's an entire industry. And the one place where this
 industry is being developed is Israel.
 
@@ -185,8 +185,8 @@ industry is being developed is Israel.
 
 It's natural to draw analogies between Israel's neuromorphic computing industry
 and Taiwan's silicon industry from the 1980s. This is by design of course.
-Israel has learnt the lessons used to transform Taiwan into the world's chip
-giant, and applying it to make Israel the home for AI 2.0. Not just for
+Israel has learned the lessons used to transform Taiwan into the world's chip
+giant and is applying them to make Israel the home for AI 2.0. Not just for
 industry, but as a matter of national security.
 
 To understand the magnitude of what is happening in Israel, we must first
@@ -205,8 +205,8 @@ creating the fabless revolution.
 
 Israel's NEMO (Neuromorphic Embedded computing architecture for Mobile
 applications) consortium mirrors this history, but with a modern, critical
-evolution. Backed heavily by the Israel Innovation Authority (IIA) — the Zionist
-equivalent of Taiwan's ITRI-NEMO is not just a funding grant; it is a forced
+evolution. Backed heavily by the Israel Innovation Authority (IIA)—the Zionist
+equivalent of Taiwan's ITRI—NEMO is not just a funding grant; it is a forced
 marriage of industry rivals, academic researchers, and defense contractors. The
 IIA provides the "risk money," covering a massive percentage of R&D costs (often
 up to 66% with no equity taken), effectively de-risking the "Valley of Death"
@@ -216,13 +216,13 @@ But here is where the Israeli model diverges from, and arguably improves upon,
 the TSMC model. TSMC's "Pure Play" foundry model is brilliant, but it is
 fragile. It relies on a globalized, peaceful supply chain. TSMC needs
 lithography machines from the Netherlands (ASML), chemicals from Japan, and
-designs from California. If any link in that chain breaks-due to geopolitics,
-pandemics, or war-the foundry stops.
+designs from California. If any link in that chain breaks—due to geopolitics,
+pandemics, or war—the foundry stops.
 
 Israel, driven by the existential necessity of national security, is building
 something tighter: sovereign vertical integration.
 
-The NEMO consortium isn't just building a chip; they are building the "Full
+The NEMO consortium isn't just building a chip; it is building the "Full
 Stack." Because Israel is a "silicon island" geographically isolated by hostile
 neighbors, it cannot afford to rely on a fragmented global supply chain for its
 critical defense technology.
@@ -234,23 +234,23 @@ Rafael and Elbit Systems.
 
 This proximity allows for a level of optimization that the distributed TSMC
 model cannot match. In the Israeli model, the software stack is written
-specifically for the silicon while the silicon is being designed, and the end-
-product-whether a loitering munition or a medical vision device-dictates the
+specifically for the silicon while the silicon is being designed, and the
+end-product—whether a loitering munition or a medical vision device—dictates the
 specifications of both. This eliminates the "software barrier" that killed
 Mythic and the "walled garden" that isolates Intel.
 
 Israel is effectively creating a closed loop of innovation that is immune to
 external supply shocks. While Taiwan built the world's factory, Israel is
-building the world's brain-and it is ensuring that this brain doesn't need to
+building the world's brain—and it is ensuring that this brain doesn't need to
 ask permission from the rest of the world to function.
 
-To top it all off, all these companies share the same killer app, DDR&D – the
+To top it all off, all these companies share the same killer app, DDR&D—the
 Directorate of Defense Research & Development (often referred to as MAFAT).
 
 In Silicon Valley, a neuromorphic startup needs to convince a venture capitalist
 that there might be a market for their chip in five years. In Israel, the market
 exists before the chip does. The Israeli Defense Forces (IDF) have a critical,
-immediate need for "edge AI"-drones, loitering munitions, and communication
+immediate need for "edge AI"—drones, loitering munitions, and communication
 systems that can process visual and audio data in real-time, without an internet
 connection, and on a battery budget of practically zero.
 
@@ -272,8 +272,8 @@ they are building the "eyes and ears" of the machine, not the brain. They are
 the only foundry in the world capable of manufacturing these exotic neuromorphic
 designs at scale without needing a new supply chain.
 
-Recently, Tower's stock valuation has skyrocketed-up nearly 190% in the last
-year-as Wall Street finally understood that Tower holds the keys to NVIDIA's
+Recently, Tower's stock valuation has skyrocketed—up nearly 190% in the last
+year—as Wall Street finally understood that Tower holds the keys to NVIDIA's
 kingdom. The massive "interconnect bottleneck" in AI data centers means that
 even the fastest Blackwell or Rubin GPUs are limited by how quickly they can
 move data between one another. Tower's Silicon Photonics (SiPho) platform
@@ -285,8 +285,8 @@ supporting player in the NVIDIA ecosystem, a mere plumber for the data center.
 In reality, they are unwittingly acquiring the manufacturing backbone of the AI
 2.0 revolution. While the market values Tower today for solving the connectivity
 problems of the old architecture, its true explosive potential lies in its
-monopoly on the exotic processes-like ReRAM integration and on-chip
-multi-wavelength lasers-required to build the new one. They aren't just building
+monopoly on the exotic processes—like ReRAM integration and on-chip
+multi-wavelength lasers—required to build the new one. They aren't just building
 the wires for NVIDIA; they are building the foundry where the first true digital
 brains will be printed.
 
@@ -420,7 +420,7 @@ the chips that power it will be born in Israel.
 
 ## You can throw it out of a window
 
-I talked about Web 2.0 but I'd like to touch on another revolution in computing.
+I talked about Web 2.0, but I'd like to touch on another revolution in computing.
 That is, of course, the personal computer revolution.
 
 In the early 1960s, public and cultural perceptions of computers were nothing
@@ -441,7 +441,7 @@ oppression.
 
 What I find to be the most telling piece of media from this era is the
 [1981 interview with Steve Jobs on ABC news](https://www.youtube.com/watch?v=3H-Y-D3-j-M).
-I implore everyone reading this watch the interview immediately. There are two
+I implore everyone reading this to watch the interview immediately. There are two
 things which are particularly striking about it. The first is that both David
 Burnham (who warned about the dangers of computers) and Steve Jobs were right.
 Computers do compromise people's privacy and are used to oppress people. But
@@ -450,10 +450,10 @@ before possible. Equally as interesting is that this interview is not from
 1981 - it's from 2031.
 
 Just replace the word "computer" with "AI" and the meaning is the same. Let's
-hear how Steve jobs describes the next generation of AI. AI 2.0 which allows for
+hear how Steve Jobs describes the next generation of AI—AI 2.0, which allows for
 decentralization and personal expression.
 
-> many people see it for the first time and they don't think it's a computer -
+> Many people see it for the first time and they don't think it's a computer -
 > it's about 12 pounds you can throw it out the window if the relationship isn't
 > going so well. And I think if you look at the process of the technical
 > revolution that we're all in, it's a process of taking very centralized things
@@ -464,7 +464,7 @@ We are currently in the mainframe era of AI; we send our requests to a
 centralized oracle in a data center and wait for a response. AI 2.0, driven by
 efficient, low-power neuromorphic hardware, brings the "Personal Computer"
 moment to artificial intelligence. By allowing complex inference and learning to
-happen on the edge-on the drone, the phone, or the headset—we decouple
-intelligence from the cloud. Thus moving AI from a service we subscribe to into
-a tool we physically possess. One we can even through out the window if the
+happen on the edge—on the drone, the phone, or the headset—we decouple
+intelligence from the cloud, moving AI from a service we subscribe to into
+a tool we physically possess. One we can even throw out the window if the
 relationship isn't going so well.
