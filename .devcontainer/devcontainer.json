@@ -27,9 +27,7 @@
 		}
 	},
 	"forwardPorts": [
-		3000,
-		8000,
-		8501
+		1313
 	],
 	"portsAttributes": {
 		"3000": {
