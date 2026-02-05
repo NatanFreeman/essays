@@ -2,3 +2,6 @@ baseURL = 'https://NatanFreeman.github.io/essays/'
 languageCode = 'en-us'
 title = 'Essays by Natan Freeman'
 theme = "ananke"
+
+[params]
+  github_repo = "https://github.com/NatanFreeman/essays"
