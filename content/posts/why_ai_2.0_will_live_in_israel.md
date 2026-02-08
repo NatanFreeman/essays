@@ -8,10 +8,10 @@ draft: false
 
 There has been a sentiment of lament over Israel's supposed failure to invest in
 the AI space. "Why isn't there an Israeli ChatGPT?" one might ask. This is
-unfair as a lot of the R&D is happening in Israel. Consider NVIDIA's significant
-presence in Israel or Google DeepMind's Israeli research team. Not to mention
-the work done by universities and startups in this space as well as the Ministry
-of Defense's dedicated AI unit. One could argue that ChatGPT is the Israeli
+unfair as a lot of the R&D is happening in Israel. Consider [NVIDIA's significant
+presence in Israel](https://blogs.timesofisrael.com/nvidias-second-home-why-the-ai-giant-is-doubling-down-on-israel/) or [Google DeepMind's Israeli research team](https://research.google/locations/israel/). Not to mention
+the work done by universities and startups in this space as well as the [Ministry
+of Defense's dedicated AI unit](https://www.mod.gov.il/English/About/Directorates/Pages/MAFAT.aspx). One could argue that ChatGPT is the Israeli
 ChatGPT.
 
 But there is some truth to this sentiment. Israel isn't building datacenters to
@@ -112,8 +112,8 @@ However, this technical validation is rendered moot by a fatal strategic flaw:
 the ecosystem is hermetically sealed. Intel has built a walled garden so high
 that it virtually guarantees zero widespread adoption. You cannot simply buy a
 Loihi chip off the shelf to integrate into a consumer product, nor can you
-easily port existing models to it. Access is largely gatekept behind the Intel
-Neuromorphic Research Community (INRC), restricted to cloud-based simulations or
+easily port existing models to it. Access is largely gatekept behind the [Intel
+Neuromorphic Research Community (INRC)](https://www.intel.com/content/www/us/en/research/neuromorphic-community.html), restricted to cloud-based simulations or
 strictly vetted academic partnerships. By forcing developers to use a
 proprietary, idiosyncratic software stack rather than integrating seamlessly
 with open standards, Intel ensures that their technology remains a niche
@@ -152,7 +152,7 @@ $150 million. The industry hype was palpable.
 
 Then, reality hit.
 
-In late 2022, Mythic ran out of cash and nearly collapsed. While they have since
+In late 2022, [Mythic ran out of cash and nearly collapsed](https://mythic.ai/news/mythic-raises-13-5m-in-new-funding-led-by-atw-partners/). While they have since
 been "resurrected" by a modest funding round, they serve as a cautionary tale of
 a "Zombie Unicorn." Their failure wasn't just financial; it was a failure to
 scale a new philosophy in a hardware world built for the old one.
@@ -249,8 +249,8 @@ the state assumed the massive capital risk of building foundries, allowing the
 private sector to flourish. This separated "design" from "manufacturing,"
 creating the fabless revolution.
 
-Israel's NEMO (Neuromorphic Embedded computing architecture for Mobile
-applications) consortium mirrors this history, but with a modern, critical
+Israel's [NEMO (Neuromorphic Embedded computing architecture for Mobile
+applications) consortium](https://amsg.technion.ac.il/nemo-consortium/) mirrors this history, but with a modern, critical
 evolution. Backed heavily by the Israel Innovation Authority (IIA)—the Zionist
 equivalent of Taiwan's ITRI—NEMO is not just a funding grant; it is a forced
 marriage of industry rivals, academic researchers, and defense contractors. The
@@ -290,8 +290,8 @@ external supply shocks. While Taiwan built the world's factory, Israel is
 building the world's brain—and it is ensuring that this brain doesn't need to
 ask permission from the rest of the world to function.
 
-To top it all off, all these companies share the same killer app, DDR&D—the
-Directorate of Defense Research & Development (often referred to as MAFAT).
+To top it all off, all these companies share the same killer app, [DDR&D—the
+Directorate of Defense Research & Development (often referred to as MAFAT)](https://www.mod.gov.il/English/About/Directorates/Pages/MAFAT.aspx).
 
 In Silicon Valley, a neuromorphic startup needs to convince a venture capitalist
 that there might be a market for their chip in five years. In Israel, the market
@@ -312,7 +312,7 @@ Take Tower Semiconductor in Migdal HaEmek. While Intel and TSMC fight a bloody
 war over 2nm digital nodes, Tower has quietly cornered the market on "More than
 Moore"—the analog technologies that actually interface with the real world. They
 are not trying to shrink transistors; they are integrating sensors directly into
-the wafer. Their recent $650 million expansion into silicon photonics and their
+the wafer. Their recent [$650 million expansion into silicon photonics](https://towersemi.com/2024/05/22/tower-semiconductor-announces-major-expansion-of-silicon-photonics-manufacturing-capacity/) and their
 partnerships with companies like LightIC (for LiDAR) and Alcyon Photonics show
 they are building the "eyes and ears" of the machine, not the brain. They are
 the only foundry in the world capable of manufacturing these exotic neuromorphic
@@ -343,7 +343,7 @@ is too slow and power-hungry to act as a synapse. Weebit commercialized ReRAM
 
 Critically, Weebit didn't fall into the "closed garden" trap. Instead of
 hoarding the tech, they licensed it to the giants. Just months ago, Weebit
-secured a landmark licensing agreement with Texas Instruments. By getting their
+secured a landmark [licensing agreement with Texas Instruments](https://www.weebit-nano.com/press-release/weebit-nano-signs-licensing-agreement-with-texas-instruments/). By getting their
 ReRAM integrated into TI's embedded processing chips, they ensured that Israeli
 neuromorphic tech will be inside millions of standard industrial devices, not
 just niche scientific boards. They effectively forced the industry to adopt
@@ -353,7 +353,7 @@ capital back into the system. The most striking recent example is Apple's
 acquisition of Q.ai.
 
 In January 2026, Apple dropped nearly $2 billion to acquire this relatively
-secretive Israeli startup. Q.ai specializes in "silent speech" analysis-using
+secretive [Israeli startup](https://www.calcalistech.com/ctechnews/article/hkt8lmsat). Q.ai specializes in "silent speech" analysis-using
 neuromorphic-style processing to read facial micro-movements and interpret
 speech without sound. This wasn't just a software purchase; it was a hardware
 play. Apple didn't buy themselves an app; they bought them to integrate that "sensing"
