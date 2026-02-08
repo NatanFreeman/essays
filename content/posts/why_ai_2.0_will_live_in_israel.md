@@ -8,13 +8,16 @@ draft: false
 
 There has been a sentiment of lament over Israel's supposed failure to invest in
 the AI space. "Why isn't there an Israeli ChatGPT?" one might ask. This is
-unfair as a lot of the R&D is happening in Israel. Consider [NVIDIA's significant
-presence in Israel](https://blogs.timesofisrael.com/nvidias-second-home-why-the-ai-giant-is-doubling-down-on-israel/) or [Google DeepMind's Israeli research team](https://research.google/locations/israel/). Not to mention
-the work done by universities and startups in this space as well as the [Ministry
-of Defense's dedicated AI unit](https://www.mod.gov.il/English/About/Directorates/Pages/MAFAT.aspx). One could argue that ChatGPT is the Israeli
-ChatGPT.
+unfair as a lot of the R&D is happening in Israel. Consider
+[NVIDIA's significant presence in Israel](https://blogs.timesofisrael.com/nvidias-second-home-why-the-ai-giant-is-doubling-down-on-israel/)
+or
+[Google DeepMind's Israeli research team](https://research.google/locations/israel/).
+Not to mention the work done by universities and startups in this space as well
+as the
+[Ministry of Defense's dedicated AI unit](https://www.mod.gov.il/English/About/Directorates/Pages/MAFAT.aspx).
+One could argue that ChatGPT is the Israeli ChatGPT.
 
-But there is some truth to this sentiment. Israel isn't building datacenters to
+But there is some truth to this sentiment. Israel isn't building data centers to
 the same extent as the U.S., and we aren't seeing many foundation models coming
 from Israel. But this is not an oversight. Israel is simply looking two steps
 ahead. They know they can't directly compete with the U.S. and China in the
@@ -22,7 +25,7 @@ current landscape of GPU-dominated large language models. So Israel is building
 out the infrastructure for the next generation of AI. The one which will be
 defined by lower power costs, greater real-time capabilities and more
 decentralization in edge and server environments. Israel is building AI 2.0. The
-way they will do that is by breaking the Von Neumann bottleneck.
+way they will do that is by breaking the von Neumann bottleneck.
 
 You see there is a glass ceiling to AI which is fundamentally limiting what AI
 can do. Whenever we try to incorporate biologically inspired features we hit
@@ -41,13 +44,12 @@ instantly. Consider a child touching a hot stove: they do not need to touch it
 ten thousand times to understand it is dangerous. They experience it once, and
 their neural pathways physically alter to encode that memory forever. Current AI
 cannot do this. To "teach" a neural network a new fact, you must run a massive
-training pass, updating billions of parameters in a slow, energy-intensive
-batch process. If an autonomous drone flies into a new type of windowpane it
-hasn't seen before, it cannot simply "remember" that obstacle for the return
-trip. It remains frozen in the state it was trained in until a team of engineers
-collects the data, relabels it, and retrains the model in a server farm weeks
-later. True autonomy requires the ability to learn continuously from a sample
-size of one.
+training pass, updating billions of parameters in a slow, energy-intensive batch
+process. If an autonomous drone flies into a new type of windowpane it hasn't
+seen before, it cannot simply "remember" that obstacle for the return trip. It
+remains frozen in the state it was trained in until a team of engineers collects
+the data, relabels it, and retrains the model in a server farm weeks later. True
+autonomy requires the ability to learn continuously from a sample size of one.
 
 This ties directly into the second critical concept: Continuous Learning.
 Today's Large Language Models suffer from "catastrophic forgetting." If you try
@@ -69,11 +71,11 @@ survival depends on processing information as a continuous, noisy stream. A
 self-driving car on a highway doesn't have the luxury of batching 50 frames of
 video to decide if a pedestrian is stepping out; it needs to process the photon
 hitting the sensor immediately. In edge environments, where bandwidth is
-nonexistent and decisions must be made in microseconds, the current "store-then-compute"
-architecture is simply too slow to survive.
+nonexistent and decisions must be made in microseconds, the current
+"store-then-compute" architecture is simply too slow to survive.
 
 The reason we cannot implement these features today is not a lack of clever
-code; it is the Von Neumann bottleneck. In our current architecture, the
+code; it is the von Neumann bottleneck. In our current architecture, the
 processing unit (the brain) and the memory unit (the book) are physically
 separated, connected by a narrow bus. Every time the AI wants to "think" or
 "learn," it must stop, send a request to memory, drag the data across the wire,
@@ -93,7 +95,8 @@ tear down this wall and build chips where the memory is the computer.
 
 This is what neuromorphic computing has been preaching for over a decade. Yet
 companies in this space have failed to reach mass production. But there is one
-country looking to break this barrier. In this essay, I will explain exactly how.
+country looking to break this barrier. In this essay, I will explain exactly
+how.
 
 ## The Innovator's Dilemma: Why the Giants and Startups Failed
 
@@ -112,16 +115,16 @@ However, this technical validation is rendered moot by a fatal strategic flaw:
 the ecosystem is hermetically sealed. Intel has built a walled garden so high
 that it virtually guarantees zero widespread adoption. You cannot simply buy a
 Loihi chip off the shelf to integrate into a consumer product, nor can you
-easily port existing models to it. Access is largely gatekept behind the [Intel
-Neuromorphic Research Community (INRC)](https://www.intel.com/content/www/us/en/research/neuromorphic-community.html), restricted to cloud-based simulations or
-strictly vetted academic partnerships. By forcing developers to use a
-proprietary, idiosyncratic software stack rather than integrating seamlessly
-with open standards, Intel ensures that their technology remains a niche
-curiosity rather than an industry standard.
+easily port existing models to it. Access is largely gatekept behind the
+[Intel Neuromorphic Research Community (INRC)](https://www.intel.com/content/www/us/en/research/neuromorphic-community.html),
+restricted to cloud-based simulations or strictly vetted academic partnerships.
+By forcing developers to use a proprietary, idiosyncratic software stack rather
+than integrating seamlessly with open standards, Intel ensures that their
+technology remains a niche curiosity rather than an industry standard.
 
 This refusal to open up is not merely an oversight; it is a calculated
 hesitation born of the Innovator's Dilemma. Intel is the reigning emperor of the
-Von Neumann architecture. Their entire trillion-dollar legacy, supply chain, and
+von Neumann architecture. Their entire trillion-dollar legacy, supply chain, and
 revenue stream are built on the x86 instruction set-on high-frequency clock
 cycles and the distinct separation of memory and processing. To truly
 democratize neuromorphic computing-to make it cheap, accessible, and
@@ -139,7 +142,7 @@ Consider Mythic AI, a Texas-based startup that became the poster child for the
 dangers of this industry.
 
 Mythic didn't just try to tweak the existing paradigm; they tried to shatter the
-Von Neumann bottleneck by betting on analog compute-in-memory. Their premise was
+von Neumann bottleneck by betting on analog compute-in-memory. Their premise was
 brilliant and deeply biologically inspired: instead of shuttling data back and
 forth between memory and processors (the exact bottleneck Intel struggles with),
 Mythic performed calculations inside the memory arrays themselves using flash
@@ -152,10 +155,12 @@ $150 million. The industry hype was palpable.
 
 Then, reality hit.
 
-In late 2022, [Mythic ran out of cash and nearly collapsed](https://mythic.ai/news/mythic-raises-13-5m-in-new-funding-led-by-atw-partners/). While they have since
-been "resurrected" by a modest funding round, they serve as a cautionary tale of
-a "Zombie Unicorn." Their failure wasn't just financial; it was a failure to
-scale a new philosophy in a hardware world built for the old one.
+In late 2022,
+[Mythic ran out of cash and nearly collapsed](https://mythic.ai/news/mythic-raises-13-5m-in-new-funding-led-by-atw-partners/).
+While they have since been "resurrected" by a modest funding round, they serve
+as a cautionary tale of a "Zombie Unicorn." Their failure wasn't just financial;
+it was a failure to scale a new philosophy in a hardware world built for the old
+one.
 
 Mythic faced two insurmountable walls. First, analog computing is incredibly
 noisy. Unlike digital logic, which is a clean 0 or 1, analog signals fluctuate
@@ -177,55 +182,89 @@ building a very expensive museum piece.
 
 To enter this space, a startup would have to have full vertical integration.
 Everything from the market product, to the software stack and even the
-lithographic nodes needs to be thought out and developed in a cohesive ecosystem.
-This isn't a company – it's an entire industry. And the one place where this
-industry is being developed is Israel.
+lithographic nodes needs to be thought out and developed in a cohesive
+ecosystem. This isn't a company – it's an entire industry. And the one place
+where this industry is being developed is Israel.
 
 ## The film dilemma
 
-discuss converstion had with Daniel Szenogovski about the local vs global maxima
+discuss conversation had with Daniel Szenogovski about the local vs global
+maxima
 
-You’ve hit on a fundamental tension in the history of technology. While there isn't one single name for this dilemma, it is usually discussed through three specific frameworks depending on whether you are talking about the research, the economics, or the mathematics.
+You’ve hit on a fundamental tension in the history of technology. While there
+isn't one single name for this dilemma, it is usually discussed through three
+specific frameworks depending on whether you are talking about the research, the
+economics, or the mathematics.
 
 1. The Hardware Lottery
 
-This is the most precise term for your dilemma within the AI field. Coined by researcher Sara Hooker, the Hardware Lottery describes the phenomenon where a research idea (like Engrams or Neuromorphic computing) wins or loses not because it is inherently "good" or "bad," but because of its compatibility with available hardware.
+This is the most precise term for your dilemma within the AI field. Coined by
+researcher Sara Hooker, the Hardware Lottery describes the phenomenon where a
+research idea (like Engrams or Neuromorphic computing) wins or loses not because
+it is inherently "good" or "bad," but because of its compatibility with
+available hardware.
 
-The Dilemma: If you write software for the "Digital Camera" (Neuromorphic hardware) before it exists, your results look terrible compared to the "Film Tape" (GPUs).
+The Dilemma: If you write software for the "Digital Camera" (Neuromorphic
+hardware) before it exists, your results look terrible compared to the "Film
+Tape" (GPUs).
 
-The Result: Researchers often abandon superior ideas because they don't want to "lose the lottery" by using hardware that hasn't been optimized for 20 years.
+The Result: Researchers often abandon superior ideas because they don't want to
+"lose the lottery" by using hardware that hasn't been optimized for 20 years.
 
 2. S-Curve Discontinuity (The "Bridge" Problem)
 
-In innovation management, your film-to-digital analogy is described as jumping between two S-Curves.
+In innovation management, your film-to-digital analogy is described as jumping
+between two S-Curves.
 
-S-Curve 1 (The GPU/Transformer): It is at the top of its curve. Every dollar spent only yields a tiny bit more performance. It’s reaching the "plateau" you mentioned.
+S-Curve 1 (The GPU/Transformer): It is at the top of its curve. Every dollar
+spent only yields a tiny bit more performance. It’s reaching the "plateau" you
+mentioned.
 
-S-Curve 2 (Neuromorphic/Engram): It is at the very bottom. It currently performs worse than the old tech, but its theoretical ceiling is 1,000x higher.
+S-Curve 2 (Neuromorphic/Engram): It is at the very bottom. It currently performs
+worse than the old tech, but its theoretical ceiling is 1,000x higher.
 
-The dilemma you are describing is the "Bridging the Chasm" problem: Is it worth being the person who builds the "shitty" early version of the new tech to prove it works, knowing that you will be mocked for having worse performance than the old tech?
+The dilemma you are describing is the "Bridging the Chasm" problem: Is it worth
+being the person who builds the "shitty" early version of the new tech to prove
+it works, knowing that you will be mocked for having worse performance than the
+old tech?
 
 3. The Local Maxima vs. Global Maxima
 
 This is the mathematical term for your dilemma.
 
-Local Maxima: We have optimized the GPU/Transformer architecture so much that it is the "highest hill" in the immediate area.
+Local Maxima: We have optimized the GPU/Transformer architecture so much that it
+is the "highest hill" in the immediate area.
 
-Global Maxima: There is a "mountain" (biological-level efficiency) much further away.
+Global Maxima: There is a "mountain" (biological-level efficiency) much further
+away.
 
-To get to the mountain, you have to first walk down the hill. Walking down the hill looks like a "regression" or "worse performance." Most researchers and companies (NVIDIA, Google, etc.) are terrified of walking down the hill because their stock prices or grant funding depend on "line go up."
+To get to the mountain, you have to first walk down the hill. Walking down the
+hill looks like a "regression" or "worse performance." Most researchers and
+companies (NVIDIA, Google, etc.) are terrified of walking down the hill because
+their stock prices or grant funding depend on "line go up."
 
 4. Path Dependency
 
-This is the socioeconomic term. It describes how a decision made in the past (deciding to use GPUs for graphics in the 90s) "locks" us into a specific path. Because we have trillions of dollars in GPU infrastructure, we are path dependent.
+This is the socioeconomic term. It describes how a decision made in the past
+(deciding to use GPUs for graphics in the 90s) "locks" us into a specific path.
+Because we have trillions of dollars in GPU infrastructure, we are path
+dependent.
 
-The author of the paper is essentially trying to "break" the path dependency by writing software that doesn't belong on a GPU, hoping it will force the hand of hardware designers.
+The author of the paper is essentially trying to "break" the path dependency by
+writing software that doesn't belong on a GPU, hoping it will force the hand of
+hardware designers.
 
 Summary
 
-In the context of your email, you are arguing that the author is trying to "Software-bridge" a Hardware Gap.
+In the context of your email, you are arguing that the author is trying to
+"Software-bridge" a Hardware Gap.
 
-You are right that the "Hypothesis" argument (learning about brains) is somewhat redundant for engineering, but for the author, the "Engram" is likely his way of building a map for the day the hardware finally changes. He is betting that when we finally "move on from the GPU," the winner won't be the person with the most compute, but the person with the best "map" of how biological memory actually functions.
+You are right that the "Hypothesis" argument (learning about brains) is somewhat
+redundant for engineering, but for the author, the "Engram" is likely his way of
+building a map for the day the hardware finally changes. He is betting that when
+we finally "move on from the GPU," the winner won't be the person with the most
+compute, but the person with the best "map" of how biological memory actually
+functions.
 
 ## The Silicon Island: Israel’s Sovereign Vertical Integration
 
@@ -249,14 +288,15 @@ the state assumed the massive capital risk of building foundries, allowing the
 private sector to flourish. This separated "design" from "manufacturing,"
 creating the fabless revolution.
 
-Israel's [NEMO (Neuromorphic Embedded computing architecture for Mobile
-applications) consortium](https://amsg.technion.ac.il/nemo-consortium/) mirrors this history, but with a modern, critical
-evolution. Backed heavily by the Israel Innovation Authority (IIA)—the Zionist
-equivalent of Taiwan's ITRI—NEMO is not just a funding grant; it is a forced
-marriage of industry rivals, academic researchers, and defense contractors. The
-IIA provides the "risk money," covering a massive percentage of R&D costs (often
-up to 66% with no equity taken), effectively de-risking the "Valley of Death"
-that killed startups like Mythic.
+Israel's
+[NEMO (Neuromorphic Embedded computing architecture for Mobile applications) consortium](https://amsg.technion.ac.il/nemo-consortium/)
+mirrors this history, but with a modern, critical evolution. Backed heavily by
+the Israel Innovation Authority (IIA)—the Zionist equivalent of Taiwan's
+ITRI—NEMO is not just a funding grant; it is a forced marriage of industry
+rivals, academic researchers, and defense contractors. The IIA provides the
+"risk money," covering a massive percentage of R&D costs (often up to 66% with
+no equity taken), effectively de-risking the "Valley of Death" that killed
+startups like Mythic.
 
 But here is where the Israeli model diverges from, and arguably improves upon,
 the TSMC model. TSMC's "Pure Play" foundry model is brilliant, but it is
@@ -268,8 +308,8 @@ pandemics, or war—the foundry stops.
 Israel, driven by the existential necessity of national security, is building
 something tighter: sovereign vertical integration.
 
-The NEMO consortium isn't just building a chip; it is building the "Full
-Stack." Because Israel is a "silicon island" geographically isolated by hostile
+The NEMO consortium isn't just building a chip; it is building the "Full Stack."
+Because Israel is a "silicon island" geographically isolated by hostile
 neighbors, it cannot afford to rely on a fragmented global supply chain for its
 critical defense technology.
 
@@ -290,8 +330,8 @@ external supply shocks. While Taiwan built the world's factory, Israel is
 building the world's brain—and it is ensuring that this brain doesn't need to
 ask permission from the rest of the world to function.
 
-To top it all off, all these companies share the same killer app, [DDR&D—the
-Directorate of Defense Research & Development (often referred to as MAFAT)](https://www.mod.gov.il/English/About/Directorates/Pages/MAFAT.aspx).
+To top it all off, all these companies share the same killer app,
+[DDR&D—the Directorate of Defense Research & Development (often referred to as MAFAT)](https://www.mod.gov.il/English/About/Directorates/Pages/MAFAT.aspx).
 
 In Silicon Valley, a neuromorphic startup needs to convince a venture capitalist
 that there might be a market for their chip in five years. In Israel, the market
@@ -312,11 +352,12 @@ Take Tower Semiconductor in Migdal HaEmek. While Intel and TSMC fight a bloody
 war over 2nm digital nodes, Tower has quietly cornered the market on "More than
 Moore"—the analog technologies that actually interface with the real world. They
 are not trying to shrink transistors; they are integrating sensors directly into
-the wafer. Their recent [$650 million expansion into silicon photonics](https://towersemi.com/2024/05/22/tower-semiconductor-announces-major-expansion-of-silicon-photonics-manufacturing-capacity/) and their
-partnerships with companies like LightIC (for LiDAR) and Alcyon Photonics show
-they are building the "eyes and ears" of the machine, not the brain. They are
-the only foundry in the world capable of manufacturing these exotic neuromorphic
-designs at scale without needing a new supply chain.
+the wafer. Their recent
+[$650 million expansion into silicon photonics](https://towersemi.com/2024/05/22/tower-semiconductor-announces-major-expansion-of-silicon-photonics-manufacturing-capacity/)
+and their partnerships with companies like LightIC (for LiDAR) and Alcyon
+Photonics show they are building the "eyes and ears" of the machine, not the
+brain. They are the only foundry in the world capable of manufacturing these
+exotic neuromorphic designs at scale without needing a new supply chain.
 
 Recently, Tower's stock valuation has skyrocketed—up nearly 190% in the last
 year—as Wall Street finally understood that Tower holds the keys to NVIDIA's
@@ -343,21 +384,24 @@ is too slow and power-hungry to act as a synapse. Weebit commercialized ReRAM
 
 Critically, Weebit didn't fall into the "closed garden" trap. Instead of
 hoarding the tech, they licensed it to the giants. Just months ago, Weebit
-secured a landmark [licensing agreement with Texas Instruments](https://www.weebit-nano.com/press-release/weebit-nano-signs-licensing-agreement-with-texas-instruments/). By getting their
-ReRAM integrated into TI's embedded processing chips, they ensured that Israeli
-neuromorphic tech will be inside millions of standard industrial devices, not
-just niche scientific boards. They effectively forced the industry to adopt
-their standard by partnering with the biggest analog chipmaker in history.
-Finally, the ecosystem is validated by the massive exits that recycle talent and
-capital back into the system. The most striking recent example is Apple's
-acquisition of Q.ai.
+secured a landmark
+[licensing agreement with Texas Instruments](https://www.weebit-nano.com/press-release/weebit-nano-signs-licensing-agreement-with-texas-instruments/).
+By getting their ReRAM integrated into TI's embedded processing chips, they
+ensured that Israeli neuromorphic tech will be inside millions of standard
+industrial devices, not just niche scientific boards. They effectively forced
+the industry to adopt their standard by partnering with the biggest analog
+chipmaker in history. Finally, the ecosystem is validated by the massive exits
+that recycle talent and capital back into the system. The most striking recent
+example is Apple's acquisition of Q.ai.
 
 In January 2026, Apple dropped nearly $2 billion to acquire this relatively
-secretive [Israeli startup](https://www.calcalistech.com/ctechnews/article/hkt8lmsat). Q.ai specializes in "silent speech" analysis-using
-neuromorphic-style processing to read facial micro-movements and interpret
-speech without sound. This wasn't just a software purchase; it was a hardware
-play. Apple didn't buy themselves an app; they bought them to integrate that "sensing"
-capability into the next generation of smart glasses and AirPods.
+secretive
+[Israeli startup](https://www.calcalistech.com/ctechnews/article/hkt8lmsat).
+Q.ai specializes in "silent speech" analysis-using neuromorphic-style processing
+to read facial micro-movements and interpret speech without sound. This wasn't
+just a software purchase; it was a hardware play. Apple didn't buy themselves an
+app; they bought them to integrate that "sensing" capability into the next
+generation of smart glasses and AirPods.
 
 This acquisition completes the cycle. You have Tower manufacturing the sensors,
 Weebit providing the synaptic memory, and startups like Q.ai (and Hailo for
@@ -379,14 +423,15 @@ ninety-minute drive. A flaw discovered in the fab in the morning is being
 patched by architects in Haifa by lunch. This geographic compression effectively
 transforms an entire country into a single, cohesive silicon campus.
 
-AI 2.0 and the dotcom bubble You may have noticed that the term I've been using,
-“AI 2.0”, sounds a lot like Web 2.0. This parallel is intentional. If history
-repeats itself (which it tends to do), this parallel becomes a warning. Because
-it is only possible to understand Web 2.0 in the context of the dotcom bubble
-which came before it.
+## AI 2.0 and the dot-com bubble
+
+You may have noticed that the term I've been using, “AI 2.0”, sounds a lot like
+Web 2.0. This parallel is intentional. If history repeats itself (which it tends
+to do), this parallel becomes a warning. Because it is only possible to
+understand Web 2.0 in the context of the dot-com bubble which came before it.
 
 I am certainly not the first to draw the analogy between the current state of AI
-and the dotcom crash. The analogy is fairly obvious. In the late 1990s,
+and the dot-com crash. The analogy is fairly obvious. In the late 1990s,
 investors poured billions into companies that promised to revolutionize the
 world through the internet, driving the valuations of infrastructure providers
 like Cisco into the stratosphere. They weren't wrong about the revolution, but
@@ -396,7 +441,7 @@ traffic and utility that the dial-up modems and static HTML pages of the era
 simply couldn't deliver.
 
 We are currently living through the "Cisco moment" of AI. Just as Cisco became
-the most valuable company in the world by selling the routers for the dotcom
+the most valuable company in the world by selling the routers for the dot-com
 boom, NVIDIA has become the titan of the AI boom by selling the H100s.
 
 Web 1.0 was suffocated by the physical limitations of twisted-pair copper phone
@@ -437,7 +482,7 @@ world in real-time. The economics work out for select high-margin domains like
 code and scientific research, but it cannot work on the edge for deployments on
 phones, robots and IoT devices.
 
-When the dotcom bubble burst, it wiped out the excess, but it didn't kill the
+When the dot-com bubble burst, it wiped out the excess, but it didn't kill the
 internet. Instead, it cleared the stage for Web 2.0. The "infrastructure
 overhang"-that cheap dark fiber left behind-allowed for the rise of Facebook,
 YouTube, and the cloud. It shifted the focus from "how do we get online" to
@@ -449,7 +494,7 @@ support the use-cases people actually need. The brute-force era of "scaling
 laws"—where we just add more parameters and more power-will hit a point of
 diminishing returns.
 
-The irony of the Von Neumann bottleneck is that it was named after a genius who
+The irony of the von Neumann bottleneck is that it was named after a genius who
 knew it was a temporary fix. John von Neumann himself was deeply interested in
 the workings of the human brain, recognizing that biology had solved computation
 problems his architecture could not. For seventy years, we have been trapped in
@@ -466,8 +511,8 @@ the chips that power it will be born in Israel.
 
 ## You can throw it out of a window
 
-I talked about Web 2.0, but I'd like to touch on another revolution in computing.
-That is, of course, the personal computer revolution.
+I talked about Web 2.0, but I'd like to touch on another revolution in
+computing. That is, of course, the personal computer revolution.
 
 In the early 1960s, public and cultural perceptions of computers were nothing
 like they are today. They were characterized by the image of the "Big Brother"
@@ -487,12 +532,12 @@ oppression.
 
 What I find to be the most telling piece of media from this era is the
 [1981 interview with Steve Jobs on ABC news](https://www.youtube.com/watch?v=3H-Y-D3-j-M).
-I implore everyone reading this to watch the interview immediately. There are two
-things which are particularly striking about it. The first is that both David
-Burnham (who warned about the dangers of computers) and Steve Jobs were right.
-Computers do compromise people's privacy and are used to oppress people. But
-they also enable personal expression and communication on levels that were never
-before possible. Equally as interesting is that this interview is not from
+I implore everyone reading this to watch the interview immediately. There are
+two things which are particularly striking about it. The first is that both
+David Burnham (who warned about the dangers of computers) and Steve Jobs were
+right. Computers do compromise people's privacy and are used to oppress people.
+But they also enable personal expression and communication on levels that were
+never before possible. Equally as interesting is that this interview is not from
 1981 - it's from 2031.
 
 Just replace the word "computer" with "AI" and the meaning is the same. Let's
@@ -511,36 +556,122 @@ centralized oracle in a data center and wait for a response. AI 2.0, driven by
 efficient, low-power neuromorphic hardware, brings the "Personal Computer"
 moment to artificial intelligence. By allowing complex inference and learning to
 happen on the edge—on the drone, the phone, or the headset—we decouple
-intelligence from the cloud, moving AI from a service we subscribe to into
-a tool we physically possess. One we can even throw out the window if the
+intelligence from the cloud, moving AI from a service we subscribe to into a
+tool we physically possess. One we can even throw out the window if the
 relationship isn't going so well.
 
 ## Does success kill margins?
 
-You might think AI 2.0 taking off would be a slam-dunk for the Israeli market. But the reality is slightly more complex. You see it's only recently that Israel has been targeting the AI 2.0 market. Traditionally, fabs like Tower Semiconductors weren't targeting neuromorphic AI chips - they were building analog sensors, in what is called Specialty Fab.
+You might think AI 2.0 taking off would be a slam-dunk for the Israeli market.
+But the reality is slightly more complex. You see it's only recently that Israel
+has been targeting the AI 2.0 market. Traditionally, fabs like Tower
+Semiconductors weren't targeting neuromorphic AI chips - they were building
+analog sensors, in what is called Specialty Fab.
 
-The semiconductor world is divided into two churches: the Commodity Fab and the Specialty Fab. The Commodity Fab—typified by TSMC, Samsung, and Intel—chases Moore’s Law. Their goal is to shrink transistors to three nanometers, spending twenty billion dollars per factory to print billions of identical digital brains. Their game is scale: making the same chip cheaper and faster than anyone else. The Specialty Fab—typified by Tower Semiconductor—is the domain of the vintage artisan. They use older, paid-off machines to tweak the physics of the silicon itself. They don't make the digital brain; they make the analog senses. They build the sensors that see, the radios that speak, and the power chips that manage energy. Their game is customization: making a unique chip that performs a specific trick perfectly.
+The semiconductor world is divided into two churches: the Commodity Fab and the
+Specialty Fab. The Commodity Fab—typified by TSMC, Samsung, and Intel—chases
+Moore’s Law. Their goal is to shrink transistors to three nanometers, spending
+twenty billion dollars per factory to print billions of identical digital
+brains. Their game is scale: making the same chip cheaper and faster than anyone
+else. The Specialty Fab—typified by Tower Semiconductor—is the domain of the
+vintage artisan. They use older, paid-off machines to tweak the physics of the
+silicon itself. They don't make the digital brain; they make the analog senses.
+They build the sensors that see, the radios that speak, and the power chips that
+manage energy. Their game is customization: making a unique chip that performs a
+specific trick perfectly.
 
-For the last decade, this division saved Israel. While Asia fought the brutal price war of the "Digital Brain," Israel quietly enjoyed high margins in the "Analog Niche." But AI 2.0 is about to break this truce. The core promise of AI 2.0 is that intelligence moves to the edge—meaning smart sensors will go from being a niche scientific instrument to being a digital brain found in every toaster, doorbell, and toy car. This creates a massive identity crisis for the Israeli model. When a technology scales from one million units in medical devices to one billion units in consumer IoT, the economics flip. The "Artisan" model collapses, and the "Scale" model takes over. Israel is currently caught in a pincer movement between two different types of floods.
+For the last decade, this division saved Israel. While Asia fought the brutal
+price war of the "Digital Brain," Israel quietly enjoyed high margins in the
+"Analog Niche." But AI 2.0 is about to break this truce. The core promise of AI
+2.0 is that intelligence moves to the edge—meaning smart sensors will go from
+being a niche scientific instrument to being a digital brain found in every
+toaster, doorbell, and toy car. This creates a massive identity crisis for the
+Israeli model. When a technology scales from one million units in medical
+devices to one billion units in consumer IoT, the economics flip. The "Artisan"
+model collapses, and the "Scale" model takes over. Israel is currently caught in
+a pincer movement between two different types of floods.
 
-The first flood comes from China. This is not hypothetical; it is happening now. Shut out of the high-end market by U.S. sanctions, China has poured billions into "Legacy Nodes"—the exact technological backyard of Israeli fabs. Chinese state-subsidized fabs like SMIC are currently building massive overcapacity in basic power management and image sensor chips. They are flooding the market with "good enough" sensors at prices no profit-driven company can match. If the AI 2.0 revolution is built upon the same technology as cheap, generic sensors for smart fridges, China too will pivot and Israel could not compete. That market is already gone.
+The first flood comes from China. This is not hypothetical; it is happening now.
+Shut out of the high-end market by U.S. sanctions, China has poured billions
+into "Legacy Nodes"—the exact technological backyard of Israeli fabs. Chinese
+state-subsidized fabs like SMIC are currently building massive overcapacity in
+basic power management and image sensor chips. They are flooding the market with
+"good enough" sensors at prices no profit-driven company can match. If the AI
+2.0 revolution is built upon the same technology as cheap, generic sensors for
+smart fridges, China too will pivot and Israel could not compete. That market is
+already gone.
 
-The second flood comes from the other end of the political and logistic spectrum: Taiwan. Historically, TSMC ignored the "specialty" analog market because it was too small to move their needle. That has changed. TSMC has realized that AI needs "Eyes" just as much as "Brains," and they have aggressively expanded their specialty technology division. Analog has become just another item in their arsenal. They effectively offer a "Supermarket Bundle." They can tell a client like NVIDIA, "We are already printing your digital processor; why don't we just print the power and sensor chips on the same wafer for a discount?" This is happening now. Imagine the technology powering the sensor and power circuit also powers the brain. They go from binding two separate technologies into building a single cohesive package on a bridge they've already built. A standalone boutique like Tower struggles to compete with that level of integration efficiency.
+The second flood comes from the other end of the political and logistic
+spectrum: Taiwan. Historically, TSMC ignored the "specialty" analog market
+because it was too small to move their needle. That has changed. TSMC has
+realized that AI needs "Eyes" just as much as "Brains," and they have
+aggressively expanded their specialty technology division. Analog has become
+just another item in their arsenal. They effectively offer a "Supermarket
+Bundle." They can tell a client like NVIDIA, "We are already printing your
+digital processor; why don't we just print the power and sensor chips on the
+same wafer for a discount?" This is happening now. Imagine the technology
+powering the sensor and power circuit also powers the brain. They go from
+binding two separate technologies into building a single cohesive package on a
+bridge they've already built. A standalone boutique like Tower struggles to
+compete with that level of integration efficiency.
 
-Thus far, I've been talking about neuromorphic computers as a commodity - but this _might_ not apply. Commodities are _fungible_. A ton of steel from China is the same as a ton of steel from the US. But a neuromorphic sensor and guidance system for a missile or a heart-rate-temperature sensor is _not fungible_. Even if the Chinese version is 90% cheaper, the US Department of War or a Western Hospital chain cannot buy it due to security risks.
+Thus far, I've been talking about neuromorphic computers as a commodity - but
+this _might_ not apply. Commodities are _fungible_. A ton of steel from China is
+the same as a ton of steel from the US. But a neuromorphic sensor and guidance
+system for a missile or a heart-rate-temperature sensor is _not fungible_. Even
+if the Chinese version is 90% cheaper, the US Department of Defense or a Western
+Hospital chain cannot buy it due to security risks.
 
-The market therefor, bifurcates. Consumer tech, i.e. the toaster and other IoT devices, will use the cheap Chinese commodity sensors. Israel loses this market. But critical AI, will use "trusted" Israeli/Western sensors. Critical AI is defined by the high cost of failure—where "good enough" is a death sentence. It is the intelligence inside a loitering munition that must make a lethal decision in a GPS-denied environment, the medical implant regulating a heart rhythm in real-time, or the autonomous infrastructure controller that cannot risk a "backdoor" in its silicon. In these domains, the provenance of the chip is as important as its performance. Israel keeps this market because for the Department of Defense or a surgical robotics pioneer, a subsidized Chinese chip isn't a bargain; it’s a liability. Israel keeps this market, but it is smaller.
+The market, therefore, bifurcates. Consumer tech, i.e. the toaster and other IoT
+devices, will use the cheap Chinese commodity sensors. Israel loses this market.
+But critical AI, will use "trusted" Israeli/Western sensors. Critical AI is
+defined by the high cost of failure—where "good enough" is a death sentence. It
+is the intelligence inside a loitering munition that must make a lethal decision
+in a GPS-denied environment, the medical implant regulating a heart rhythm in
+real-time, or the autonomous infrastructure controller that cannot risk a
+"backdoor" in its silicon. In these domains, the provenance of the chip is as
+important as its performance. Israel keeps this market because for the
+Department of Defense or a surgical robotics pioneer, a subsidized Chinese chip
+isn't a bargain; it’s a liability. Israel keeps this market, but it is smaller.
 
-But if you've been paying attention, you'll see that this is actually perfect for Israel. Sure, this market might not have the sheer volume of the consumer world, but it operates on a completely different economic logic: non-fungible value.
+But if you've been paying attention, you'll see that this is actually perfect
+for Israel. Sure, this market might not have the sheer volume of the consumer
+world, but it operates on a completely different economic logic: non-fungible
+value.
 
-The consumer AI market (toasters, toys, generic smart home devices) is a race to the bottom. It is a commodity market where Chinese state-subsidized fabs can dominate because a 5-cent difference in chip price determines the winner. In this world, success kills margins because high volume invites brutal competition and price erosion.
+The consumer AI market (toasters, toys, generic smart home devices) is a race to
+the bottom. It is a commodity market where Chinese state-subsidized fabs can
+dominate because a 5-cent difference in chip price determines the winner. In
+this world, success kills margins because high volume invites brutal competition
+and price erosion.
 
-Critical AI—defense systems, implantable medical devices, and sovereign infrastructure—is a "Value" market rather than a "Volume" market. For a missile guidance system or a robotic surgeon, the cost of the chip is a negligible fraction of the total system cost, but the cost of its failure is infinite. This allows Israeli companies to command massive margins that the "Toaster-AI" companies could never dream of.
+Critical AI—defense systems, implantable medical devices, and sovereign
+infrastructure—is a "Value" market rather than a "Volume" market. For a missile
+guidance system or a robotic surgeon, the cost of the chip is a negligible
+fraction of the total system cost, but the cost of its failure is infinite. This
+allows Israeli companies to command massive margins that the "Toaster-AI"
+companies could never dream of.
 
-It is true that the giants of the East—TSMC and the Chinese state-subsidized ecosystem—will also eventually reach vertical integration. They too will stitch sensors to logic. But they will do so for the consumer masses, prioritizing scale and cost. They will build the brains for the world's refrigerators and gaming consoles.
+It is true that the giants of the East—TSMC and the Chinese state-subsidized
+ecosystem—will also eventually reach vertical integration. They too will stitch
+sensors to logic. But they will do so for the consumer masses, prioritizing
+scale and cost. They will build the brains for the world's refrigerators and
+gaming consoles.
 
-Israel’s role is not to compete in this ocean of cheap silicon. Its destiny is to become the fortress of high-trust computing. As the world bifurcates into rival geopolitical blocs, the "Western" supply chain will desperately need a source of advanced AI hardware that is not dependent on the fragile peace of the South China Sea, nor compromised by the strategic ambitions of Beijing.
+Israel’s role is not to compete in this ocean of cheap silicon. Its destiny is
+to become the fortress of high-trust computing. As the world bifurcates into
+rival geopolitical blocs, the "Western" supply chain will desperately need a
+source of advanced AI hardware that is not dependent on the fragile peace of the
+South China Sea, nor compromised by the strategic ambitions of Beijing.
 
-By treating the entire country as a single, vertically integrated campus—where the defense minister, the fab manager, and the algorithm designer operate in lockstep—Israel offers something money cannot buy: sovereignty. The integration here is not just technical; it is strategic. Israel is not just moving up the stack; it is building a parallel stack for the critical infrastructure of the free world.
+By treating the entire country as a single, vertically integrated campus—where
+the defense minister, the fab manager, and the algorithm designer operate in
+lockstep—Israel offers something money cannot buy: sovereignty. The integration
+here is not just technical; it is strategic. Israel is not just moving up the
+stack; it is building a parallel stack for the critical infrastructure of the
+free world.
 
-The first generation of AI was born in the server farms of Silicon Valley. But the second generation—the one that will fly our planes, secure our borders, and monitor our health—requires more than just computation. It requires trust. And that is why AI 2.0 will live in Israel.
+The first generation of AI was born in the server farms of Silicon Valley. But
+the second generation—the one that will fly our planes, secure our borders, and
+monitor our health—requires more than just computation. It requires trust. And
+that is why AI 2.0 will live in Israel.
