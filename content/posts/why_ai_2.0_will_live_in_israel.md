@@ -181,52 +181,6 @@ lithographic nodes needs to be thought out and developed in a cohesive ecosystem
 This isn't a company – it's an entire industry. And the one place where this
 industry is being developed is Israel.
 
-## The film dilemma
-
-discuss converstion had with Daniel Szenogovski about the local vs global maxima
-
-You’ve hit on a fundamental tension in the history of technology. While there isn't one single name for this dilemma, it is usually discussed through three specific frameworks depending on whether you are talking about the research, the economics, or the mathematics.
-
-1. The Hardware Lottery
-
-This is the most precise term for your dilemma within the AI field. Coined by researcher Sara Hooker, the Hardware Lottery describes the phenomenon where a research idea (like Engrams or Neuromorphic computing) wins or loses not because it is inherently "good" or "bad," but because of its compatibility with available hardware.
-
-The Dilemma: If you write software for the "Digital Camera" (Neuromorphic hardware) before it exists, your results look terrible compared to the "Film Tape" (GPUs).
-
-The Result: Researchers often abandon superior ideas because they don't want to "lose the lottery" by using hardware that hasn't been optimized for 20 years.
-
-2. S-Curve Discontinuity (The "Bridge" Problem)
-
-In innovation management, your film-to-digital analogy is described as jumping between two S-Curves.
-
-S-Curve 1 (The GPU/Transformer): It is at the top of its curve. Every dollar spent only yields a tiny bit more performance. It’s reaching the "plateau" you mentioned.
-
-S-Curve 2 (Neuromorphic/Engram): It is at the very bottom. It currently performs worse than the old tech, but its theoretical ceiling is 1,000x higher.
-
-The dilemma you are describing is the "Bridging the Chasm" problem: Is it worth being the person who builds the "shitty" early version of the new tech to prove it works, knowing that you will be mocked for having worse performance than the old tech?
-
-3. The Local Maxima vs. Global Maxima
-
-This is the mathematical term for your dilemma.
-
-Local Maxima: We have optimized the GPU/Transformer architecture so much that it is the "highest hill" in the immediate area.
-
-Global Maxima: There is a "mountain" (biological-level efficiency) much further away.
-
-To get to the mountain, you have to first walk down the hill. Walking down the hill looks like a "regression" or "worse performance." Most researchers and companies (NVIDIA, Google, etc.) are terrified of walking down the hill because their stock prices or grant funding depend on "line go up."
-
-4. Path Dependency
-
-This is the socioeconomic term. It describes how a decision made in the past (deciding to use GPUs for graphics in the 90s) "locks" us into a specific path. Because we have trillions of dollars in GPU infrastructure, we are path dependent.
-
-The author of the paper is essentially trying to "break" the path dependency by writing software that doesn't belong on a GPU, hoping it will force the hand of hardware designers.
-
-Summary
-
-In the context of your email, you are arguing that the author is trying to "Software-bridge" a Hardware Gap.
-
-You are right that the "Hypothesis" argument (learning about brains) is somewhat redundant for engineering, but for the author, the "Engram" is likely his way of building a map for the day the hardware finally changes. He is betting that when we finally "move on from the GPU," the winner won't be the person with the most compute, but the person with the best "map" of how biological memory actually functions.
-
 ## The Silicon Island: Israel’s Sovereign Vertical Integration
 
 It's natural to draw analogies between Israel's neuromorphic computing industry
@@ -356,7 +310,7 @@ In January 2026, Apple dropped nearly $2 billion to acquire this relatively
 secretive Israeli startup. Q.ai specializes in "silent speech" analysis-using
 neuromorphic-style processing to read facial micro-movements and interpret
 speech without sound. This wasn't just a software purchase; it was a hardware
-play. Apple didn't buy themselves an app; they bought them to integrate that "sensing"
+play. Apple didn't buy them an app; they bought them to integrate that "sensing"
 capability into the next generation of smart glasses and AirPods.
 
 This acquisition completes the cycle. You have Tower manufacturing the sensors,
@@ -514,37 +468,3 @@ happen on the edge—on the drone, the phone, or the headset—we decouple
 intelligence from the cloud, moving AI from a service we subscribe to into
 a tool we physically possess. One we can even throw out the window if the
 relationship isn't going so well.
-
-## Does success kill margins?
-
-You might think AI 2.0 taking off would be a slam-dunk for the Israeli market. But the reality is slightly more complex. You see it's only recently that Israel has been targeting the AI 2.0 market. Traditionally, fabs like Tower Semiconductors weren't targeting neuromorphic AI chips - they were building analog sensors, in what is called Specialty Fab.
-
-he semiconductor world is divided into two churches: the Commodity Fab and the Specialty Fab. The Commodity Fab—typified by TSMC, Samsung, and Intel—chases Moore’s Law. Their goal is to shrink transistors to three nanometers, spending twenty billion dollars per factory to print billions of identical digital brains. Their game is scale: making the same chip cheaper and faster than anyone else. The Specialty Fab—typified by Tower Semiconductor—is the domain of the vintage artisan. They use older, paid-off machines to tweak the physics of the silicon itself. They don't make the digital brain; they make the analog senses. They build the sensors that see, the radios that speak, and the power chips that manage energy. Their game is customization: making a unique chip that performs a specific trick perfectly.
-
-For the last decade, this division saved Israel. While Asia fought the brutal price war of the "Digital Brain," Israel quietly enjoyed high margins in the "Analog Niche." But AI 2.0 is about to break this truce. The core promise of AI 2.0 is that intelligence moves to the edge—meaning smart sensors will go from being a niche scientific instrument to being a digital brain found in every toaster, doorbell, and toy car. This creates a massive identity crisis for the Israeli model. When a technology scales from one million units in medical devices to one billion units in consumer IoT, the economics flip. The "Artisan" model collapses, and the "Scale" model takes over. Israel is currently caught in a pincer movement between two different types of floods.
-
-The first flood comes from China. This is not hypothetical; it is happening now. Shut out of the high-end market by U.S. sanctions, China has poured billions into "Legacy Nodes"—the exact technological backyard of Israeli fabs. Chinese state-subsidized fabs like SMIC are currently building massive overcapacity in basic power management and image sensor chips. They are flooding the market with "good enough" sensors at prices no profit-driven company can match. If the AI 2.0 revolution is built upon the same technology as cheap, generic sensors for smart fridges, China too will pivot and Israel could not compete. That market is already gone.
-
-The second flood comes from the other end of the political and logistic spectrum: Taiwan. Historically, TSMC ignored the "specialty" analog market because it was too small to move their needle. That has changed. TSMC has realized that AI needs "Eyes" just as much as "Brains," and they have aggressively expanded their specialty technology division. Analog has become just another item in their arsenal. They effectively offer a "Supermarket Bundle." They can tell a client like NVIDIA, "We are already printing your digital processor; why don't we just print the power and sensor chips on the same wafer for a discount?" This is happening now. Imagine the technology powering the sensor and power circuit also powers the brain. They go from binding two separate technologies into building a single cohesive package on a bridge they've already built. A standalone boutique like Tower struggles to compete with that level of integration efficiency.
-
-Thus far, I've been talking about neuromorphic computers as a commodity - but this _might_ not apply. Commodities are _fungible_. A ton of steel from China is the same as a ton of steel from the US. But a neuromorphic sensor and guidance system for a missile or a heart-rate-temperature sensor is _not fungible_. Even if the Chinese version is 90% cheaper, the US Department of War or a Western Hospital chain cannot buy it due to security risks.
-
-The market therefor, bifurcates. Consumer tech, i.e. the toaster and other IoT devices, will use the cheap Chinese commodity sensors. Israel loses this market. But critical AI, will use "trusted" Israeli/Western sensors. TODO: elaborate on what critical AI is. Israel keeps this market, but it is smaller.
-
-### 4. The "Trust" Premium (The Political Moat)
-
-This is the only reason the "Commodity" rule might not fully apply.
-
-- **The Rule:** Commodities are fungible. A ton of steel from China is the same as a ton of steel from the US.
-- **The Exception:** A neuromorphic sensor for a missile or a pacemaker is **not fungible**. Even if the Chinese version is 90% cheaper, the US Department of Defense or a Western Hospital chain cannot buy it due to security risks.
-- **The Outcome:** The market will **bifurcate**.
-- **Consumer AI (The Toaster):** Will use cheap Chinese commodity sensors. Israel loses this market.
-- **Critical AI (The Drone/Hospital):** Will use "Trusted" Israeli/Western sensors. Israel keeps this market, but it is smaller.
-
-### Verdict
-
-If AI 2.0 succeeds, the "easy" part of the technology (basic sensors) will absolutely commoditize and move to Asia.
-
-Israel’s only move is to **move up the stack**. It cannot just be the "Analog Factory" anymore; it has to become the **"Integration Hub"**—the only place that can stitch the Sensor, the Memory, and the Logic into a single, secure package. If they fail to do that, Tower eventually becomes irrelevant.
-
-## The "critical edge" pivot
