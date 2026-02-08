@@ -529,8 +529,13 @@ The second flood comes from the other end of the political and logistic spectrum
 
 Thus far, I've been talking about neuromorphic computers as a commodity - but this _might_ not apply. Commodities are _fungible_. A ton of steel from China is the same as a ton of steel from the US. But a neuromorphic sensor and guidance system for a missile or a heart-rate-temperature sensor is _not fungible_. Even if the Chinese version is 90% cheaper, the US Department of War or a Western Hospital chain cannot buy it due to security risks.
 
-The market therefor, bifurcates. Consumer tech, i.e. the toaster and other IoT devices, will use the cheap Chinese commodity sensors. Israel loses this market. But critical AI, will use "trusted" Israeli/Western sensors. TODO: elaborate on what critical AI is. Israel keeps this market, but it is smaller.
+The market therefor, bifurcates. Consumer tech, i.e. the toaster and other IoT devices, will use the cheap Chinese commodity sensors. Israel loses this market. But critical AI, will use "trusted" Israeli/Western sensors. Critical AI is defined by the high cost of failure—where "good enough" is a death sentence. It is the intelligence inside a loitering munition that must make a lethal decision in a GPS-denied environment, the medical implant regulating a heart rhythm in real-time, or the autonomous infrastructure controller that cannot risk a "backdoor" in its silicon. In these domains, the provenance of the chip is as important as its performance. Israel keeps this market because for the Department of Defense or a surgical robotics pioneer, a subsidized Chinese chip isn't a bargain; it’s a liability. Israel keeps this market, but it is smaller.
 
+But if you've been paying attention, you'll see that this is actually perfect for Israel. Sure, this market might not have the sheer volume of the consumer world, but it operates on a completely different economic logic: non-fungible value.
+
+The consumer AI market (toasters, toys, generic smart home devices) is a race to the bottom. It is a commodity market where Chinese state-subsidized fabs can dominate because a 5-cent difference in chip price determines the winner. In this world, success kills margins because high volume invites brutal competition and price erosion.
+
+Critical AI—defense systems, implantable medical devices, and sovereign infrastructure—is a "Value" market rather than a "Volume" market. For a missile guidance system or a robotic surgeon, the cost of the chip is a negligible fraction of the total system cost, but the cost of its failure is infinite. This allows Israeli companies to command massive margins that the "Toaster-AI" companies could never dream of.
 ### 4. The "Trust" Premium (The Political Moat)
 
 This is the only reason the "Commodity" rule might not fully apply.
