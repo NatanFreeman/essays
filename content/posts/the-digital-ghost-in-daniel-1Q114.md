@@ -1,5 +1,5 @@
 ---
-title: "The Daniel Paradox: Why Miracles Don't Matter"
+title: "The Digital Ghost in Daniel-1Q114"
 date: 2026-02-08T12:00:00-05:00
 draft: true
 ---
