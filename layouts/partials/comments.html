@@ -18,41 +18,89 @@
     <script type="text/javascript">
         const postId = "{{ .Params.mastodon_post_id }}";
         const instance = "mastodon.social";
+        const username = "natanfreeman";
+        const productionDomain = "NatanFreeman.github.io/essays";
+        const urlPath = window.location.pathname;
 
-        if (postId) {
-            fetch(`https://${instance}/api/v1/statuses/${postId}/context`)
-                .then(response => response.json())
-                .then(data => {
-                    const wrapper = document.getElementById('comments-wrapper');
-                    document.getElementById('mastodon-comments-loading').style.display = 'none';
+        async function loadComments() {
+            const wrapper = document.getElementById('comments-wrapper');
+            const loading = document.getElementById('mastodon-comments-loading');
+            
+            try {
+                let targetId = postId;
 
-                    if (data.descendants && data.descendants.length > 0) {
-                        data.descendants.forEach(reply => {
-                            const comment = document.createElement('div');
-                            comment.className = 'comment';
-                            
-                            const content = DOMPurify.sanitize(reply.content);
-                            
-                            comment.innerHTML = `
-                                <div class="comment-header">
-                                    <img class="comment-avatar" src="${reply.account.avatar}" alt="${reply.account.display_name}">
-                                    <div>
-                                        <div class="comment-author">${reply.account.display_name}</div>
-                                        <div class="comment-meta"><a href="${reply.url}" target="_blank">@${reply.account.acct}</a></div>
-                                    </div>
-                                </div>
-                                <div class="comment-content">${content}</div>
-                            `;
-                            wrapper.appendChild(comment);
-                        });
-                    } else {
-                        wrapper.innerHTML = '<p>No comments yet.</p>';
+                // 1. If no ID, try to find the post by searching the user's statuses
+                if (!targetId) {
+                    const accountResponse = await fetch(`https://${instance}/api/v1/accounts/lookup?acct=${username}`);
+                    const account = await accountResponse.json();
+                    const accountId = account.id;
+
+                    const statusesResponse = await fetch(`https://${instance}/api/v1/accounts/${accountId}/statuses?limit=40`);
+                    const statuses = await statusesResponse.json();
+
+                    // Find a status that contains the production URL path
+                    const match = statuses.find(s => {
+                        const content = s.content || "";
+                        const cardUrl = (s.card && s.card.url) ? s.card.url : "";
+                        
+                        const pathParts = urlPath.split('/').filter(p => p.length > 0);
+                        const slug = pathParts[pathParts.length - 1];
+                        
+                        if (!slug) return false;
+
+                        const foundInContent = content.includes(slug) && content.includes("essays");
+                        const foundInCard = cardUrl.includes(slug);
+
+                        return foundInContent || foundInCard;
+                    });
+
+                    if (match) {
+                        targetId = match.id;
                     }
-                })
-                .catch(err => {
-                    document.getElementById('mastodon-comments-loading').innerText = 'Error loading comments.';
-                    console.error(err);
-                });
+                }
+
+                if (!targetId) {
+                    loading.style.display = 'none';
+                    wrapper.innerHTML = '<p>No linked Mastodon post found for this page.</p>';
+                    return;
+                }
+
+                // Update the link in the footer
+                const postLink = document.querySelector('.comments a.link');
+                if (postLink) postLink.href = `https://${instance}/@${username}/${targetId}`;
+
+                // 2. Fetch comments (context)
+                const contextResponse = await fetch(`https://${instance}/api/v1/statuses/${targetId}/context`);
+                const data = await contextResponse.json();
+
+                loading.style.display = 'none';
+
+                if (data.descendants && data.descendants.length > 0) {
+                    data.descendants.forEach(reply => {
+                        const comment = document.createElement('div');
+                        comment.className = 'comment';
+                        const content = DOMPurify.sanitize(reply.content);
+                        comment.innerHTML = `
+                            <div class="comment-header">
+                                <img class="comment-avatar" src="${reply.account.avatar}" alt="${reply.account.display_name}">
+                                <div>
+                                    <div class="comment-author">${reply.account.display_name}</div>
+                                    <div class="comment-meta"><a href="${reply.url}" target="_blank">@${reply.account.acct}</a></div>
+                                </div>
+                            </div>
+                            <div class="comment-content">${content}</div>
+                        `;
+                        wrapper.appendChild(comment);
+                    });
+                } else {
+                    wrapper.innerHTML = '<p>No comments yet. Be the first to reply on Mastodon!</p>';
+                }
+            } catch (err) {
+                loading.innerText = 'Error loading comments.';
+                console.error(err);
+            }
         }
+
+        loadComments();
     </script>
 </div>
