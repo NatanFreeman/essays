@@ -210,29 +210,28 @@ hardware in a couple years, you might be wasting your time. But if it will take
 decades, then you might not want to wait.
 
 But then this decision _itself_ can create a self-fulfilling prophecy. The
-longer we work on the current technology, the more we are advancing the
-_local maxima_. That is, we improve the technological edge with the
-architectures we use today. But as a result, we get stuck. Even if we _would_
-eventually achieve better performance on different hardware, and reach the
-_global maxima_, we won't get there until we descend down the slope of our
-current progress. The first neuromorphic computers will be worse when going
-head-to-head with a traditional LLM running on an RTX 5090. Nobody wants to go
-backwards.
+longer we work on the current technology, the more we are advancing the _local
+maxima_. That is, we improve the technological edge with the architectures we
+use today. But as a result, we get stuck. Even if we _would_ eventually achieve
+better performance on different hardware, and reach the _global maxima_, we
+won't get there until we descend down the slope of our current progress. The
+first neuromorphic computers will be worse when going head-to-head with a
+traditional LLM running on an RTX 5090. Nobody wants to go backwards.
 
 This stronghold of the GPU is called the "Hardware Lottery". Coined by
-researcher Sara Hooker, the Hardware Lottery argues that a
-research idea (like Engrams or Neuromorphic computing) wins or loses not because
-it is inherently "good" or "bad," but because of its compatibility with
-available hardware. The result is that researchers often abandon superior
-ideas because they don't want to "lose the lottery" by using hardware that
-hasn't been optimized for 20 years.
+researcher Sara Hooker, the Hardware Lottery argues that a research idea (like
+Engrams or Neuromorphic computing) wins or loses not because it is inherently
+"good" or "bad," but because of its compatibility with available hardware. The
+result is that researchers often abandon superior ideas because they don't want
+to "lose the lottery" by using hardware that hasn't been optimized for 20 years.
 
 The way we leave this maximization trap is by developing applications which
-cannot be done with GPUs. For instance, consider a pair of smart
-headphones that must filtering out the roar of a jet engine whilst still allowing human voice to pass through. Or a wearable cardiac
-monitor that must learn the unique, shifting rhythm of a single patient’s heart to detect a one-in-a-million anomaly
-without draining its battery by noon. Finally, consider a loitering drone that
-must navigate a dense forest in real-time, adapting its flight path to a single
+cannot be done with GPUs. For instance, consider a pair of smart headphones that
+must filtering out the roar of a jet engine whilst still allowing human voice to
+pass through. Or a wearable cardiac monitor that must learn the unique, shifting
+rhythm of a single patient’s heart to detect a one-in-a-million anomaly without
+draining its battery by noon. Finally, consider a loitering drone that must
+navigate a dense forest in real-time, adapting its flight path to a single
 fallen branch it has never seen before. Traditional GPUs fail these tasks
 because they are "batch" processors; they require too much power and introduce
 too much latency by constantly shuttling data between separate memory and
@@ -241,7 +240,8 @@ architecture where the memory is the computer, allowing for the
 microsecond-latency and milliwatt-budget that the physical world—and the human
 body—require.
 
-In these applications, it doesn't matter if the newer hardware is "worse" or will take longer to develop, because it is impossible to achieve them otherwise.
+In these applications, it doesn't matter if the newer hardware is "worse" or
+will take longer to develop, because it is impossible to achieve them otherwise.
 
 ## The Silicon Island: Israel’s Sovereign Vertical Integration
 
