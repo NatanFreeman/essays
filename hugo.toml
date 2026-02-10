@@ -1,7 +1,16 @@
 baseURL = 'https://NatanFreeman.github.io/essays/'
 languageCode = 'en-us'
 title = 'Essays by Natan Freeman'
-theme = "ananke"
+theme = "PaperMod"
 
 [params]
   github_repo = "https://github.com/NatanFreeman/essays"
+  defaultTheme = "auto"
+  disableThemeToggle = true
+  DateFormat = "January 2, 2006"
+  disableSpecial1stPost = true
+
+  [params.editPost]
+    URL = "https://github.com/NatanFreeman/essays/blob/main/content"
+    Text = "Suggest Changes"
+    appendFilePath = true
