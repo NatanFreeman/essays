@@ -88,9 +88,7 @@ def main():
     else:
         print("New post detected! Publishing to Mastodon...")
         # Compose the toot
-        status_text = f"{post_title}
-
-{post_link}"
+        status_text = f"{post_title}\n\n{post_link}"
         post_to_mastodon(MASTODON_INSTANCE, ACCESS_TOKEN, status_text)
 
 if __name__ == "__main__":
