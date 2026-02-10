@@ -46,6 +46,14 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}"
 
+      - name: Auto-post to Mastodon
+        env:
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+          MASTODON_INSTANCE: "https://mastodon.social"
+        run: |
+          pip install requests feedparser
+          python scripts/mastodon_publisher.py
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

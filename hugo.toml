@@ -9,6 +9,11 @@ theme = "PaperMod"
   disableThemeToggle = true
   DateFormat = "January 2, 2006"
   disableSpecial1stPost = true
+  comments = true
+
+  [[params.socialIcons]]
+    name = "mastodon"
+    url = "https://mastodon.social/@natanfreeman"
 
   [params.editPost]
     URL = "https://github.com/NatanFreeman/essays/blob/main/content"

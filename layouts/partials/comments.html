@@ -1,0 +1,58 @@
+<div class="comments">
+    <hr>
+    <h3>Comments</h3>
+    <p id="mastodon-comments-loading">Loading comments from the Fediverse...</p>
+    <div id="comments-wrapper"></div>
+    <p>Replies to <a class="link" href="https://mastodon.social/@natanfreeman/{{ .Params.mastodon_post_id }}">this Mastodon post</a> are synchronized here as comments.</p>
+
+    <style>
+        .comment { margin-bottom: 1.5em; border-bottom: 1px solid var(--border); padding-bottom: 1em; }
+        .comment-header { display: flex; align-items: center; margin-bottom: 0.5em; }
+        .comment-avatar { width: 48px; height: 48px; border-radius: 4px; margin-right: 12px; }
+        .comment-author { font-weight: bold; }
+        .comment-content { font-size: 0.95em; }
+        .comment-content p { margin: 0.5em 0; }
+    </style>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.0.6/purify.min.js"></script>
+    <script type="text/javascript">
+        const postId = "{{ .Params.mastodon_post_id }}";
+        const instance = "mastodon.social";
+
+        if (postId) {
+            fetch(`https://${instance}/api/v1/statuses/${postId}/context`)
+                .then(response => response.json())
+                .then(data => {
+                    const wrapper = document.getElementById('comments-wrapper');
+                    document.getElementById('mastodon-comments-loading').style.display = 'none';
+
+                    if (data.descendants && data.descendants.length > 0) {
+                        data.descendants.forEach(reply => {
+                            const comment = document.createElement('div');
+                            comment.className = 'comment';
+                            
+                            const content = DOMPurify.sanitize(reply.content);
+                            
+                            comment.innerHTML = `
+                                <div class="comment-header">
+                                    <img class="comment-avatar" src="${reply.account.avatar}" alt="${reply.account.display_name}">
+                                    <div>
+                                        <div class="comment-author">${reply.account.display_name}</div>
+                                        <div class="comment-meta"><a href="${reply.url}" target="_blank">@${reply.account.acct}</a></div>
+                                    </div>
+                                </div>
+                                <div class="comment-content">${content}</div>
+                            `;
+                            wrapper.appendChild(comment);
+                        });
+                    } else {
+                        wrapper.innerHTML = '<p>No comments yet.</p>';
+                    }
+                })
+                .catch(err => {
+                    document.getElementById('mastodon-comments-loading').innerText = 'Error loading comments.';
+                    console.error(err);
+                });
+        }
+    </script>
+</div>
