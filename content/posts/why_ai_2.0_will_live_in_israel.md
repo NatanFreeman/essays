@@ -187,27 +187,63 @@ ecosystem. This isn't a company – it's an entire industry. And the one place
 where this industry is being developed is Israel.
 
 ## The Daniel dilemma
-Recently, I was discussing this very issue with Doctor Daniel Szenogovski. But we came to a bit of an impasse. Even if we allow that the future of AI is not in copper and GPUs, does that mean we should stop all efforts to embed biological features into our current hardware?
 
-This dilemma is a fundamental tension in the history of technology. Is it worth investing in cheaper film when digital cameras are on the horizon? Am I wasting my time making floppier floppy disks when IBM is developing their next generation of hard drives?
+Recently, I was discussing this very issue with Dr. Daniel Szenogovski. But we
+came to a bit of an impasse. Even if we allow that the future of AI is not in
+copper and GPUs, does that mean we should stop all efforts to embed biological
+features into our current hardware?
 
-I suppose it depends what your goals are. If you believe we must prove that biological features "work" using the current hardware, I would be skeptical. After all, we already have many biological brains in nature. I am not sure we need a digital model when we already have the brain of say a fly for example, which is proven to work and consumes only a few microwatts.
+This dilemma is a fundamental tension in the history of technology. Is it worth
+investing in cheaper film when digital cameras are on the horizon? Am I wasting
+my time making floppier floppy disks when IBM is developing their next
+generation of hard drives?
 
-If you wish to get some of the benefits of biological models without having to wait for a hardware shift, it's a matter of timelines. If we have neuromorphic hardware in a couple years, you might be wasting your time. But if it will take decades, then you might not want to wait.
+I suppose it depends what your goals are. If you believe we must prove that
+biological features "work" using the current hardware, I would be skeptical.
+After all, we already have many biological brains in nature. I am not sure we
+need a digital model when we already have the brain of say a fly for example,
+which is proven to work and consumes only a few microwatts.
 
-But then this decision itself can create a self-fulfilling prophecy. You see the longer we work on the current technology, the more we are advancing the _local maxima_. That is, we improve the technological edge with the architectures we use today. But as a result, we get stuck. Even if we _would_ eventually achieve better performance on different hardware, and reach the _global maxima_, we won't get there until we decent down the slope of our current progress. The first neuromorphic computers will be worse when going head-to-head with a traditional LLM running on an RTX5090. Nobody wants to go backwards.
+If you wish to get some of the benefits of biological models without having to
+wait for a hardware shift, it's a matter of timelines. If we have neuromorphic
+hardware in a couple years, you might be wasting your time. But if it will take
+decades, then you might not want to wait.
+
+But then this decision itself can create a self-fulfilling prophecy. You see the
+longer we work on the current technology, the more we are advancing the
+_local maxima_. That is, we improve the technological edge with the
+architectures we use today. But as a result, we get stuck. Even if we _would_
+eventually achieve better performance on different hardware, and reach the
+_global maxima_, we won't get there until we descend down the slope of our
+current progress. The first neuromorphic computers will be worse when going
+head-to-head with a traditional LLM running on an RTX 5090. Nobody wants to go
+backwards.
 
 This stronghold of the GPU is called the "Hardware Lottery". Coined by
 researcher Sara Hooker, the Hardware Lottery argues that a
 research idea (like Engrams or Neuromorphic computing) wins or loses not because
 it is inherently "good" or "bad," but because of its compatibility with
-available hardware. The result is that researchers often abandon superior ideas because they don't want to
-"lose the lottery" by using hardware that hasn't been optimized for 20 years.
+available hardware. The result is that researchers often abandon superior
+ideas because they don't want to "lose the lottery" by using hardware that
+hasn't been optimized for 20 years.
 
-The way we leave this maximization trap is by developing applications which cannot be done with GPUs. For instance, consider a pair of "intelligent" headphones that must perform real-time acoustic isolation—filtering out the roar of a jet engine while instantly allowing the specific frequency of a human voice to pass through. Or a wearable cardiac monitor that must learn the unique, shifting rhythm of a single patient’s heart to detect a one-in-a-million anomaly without draining its battery by noon. Finally, consider a loitering drone that must navigate a dense forest in real-time, adapting its flight path to a single fallen branch it has never seen before. Traditional GPUs fail these tasks because they are "batch" processors; they require too much power and introduce too much latency by constantly shuttling data between separate memory and compute units. These real-world, "always-on" scenarios demand a hardware architecture where the memory is the computer, allowing for the microsecond-latency and milliwatt-budget that the physical world—and the human body—require.
+The way we leave this maximization trap is by developing applications which
+cannot be done with GPUs. For instance, consider a pair of "intelligent"
+headphones that must perform real-time acoustic isolation—filtering out the roar
+of a jet engine while instantly allowing the specific frequency of a human voice
+to pass through. Or a wearable cardiac monitor that must learn the unique,
+shifting rhythm of a single patient’s heart to detect a one-in-a-million anomaly
+without draining its battery by noon. Finally, consider a loitering drone that
+must navigate a dense forest in real-time, adapting its flight path to a single
+fallen branch it has never seen before. Traditional GPUs fail these tasks
+because they are "batch" processors; they require too much power and introduce
+too much latency by constantly shuttling data between separate memory and
+compute units. These real-world, "always-on" scenarios demand a hardware
+architecture where the memory is the computer, allowing for the
+microsecond-latency and milliwatt-budget that the physical world—and the human
+body—require.
 
 In these applications, it doesn't matter if the newer hardware is "worse" or will take longer to develop, because it is impossible to achieve them otherwise.
-
 
 ## The Silicon Island: Israel’s Sovereign Vertical Integration
 
@@ -234,7 +270,7 @@ creating the fabless revolution.
 Israel's
 [NEMO (Neuromorphic Embedded computing architecture for Mobile applications) consortium](https://amsg.technion.ac.il/nemo-consortium/)
 mirrors this history, but with a modern, critical evolution. Backed heavily by
-the Israel Innovation Authority (IIA)—the Zionist equivalent of Taiwan's
+the Israel Innovation Authority (IIA)—the Israeli equivalent of Taiwan's
 ITRI—NEMO is not just a funding grant; it is a forced marriage of industry
 rivals, academic researchers, and defense contractors. The IIA provides the
 "risk money," covering a massive percentage of R&D costs (often up to 66% with
