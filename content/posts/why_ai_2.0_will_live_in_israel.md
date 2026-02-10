@@ -186,85 +186,28 @@ lithographic nodes needs to be thought out and developed in a cohesive
 ecosystem. This isn't a company – it's an entire industry. And the one place
 where this industry is being developed is Israel.
 
-## The film dilemma
+## The Daniel dilemma
+Recently, I was discussing this very issue with Doctor Daniel Szenogovski. But we came to a bit of an impasse. Even if we allow that the future of AI is not in copper and GPUs, does that mean we should stop all efforts to embed biological features into our current hardware?
 
-discuss conversation had with Daniel Szenogovski about the local vs global
-maxima
+This dilemma is a fundamental tension in the history of technology. Is it worth investing in cheaper film when digital cameras are on the horizon? Am I wasting my time making floppier floppy disks when IBM is developing their next generation of hard drives?
 
-You’ve hit on a fundamental tension in the history of technology. While there
-isn't one single name for this dilemma, it is usually discussed through three
-specific frameworks depending on whether you are talking about the research, the
-economics, or the mathematics.
+I suppose it depends what your goals are. If you believe we must prove that biological features "work" using the current hardware, I would be skeptical. After all, we already have many biological brains in nature. I am not sure we need a digital model when we already have the brain of say a fly for example, which is proven to work and consumes only a few microwatts.
 
-1. The Hardware Lottery
+If you wish to get some of the benefits of biological models without having to wait for a hardware shift, it's a matter of timelines. If we have neuromorphic hardware in a couple years, you might be wasting your time. But if it will take decades, then you might not want to wait.
 
-This is the most precise term for your dilemma within the AI field. Coined by
-researcher Sara Hooker, the Hardware Lottery describes the phenomenon where a
+But then this decision itself can create a self-fulfilling prophecy. You see the longer we work on the current technology, the more we are advancing the _local maxima_. That is, we improve the technological edge with the architectures we use today. But as a result, we get stuck. Even if we _would_ eventually achieve better performance on different hardware, and reach the _global maxima_, we won't get there until we decent down the slope of our current progress. The first neuromorphic computers will be worse when going head-to-head with a traditional LLM running on an RTX5090. Nobody wants to go backwards.
+
+This stronghold of the GPU is called the "Hardware Lottery". Coined by
+researcher Sara Hooker, the Hardware Lottery argues that a
 research idea (like Engrams or Neuromorphic computing) wins or loses not because
 it is inherently "good" or "bad," but because of its compatibility with
-available hardware.
-
-The Dilemma: If you write software for the "Digital Camera" (Neuromorphic
-hardware) before it exists, your results look terrible compared to the "Film
-Tape" (GPUs).
-
-The Result: Researchers often abandon superior ideas because they don't want to
+available hardware. The result is that researchers often abandon superior ideas because they don't want to
 "lose the lottery" by using hardware that hasn't been optimized for 20 years.
 
-2. S-Curve Discontinuity (The "Bridge" Problem)
+The way we leave this maximization trap is by developing applications which cannot be done with GPUs. For instance, consider a pair of "intelligent" headphones that must perform real-time acoustic isolation—filtering out the roar of a jet engine while instantly allowing the specific frequency of a human voice to pass through. Or a wearable cardiac monitor that must learn the unique, shifting rhythm of a single patient’s heart to detect a one-in-a-million anomaly without draining its battery by noon. Finally, consider a loitering drone that must navigate a dense forest in real-time, adapting its flight path to a single fallen branch it has never seen before. Traditional GPUs fail these tasks because they are "batch" processors; they require too much power and introduce too much latency by constantly shuttling data between separate memory and compute units. These real-world, "always-on" scenarios demand a hardware architecture where the memory is the computer, allowing for the microsecond-latency and milliwatt-budget that the physical world—and the human body—require.
 
-In innovation management, your film-to-digital analogy is described as jumping
-between two S-Curves.
+In these applications, it doesn't matter if the newer hardware is "worse" or will take longer to develop, because it is impossible to achieve them otherwise.
 
-S-Curve 1 (The GPU/Transformer): It is at the top of its curve. Every dollar
-spent only yields a tiny bit more performance. It’s reaching the "plateau" you
-mentioned.
-
-S-Curve 2 (Neuromorphic/Engram): It is at the very bottom. It currently performs
-worse than the old tech, but its theoretical ceiling is 1,000x higher.
-
-The dilemma you are describing is the "Bridging the Chasm" problem: Is it worth
-being the person who builds the "shitty" early version of the new tech to prove
-it works, knowing that you will be mocked for having worse performance than the
-old tech?
-
-3. The Local Maxima vs. Global Maxima
-
-This is the mathematical term for your dilemma.
-
-Local Maxima: We have optimized the GPU/Transformer architecture so much that it
-is the "highest hill" in the immediate area.
-
-Global Maxima: There is a "mountain" (biological-level efficiency) much further
-away.
-
-To get to the mountain, you have to first walk down the hill. Walking down the
-hill looks like a "regression" or "worse performance." Most researchers and
-companies (NVIDIA, Google, etc.) are terrified of walking down the hill because
-their stock prices or grant funding depend on "line go up."
-
-4. Path Dependency
-
-This is the socioeconomic term. It describes how a decision made in the past
-(deciding to use GPUs for graphics in the 90s) "locks" us into a specific path.
-Because we have trillions of dollars in GPU infrastructure, we are path
-dependent.
-
-The author of the paper is essentially trying to "break" the path dependency by
-writing software that doesn't belong on a GPU, hoping it will force the hand of
-hardware designers.
-
-Summary
-
-In the context of your email, you are arguing that the author is trying to
-"Software-bridge" a Hardware Gap.
-
-You are right that the "Hypothesis" argument (learning about brains) is somewhat
-redundant for engineering, but for the author, the "Engram" is likely his way of
-building a map for the day the hardware finally changes. He is betting that when
-we finally "move on from the GPU," the winner won't be the person with the most
-compute, but the person with the best "map" of how biological memory actually
-functions.
 
 ## The Silicon Island: Israel’s Sovereign Vertical Integration
 

@@ -1,7 +1,7 @@
 ---
 title: "The Daniel Paradox: Why Miracles Don't Matter"
 date: 2026-02-08T12:00:00-05:00
-draft: false
+draft: true
 ---
 
 ## The Digital Ghost
@@ -96,12 +96,12 @@ of Daniel himself**.
 
 Various voices in the scholarly world expressed a variety of levels of
 skepticism. But the consensus was the same. The book of Daniel wasn't
-written *before* the events he described. Either we got super lucky with
+written _before_ the events he described. Either we got super lucky with
 an early copy or the AI was mistaken. The goalposts had moved.
 
 I worry the reader might get the impression here that I am claiming that
 these world-renowned experts are wrong - but that is not my point at
-all. In fact, the model probably *is* incorrect. My point is that it
+all. In fact, the model probably _is_ incorrect. My point is that it
 doesn't matter if Daniel 11 was written before the events it described.
 Academics could never accept it.
 
@@ -110,8 +110,8 @@ never-before-seen Dead Sea Scrolls was discovered. And in that cave, we
 found fragments of Daniel which are carbon-dated and proven to have been
 written before the second century BCE. What do you think would happen?
 Do you think they would admit that Daniel predicted the future and that
-academia was wrong? Of course not. They would find some reason, *any
-reason* to discredit the text. They would claim that the unique
+academia was wrong? Of course not. They would find some reason, _any
+reason_ to discredit the text. They would claim that the unique
 characteristics of the cave mean carbon dating cannot be relied on. Or
 that the parchment was old but the actual text is new or written over.
 Some might even claim that yes, Daniel predicted events with great
@@ -123,7 +123,7 @@ facts and coming to the most likely conclusions - they can't. They're
 not allowed to. There is a central dogma preventing them from reaching
 the truth, and that is the disbelief in miracles.
 
-Academia at large is founded on the belief of *naturalism*. That is, the
+Academia at large is founded on the belief of _naturalism_. That is, the
 secular religion that claims that all phenomena operates as a closed
 system of cause and effect, governed entirely by natural laws. In this
 framework, the "natural" world is all that exists; there is no
@@ -136,7 +136,7 @@ simple reason that absence of evidence is not evidence of absence. And
 here the absence itself is being question. Yet it continues to exist
 because it fills a purpose. Scholars are terrified of what they call the
 "God of the Gaps." They believe that if they allow a miracle in
-*Daniel*, then they have to allow it for every other ancient text. If
+_Daniel_, then they have to allow it for every other ancient text. If
 Daniel predicted the future, maybe the Oracle at Delphi did too? Maybe
 every supernatural claim in history is back on the table? They view
 "paranoia" as a necessary firewall. If they let one "impossible"
@@ -149,10 +149,10 @@ L Effect.
 ## The "L" Protocol
 
 In November 2006, a fictional high school student known as Light Yagami
-picks up a book known as the *Death Note*. He discovers that by writing
+picks up a book known as the _Death Note_. He discovers that by writing
 a person's name in the book he can cause them to shortly die under any
 circumstance. He learns that these Death Notes are granted by
-*Shinigamis*, gods of death who regulate the rules of these devices.
+_Shinigamis_, gods of death who regulate the rules of these devices.
 Light uses the Death Note to enact his vision for the world by killing
 any convict or innocent person who opposes him. A world-class detective
 known as "L" is put in charge of investigating the killings. He crosses
@@ -162,7 +162,7 @@ Light for being the killer.
 So why does the synopsis for a fictional TV show matter for my synopsis?
 Because L provides us a unique character study. L is put in an otherwise
 naturalistic world in which his entire career is built off explaining
-the unexplainable. But when he eventually finds out that *gods of death*
+the unexplainable. But when he eventually finds out that _gods of death_
 are real, he doesn't have a life crisis. When he first learns evidence
 of them, he is visibly shaken but concludes that there must be something
 else at play. When he finally sees one face-to-face, he uses it as
@@ -220,7 +220,7 @@ with the materials that we have."
 It is worth noting just how mystified the National Intelligence agency
 was over these reports. They list potential explanations, in which every
 possibility save for aliens or angles is detailed. They even raise the
-possibility that a different department of the *same country* might be
+possibility that a different department of the _same country_ might be
 responsible. The fact they are willing to entertain internal secrecy and
 miscommunication speaks for itself.
 
@@ -271,8 +271,8 @@ continue living our lives.
 I have criticised the academic community, but the believers are arguable
 worse off. They have their own agenda as well. It's just on the opposite
 side of the spectrum. The skeptic doesn't just want to be a historian;
-he wants to be the guy who *debunked* God. Whereas the believer doesn't
-just want to follow the Torah; he wants to be the guy who *proved* God.
+he wants to be the guy who _debunked_ God. Whereas the believer doesn't
+just want to follow the Torah; he wants to be the guy who _proved_ God.
 Every believer who talks about Daniel 1Q114 needs it to be true. But
 that's not what God ever wanted.
 
@@ -292,13 +292,13 @@ In Deuteronomy 13 Moses warns us of this exact phenomenon.
 By establishing that any miracle could simply be a test, Moses is
 teaching us that we cannot use miracles as a burden of proof. Daniel
 being a miracle doesn't mean it's true, because it could simply be a
-test from God. Conversely, Daniel *not* being a miracle *also* doesn't
+test from God. Conversely, Daniel _not_ being a miracle _also_ doesn't
 matter - your faith should not be based on miracles in the first place.
 It should be based on loving Yehovah with all your heart and all your
 soul.
 
 Just look at the Israelites in the dessert. They had indisputable
-evidence that God exists and is helping them, yet they *still* rebelled
+evidence that God exists and is helping them, yet they _still_ rebelled
 and were disobedient. A miracle is a "test," not a "proof." If your
 faith relies on carbon dating a scroll, you have missed the point of
 your own religion.
@@ -345,7 +345,7 @@ evicted the previous tenants and moved you in."
 If the eviction (Exodus) never happened, the Landlord is a squatter. If
 the prophecy (Daniel) is a fake, the Landlord is a con artist.
 
-This all makes Daniel 1Q114 even *worse*. If the Biblical framework is a
+This all makes Daniel 1Q114 even _worse_. If the Biblical framework is a
 "closed-circuit" system. It provides no external "exit" for logic.
 If the AI proves the miracle of Daniel is physical fact, it doesn't
 just provide a "sign"; it provides Evidence of Character.
@@ -521,19 +521,19 @@ into a state of permanent loyalty.
 Except, this doesn't happen. Daniel is a failed prophet. He, the wisest
 of the wise, ends his book not in a state of enlightened triumph, but in
 a state of exhaustion and confusion. Throughout the entire book, Daniel
-is beat over the head with increasing detail on *one prophecy*. He keeps
+is beat over the head with increasing detail on _one prophecy_. He keeps
 asking for elaboration, but the details he cares about are never
 explained.
 
 In the text, Daniel's distress is never about the "big
 picture"---he's already been shown that God wins in the
-end. His burning question is: *"How long until the end of these
-vision-terrors?"*[^16] [^17] Daniel isn't looking for a date on a
+end. His burning question is: _"How long until the end of these
+vision-terrors?"_[^16] [^17] Daniel isn't looking for a date on a
 calendar; he is asking how much more his people have to bleed before the
 "breaking of the power of the holy people"[^18] is finished. The Angel,
-the *digital ghost*, only answers in riddles ("time, times, and half a
-time"), which is why Daniel snaps back in *"I heard, but I did not
-understand."*[^19]
+the _digital ghost_, only answers in riddles ("time, times, and half a
+time"), which is why Daniel snaps back in _"I heard, but I did not
+understand."_[^19]
 
 He is looking for a practical survival guide for a spiritual genocide,
 but the Angel keeps pivoting back to grand, cosmic imagery or vague
@@ -547,7 +547,7 @@ spoken---1,290 (days?), then 1,335 days.
 ## Daniel 12 doesn't happen
 
 What's remarkable about Daniel isn't the prophecy that came to pass,
-it's the one that *didn't*. Whilst Daniel 11 is remarkably accurate and
+it's the one that _didn't_. Whilst Daniel 11 is remarkably accurate and
 detailed
 
 TODO: talk about how Daniel 12 starting in he middle of prophecy is
@@ -561,7 +561,7 @@ Maccabean revolt and the fact that the "Kingdom" wouldn't actually
 arrive.
 
 It's funny, I initially coined "digital ghost" as a metaphor, but Daniel
-actually *sees* it. And it confuses him immensely. No less than it
+actually _sees_ it. And it confuses him immensely. No less than it
 confuses us.
 
 He tried the lie of the Garden, and it failed. He tried the raw truth of
@@ -609,24 +609,23 @@ weird, and reality is "open."
 
 **The Isaiah Prophecy:** "The Earth will be filled with the knowledge
 of the Lord." This isn't a utopia. It's a return to the
-*mundane*. God will be as obvious as gravity---and just as easy to
+_mundane_. God will be as obvious as gravity---and just as easy to
 ignore if you want to.
 
 ## Conclusion: The Choice
 
--   **Summary:** The date of Daniel doesn't matter in the way we think
-    it does.
+- **Summary:** The date of Daniel doesn't matter in the way we think
+  it does.
+  - If it's 164 BC, it's a story of hope.
 
-    -   If it's 164 BC, it's a story of hope.
+  - If it's 600 BC, it's a fact of the
+    universe.
 
-    -   If it's 600 BC, it's a fact of the
-        universe.
-
--   **Final Thought:** The "Miracle" is not that a man predicted the
-    future. The "Miracle" is that we have the freedom to look at the
-    truth---whether it's a prophecy, an alien, or a God---and decide
-    for ourselves what to do with it. The evidence will never force us
-    to be good. That part is up to us.
+- **Final Thought:** The "Miracle" is not that a man predicted the
+  future. The "Miracle" is that we have the freedom to look at the
+  truth---whether it's a prophecy, an alien, or a God---and decide
+  for ourselves what to do with it. The evidence will never force us
+  to be good. That part is up to us.
 
 ## Part II: The Architecture of Silence
 
@@ -665,18 +664,18 @@ event in 2026, we would be "The Stupid"---slaves to a schedule rather
 than masters of our own morality.
 
 **The Verdict:** God didn't "give up" on the world; He gave up on
-*coercion*.
+_coercion_.
 
 ### Chapter 10: "The Stupid" vs. "The Wise" (A New Definition)
 
-**The Traditional Definition:** The "Wise" (*Maskilim*) are those who
+**The Traditional Definition:** The "Wise" (_Maskilim_) are those who
 understand the 490-year math.
 
 **The New Reality:** The "Stupid" are those who only agree when they
 are being lied to or dazzled by signs.
 
 **The True Wise:** Redefining wisdom as the ability to act righteously
-*without* a roadmap. It's the three friends in the furnace
+_without_ a roadmap. It's the three friends in the furnace
 saying "Even if He doesn't."
 
 **The Shift:** Moving from "I obey because it's
@@ -713,7 +712,7 @@ read the "Natural Logic" ourselves.
 
 **The Final Scene:** Return to Daniel in the Lion's Den.
 The miracle wasn't that the lions didn't eat him; the miracle was that
-Daniel went into the den *before* he knew the lions wouldn't eat him.
+Daniel went into the den _before_ he knew the lions wouldn't eat him.
 
 **The Choice Revisited:** We are currently in the 2,000-year "Gap." We
 can spend it trying to fix the old maps, or we can realize the map was
@@ -726,7 +725,8 @@ silence is the truth that sets us free."
 
 [^2]: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323185
 
-[^3]: Collins, John J. Daniel: A Commentary on the Book of Daniel.
+[^3]:
+    Collins, John J. Daniel: A Commentary on the Book of Daniel.
     Hermeneia. Minneapolis: Fortress Press, 1993.
 
 [^4]: Citation needed
