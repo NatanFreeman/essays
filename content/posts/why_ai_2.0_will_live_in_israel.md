@@ -209,7 +209,7 @@ wait for a hardware shift, it's a matter of timelines. If we have neuromorphic
 hardware in a couple years, you might be wasting your time. But if it will take
 decades, then you might not want to wait.
 
-But then this decision itself can create a self-fulfilling prophecy. You see the
+But then this decision _itself_ can create a self-fulfilling prophecy. The
 longer we work on the current technology, the more we are advancing the
 _local maxima_. That is, we improve the technological edge with the
 architectures we use today. But as a result, we get stuck. Even if we _would_
@@ -228,11 +228,9 @@ ideas because they don't want to "lose the lottery" by using hardware that
 hasn't been optimized for 20 years.
 
 The way we leave this maximization trap is by developing applications which
-cannot be done with GPUs. For instance, consider a pair of "intelligent"
-headphones that must perform real-time acoustic isolation—filtering out the roar
-of a jet engine while instantly allowing the specific frequency of a human voice
-to pass through. Or a wearable cardiac monitor that must learn the unique,
-shifting rhythm of a single patient’s heart to detect a one-in-a-million anomaly
+cannot be done with GPUs. For instance, consider a pair of smart
+headphones that must filtering out the roar of a jet engine whilst still allowing human voice to pass through. Or a wearable cardiac
+monitor that must learn the unique, shifting rhythm of a single patient’s heart to detect a one-in-a-million anomaly
 without draining its battery by noon. Finally, consider a loitering drone that
 must navigate a dense forest in real-time, adapting its flight path to a single
 fallen branch it has never seen before. Traditional GPUs fail these tasks
