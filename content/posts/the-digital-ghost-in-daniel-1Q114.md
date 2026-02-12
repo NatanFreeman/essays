@@ -548,11 +548,15 @@ spoken---1,290 (days?), then 1,335 days.
 
 We might expect the resurrection to be strategic misdirection, but the most haunting part of the ghost are the aforementioned "errors" at the end of Chapter 11 (the Egyptian campaign and the death in Judea). Why would Yehovah give such detailed prophecy just to throw a curve-ball at the end? I argue that these aren't just mistakes—they are Strategic Disinformation.
 
-Why? Think about it. If the prophecy remained 100% accurate until the very end, the Jews would have just waited for Antiochus to die. They would have stayed in their homes, looked at their watches (sundials?), and said, "The book says he dies in Persia next Tuesday, no need to fight!"
+Think about it. If the prophecy remained 100% accurate until the very end, the Jews would have just waited for Antiochus to die. They would have stayed in their homes, looked at their watches (sundials?), and said, "The book says he dies in Persia next Tuesday, no need to fight!"
 
 By "predicting" a final, terrifying invasion of Egypt and a final battle in Judea, God creates a sense of immediate, existential crisis. He lies about the geography of the death to bring the threat home. He moves the tyrant's deathbed from distant Persia to the Judean doorstep to force the Israelites to pick up their swords.
 
 This is the next tactic that God employs. Advanced, high-fidelity lying. It was the only pivot left that could actually work. Obvious lying failed at the Garden in Eden, honesty had failed at Sinai, vague riddles had been ignored by the Kings. but a "Verified Lie" offered a psychological leverage that the truth never could. By 164 BCE, the Jewish identity was facing a total, Hellenistic erasure. God didn't need a people who were right about the facts; He needed a people who were willing to die for the covenant.
+
+Now here's the million shekel question: did this pivot work? The answer is overwhelmingly... yes! In fact, it worked _too well_. TODO: talk about how this prophecy inspired and lead to the success of the Maccabees. Remind the reader that it worked so well that as aforementioned, scholars think it was written by the Maccabees
+
+TODO: talk about why the Maccabees were bad actually and how the jews used this same philosophy to revolt against the Romans
 
 TODO: introduce the "final" pivot: silence
 
