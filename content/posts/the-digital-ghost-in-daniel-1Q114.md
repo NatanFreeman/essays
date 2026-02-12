@@ -544,7 +544,7 @@ sealed."[^20] The Angel refuses to give him the narrative closure he
 craves, offering instead a cryptic timeline that shifts even as it is
 spoken---1,290 (days?), then 1,335 days.
 
-## Daniel 11 doesn't happen
+## The final pivot
 
 We might expect the resurrection to be strategic misdirection, but the most haunting part of the ghost are the aforementioned "errors" at the end of Chapter 11 (the Egyptian campaign and the death in Judea). Why would Yehovah give such detailed prophecy just to throw a curve-ball at the end? I argue that these aren't just mistakes—they are Strategic Disinformation.
 
@@ -554,24 +554,17 @@ By "predicting" a final, terrifying invasion of Egypt and a final battle in Jude
 
 This is the next tactic that God employs. Advanced, high-fidelity lying. It was the only pivot left that could actually work. Obvious lying failed at the Garden in Eden, honesty had failed at Sinai, vague riddles had been ignored by the Kings. but a "Verified Lie" offered a psychological leverage that the truth never could. By 164 BCE, the Jewish identity was facing a total, Hellenistic erasure. God didn't need a people who were right about the facts; He needed a people who were willing to die for the covenant.
 
-Now here's the million shekel question: did this pivot work? The answer is overwhelmingly... yes! In fact, it worked _too well_. The "lie" acted as a frantic call to arms. It transformed a terrified population into the Hammer of God. TODO: talk about the rise of the Hasmoneans
+Now here's the million shekel question: did this pivot work? The answer is overwhelmingly... yes! In fact, it worked too well. The "lie" acted as a frantic call to arms. It transformed a terrified population into the Hammer of God. The Maccabees didn't calculate the odds of a guerrilla insurgency against a global superpower; they calculated that they were the protagonists of the final chapter of history. Because they believed the "abomination of desolation" was the immediate prelude to the End, they fought with a desperation that logic could not dictate. They weren't fighting for territory; they were fighting to survive the apocalypse. And against all rational expectations, they won.
 
-But there is a terrible cost to this kind of success. The "Daniel pivot" was designed to create a crisis mentality, to convince the "wise" that they were living in the absolute End Times. When you believe you are the generation of the final judgment, the generation that God personally maneuvered into victory, a dangerous psychological shift occurs: you stop viewing yourself as a servant of the Law and start viewing yourself as the *exception* to it.
+But there is a terrible cost to this kind of success. The "Daniel pivot" was designed to create a crisis mentality, to convince the "wise" that they were living in the absolute End Times. When you believe you are the generation of the final judgment, the generation that God personally maneuvered into victory, a dangerous psychological shift occurs: you stop viewing yourself as a servant of the Law and start viewing yourself as the exception to it.
 
-The Hasmoneans, the dynasty descended from the Maccabees, fell into this exact trap. They didn't become Hellenists by worshipping Zeus, but they became Hellenists by adopting the Greek political philosophy of absolute power, directly violating the "constitutional" laws of the Torah they had just fought to save.
+The Hasmoneans, the dynasty descended from the Maccabees, fell into this exact trap. Whatever spiritual high ground the revolt held was lost almost immediately. The Torah is explicitly clear on the separation of powers: the King must be from the tribe of Judah, and the Priest from the tribe of Levi.[^21]  The two offices were never to meet in one man. Yet the Hasmoneans, drunk on their own miraculous victory, looked at the Law and shrugged. They crowned themselves King and High Priest, consolidating absolute religious and military authority into a single, terrifying autocracy.
 
-TODO: talk about how terrible the Hasmoneans were and how they were no better than the Hellenists they fought against
+With this centralization of power, it didn't take long for the saviors of Judaism to become indistinguishable from the Greek tyrants they had replaced. Take Aristobulus I, the grandson of the revolt. Upon taking power, he didn't restore the sanctity of the Temple; he threw his own mother into prison and let her starve to death so she wouldn't challenge his authority, before murdering his own brother. Or look at John Hyrcanus, who did something even Antiochus never achieved: he forced the Idumeans to convert to Judaism at the tip of a spear. The victims of forced assimilation had become the perpetrators of it within two generations. They adopted Greek names, hired foreign mercenaries, and played the game of thrones just like the pagans. In their desperate bid to "save" the Jewish state, they destroyed the Jewish soul. They had become the new Antiochus, just with a kosher certification.
 
-The Torah is explicitly built on a Separation of Powers. It demands a King from the tribe of Judah (Political Authority)[^21] and a Priest from the tribe of Levi (Religious Authority). These two lines are never meant to cross. The King cannot offer incense, and the Priest cannot wear the Crown. This is the fail-safe mechanism of the Hebrew Republic to prevent totalitarianism.
-
-But the Hasmoneans, drunk on the narrative that *they* were the saviors of Israel predicted by Daniel, decided that the rules didn't apply to them. They were Levites, yet they crowned themselves Kings.
-xBy consolidating the Crown and the Mitre into a single office, they became exactly what the Greeks were: Theocratic Autocrats. They essentially declared that since God used them to save the Torah, they owned the Torah.
-
-This is why the "Lying God" didn't show up for the Roman revolt. The "Daniel Pivot" had succeeded in saving the *text* of the Torah, but it produced a leadership class that was structurally incapable of obeying it. The Hasmoneans proved that if you give a "Holy People" a miraculous military victory based on a messianic prophecy, they won't build a Kingdom of Heaven. They'll just build a standard, corrupt Near-Eastern dictatorship with a kosher stamp on it.
+This is why the "Lying God" didn't show up for the Roman revolt. The "Daniel Pivot" had succeeded in saving the *text* of the Torah, but it produced a leadership class that was structurally incapable of obeying it. The Hasmoneans proved that if you give a "Holy People" a miraculous military victory based on a messianic prophecy, they won't build a Kingdom of Heaven.
 
 So when the Zealots tried to trigger the "Daniel Algorithm" again in 66 CE—hoping for another miracle to drive out Rome—God stayed silent. He knew that even if they won, they would just recreate the Hasmonean disaster. The software (the Jewish Soul) could not run on the hardware (the Sovereign State) without crashing. The only move left was to burn the hardware down.
-
-[^21]: Genesis 49:10: "The scepter shall not depart from Judah, nor the ruler’s staff from between his feet..."
 
 TODO: introduce the "final" pivot: silence
 
@@ -823,3 +816,5 @@ silence is the truth that sets us free."
 [^19]: Daniel 12:8
 
 [^20]: Daniel 12:8
+
+[^21]: Genesis 49:10: "The scepter shall not depart from Judah, nor the ruler’s staff from between his feet..."
