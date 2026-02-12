@@ -583,11 +583,13 @@ Because Daniel wasn't a cynical politician who could be trusted with a "noble li
 
 Pragmatism creates survivors, while only lies create martyrs. You cannot ask a man to walk into a sword for a "useful myth." A "survival strategy" is not worth a human life; in fact, the most logical survival strategy in 164 BCE _was_ to simply eat the pork, bow to the Greek gods, and wait for the storm to pass.
 
-TODO: explain the concept of hierarchy in religion. Use the child and the parent as an analogy
+This brings us to the fundamental architecture of faith: Hierarchy. The structure of religion, like the structure of a family, relies entirely on a vertical inequality. A parent cannot raise a child by being their "friend" or their "equal"; they must be a giant. When a father tells his son not to touch the stove, he doesn't explain the thermodynamics of heat transfer or the cost of skin grafts. He creates a taboo. He speaks with the voice of a localized god.
 
-If the "Wise" knew they were being manipulated for the sake of the "collective spirit," they would have realized that they were the ones creating God, rather than God creating them. The hierarchy would have flipped, and the religious impulse would have turned into a social club. To prevent the Wise from realizing they were the ones holding the puppet strings—He had to maintain the illusion of His own absolute, objective, and sometimes terrifying authority. He lied because He would rather be a 'Landlord' who is feared and misunderstood than a 'Service Provider' who is managed and eventually replaced.
+If the parent were to admit, "I am only telling you this because I am anxious and I need you to survive for my own emotional well-being," the hierarchy collapses. The child realizes the parent is just another vulnerable human. The awe vanishes, replaced by pity or contempt. The child ceases to be a dependent and becomes a peer—and peers do not obey; they negotiate.
 
-TODO: introduce functionalism
+The same logic applies to the "Wise." If they knew they were being manipulated for the sake of the "collective spirit," they would have realized that they were the ones creating God, rather than God creating them. The hierarchy would have flipped, and the religious impulse would have turned into a social club. To prevent the Wise from realizing they were the ones holding the puppet strings—He had to maintain the illusion of His own absolute, objective, and sometimes terrifying authority. He lied because He would rather be a 'Landlord' who is feared and misunderstood than a 'Service Provider' who is managed and eventually replaced.
+
+But what's wrong with a child who understand his parent? If we are intelligent beings who ate from the Fruit of Knowing, we should be able to accept this dynamic. After all, we can look at the history of Judaism today and see that Yehovah was correct. TODO: introduce functionalism and explain how Judaism was better than Hellenism from a functionalist perspective
 
 We look at the survival of the Jews as proof that the Torah 'worked.' But we forget that the Torah only 'worked' because the people believed it was a Divine Command, not a survival manual. If they had known it was a survival manual, they would have edited it the moment survival became difficult.
 
