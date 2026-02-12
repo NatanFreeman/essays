@@ -544,7 +544,7 @@ sealed."[^20] The Angel refuses to give him the narrative closure he
 craves, offering instead a cryptic timeline that shifts even as it is
 spoken---1,290 (days?), then 1,335 days.
 
-## The final pivot
+## The silent God
 
 We might expect the resurrection to be strategic misdirection, but the most haunting part of the ghost are the aforementioned "errors" at the end of Chapter 11 (the Egyptian campaign and the death in Judea). Why would Yehovah give such detailed prophecy just to throw a curve-ball at the end? I argue that these aren't just mistakes—they are Strategic Disinformation.
 
@@ -568,6 +568,7 @@ So when the Zealots tried to trigger the "Daniel Algorithm" again in 66 CE—hop
 
 TODO: introduce the "final" pivot: silence
 
+## The paradox of functionalism
 But why lie? Why couldn't the Angel just bring Daniel into the conspiracy? Why couldn't God say: "Look, Daniel, I am the collective spirit of Israel. I need you to write this down so the people have something to die for."
 
 Because Daniel wasn't a cynical politician who could be trusted with a "noble lie"; he was an absolutist who prayed toward Jerusalem when it was a capital offense. If the Angel had revealed the strings, Daniel’s knees would have buckled. He wouldn't have written a book; he would have wept because the heavens were empty.
@@ -593,6 +594,15 @@ This is why the 2025 AI output is so "damning." By proving the miracle of Daniel
 If the "Wise" have a computer program that proves God can predict the future, they stop being "irrational martyrs" and start being "data-driven investors." They follow the Law because the "Enoch Model" has a 99% confidence interval that God is real.
 
 But God doesn't want investors; He wants partners.
+
+## My children have defeated me
+TODO: criticize rabbinic Judaism for being _functionalist_
+
+TODO: cite the story of the oven as an example of how the rabbis saw the Torah in a functionalist view, and thus believed they were allowed to change it
+
+TODO: explain how under exile the rabbis had more power, how they viewed this favorably and how they used the Torah simply to ensure their own authority
+
+TODO: explain how this view has bound the Jews in exile and that it took _secular_ Jews to bring Zionism into reality
 
 ## Death of Faith
 You might think that by writing this article, I am committing the ultimate sin. If my thesis is correct, then by exposing the "Lying God," I am doing _exactly what the Angel feared_. I am letting the children into the parents' room to see the birth certificate is a forgery. I am attempting to make the "Wise" truly wise, and in doing so, am breaking the "Irrationality Engine" that kept the people alive for two millennia.
@@ -633,21 +643,6 @@ the authority defining who is "stupid". If a benevolent, all-knowing God
 claims that a population is better off with lies - I believe Him. But if
 a mere human is claiming it, I am inherently skeptical.
 
-### Chapter 8: The Evolution of Communication (The Three Failures)
-
-**Phase 1: The Failure of Presence.** Why the "Pillar of Fire"
-(Exodus) produced a Golden Calf.
-
-**Phase 2: The Failure of Warning.** Why the moral "Riddles"
-(Isaiah/Jeremiah) were ignored until the Temple burned.
-
-**Phase 3: The Failure of Precision.** Why the "Detailed Map" (Daniel)
-led to sectarian war and a 2,000-year silence.
-
-**The Thesis:** The history of the Bible is the history of a retreating
-God. Every time God tried a new method of "proof," humanity found a
-way to "fail" it.
-
 ### Chapter 6: The Return of the "Mundane God"
 
 **The Historical Lens:** Explain that for 99% of history, humans lived
@@ -665,44 +660,6 @@ weird, and reality is "open."
 of the Lord." This isn't a utopia. It's a return to the
 _mundane_. God will be as obvious as gravity---and just as easy to
 ignore if you want to.
-
-## Conclusion: The Choice
-
-- **Summary:** The date of Daniel doesn't matter in the way we think
-  it does.
-  - If it's 164 BC, it's a story of hope.
-
-  - If it's 600 BC, it's a fact of the
-    universe.
-
-- **Final Thought:** The "Miracle" is not that a man predicted the
-  future. The "Miracle" is that we have the freedom to look at the
-  truth---whether it's a prophecy, an alien, or a God---and decide
-  for ourselves what to do with it. The evidence will never force us
-  to be good. That part is up to us.
-
-## Part II: The Architecture of Silence
-
-### Subtitle: The History of the God Who Gave Up
-
-### Chapter 7: The "Divine Lie" and the Pious Pivot
-
-**The Problem:** If Daniel is older than 164 BC (as the AI suggests),
-and if the math for the 2,300 days was accurate, then why didn't the
-Resurrection happen?
-
-**The "Noble Lie" Theory:** Did God (or the author) lie to keep
-Judaism alive? Explore the idea that the prophecy was a "Psychological
-Survival Hack."
-
-**The Pivot:** How religions survive a "Failed Apocalypse." Analyze
-how both Judaism and Christianity "pivoted" away from the failed
-deadline of the 1st Century to create the long-term systems we have
-today.
-
-**The Takeaway:** Specificity isn't just unnecessary; it's
-a trap. A "lied-to" survivor is still a survivor, but they are left
-with a broken compass.
 
 ### Chapter 9: The Strategic Retreat (The Wisdom of the Gap)
 
