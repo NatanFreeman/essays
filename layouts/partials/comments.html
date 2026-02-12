@@ -20,6 +20,7 @@
         const instance = "mastodon.social";
         const username = "natanfreeman";
         const domains = ["natansessays.com", "NatanFreeman.github.io/essays"];
+        const pageTitle = "{{ .Title }}";
         const urlPath = window.location.pathname;
 
         async function loadComments() {
@@ -35,23 +36,25 @@
                     const account = await accountResponse.json();
                     const accountId = account.id;
 
-                    const statusesResponse = await fetch(`https://${instance}/api/v1/accounts/${accountId}/statuses?limit=40`);
+                    // Increase limit to 100 to find older posts
+                    const statusesResponse = await fetch(`https://${instance}/api/v1/accounts/${accountId}/statuses?limit=100`);
                     const statuses = await statusesResponse.json();
 
-                    // Find a status that contains the slug and one of our domains
+                    const pathParts = urlPath.split('/').filter(p => p.length > 0);
+                    const slug = pathParts[pathParts.length - 1];
+
+                    // Find a status that matches our criteria
                     const match = statuses.find(s => {
                         const content = s.content || "";
                         const cardUrl = (s.card && s.card.url) ? s.card.url : "";
-                        
-                        const pathParts = urlPath.split('/').filter(p => p.length > 0);
-                        const slug = pathParts[pathParts.length - 1];
                         
                         if (!slug) return false;
 
                         const slugMatch = content.includes(slug) || cardUrl.includes(slug);
                         const domainMatch = domains.some(d => content.includes(d) || cardUrl.includes(d));
+                        const titleMatch = content.includes(pageTitle);
 
-                        return slugMatch && domainMatch;
+                        return (slugMatch && domainMatch) || titleMatch;
                     });
 
                     if (match) {
