@@ -19,7 +19,7 @@
         const postId = "{{ .Params.mastodon_post_id }}";
         const instance = "mastodon.social";
         const username = "natanfreeman";
-        const productionDomain = "NatanFreeman.github.io/essays";
+        const domains = ["natansessays.com", "NatanFreeman.github.io/essays"];
         const urlPath = window.location.pathname;
 
         async function loadComments() {
@@ -38,7 +38,7 @@
                     const statusesResponse = await fetch(`https://${instance}/api/v1/accounts/${accountId}/statuses?limit=40`);
                     const statuses = await statusesResponse.json();
 
-                    // Find a status that contains the production URL path
+                    // Find a status that contains the slug and one of our domains
                     const match = statuses.find(s => {
                         const content = s.content || "";
                         const cardUrl = (s.card && s.card.url) ? s.card.url : "";
@@ -48,10 +48,10 @@
                         
                         if (!slug) return false;
 
-                        const foundInContent = content.includes(slug) && content.includes("essays");
-                        const foundInCard = cardUrl.includes(slug);
+                        const slugMatch = content.includes(slug) || cardUrl.includes(slug);
+                        const domainMatch = domains.some(d => content.includes(d) || cardUrl.includes(d));
 
-                        return foundInContent || foundInCard;
+                        return slugMatch && domainMatch;
                     });
 
                     if (match) {

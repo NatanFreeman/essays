@@ -76,10 +76,16 @@ def main():
     # Check if already posted
     recent_statuses = get_recent_statuses(MASTODON_INSTANCE, ACCESS_TOKEN)
     
+    # Extract slug for a more robust check during domain transition
+    post_slug = urlparse(clean_link).path.strip("/")
+    
     already_posted = False
     for status in recent_statuses:
-        # Search in the content of the toot
-        if clean_link in status["content"] or post_link in status["content"]:
+        content = status["content"]
+        # Match if the exact link is found OR if the slug is found along with one of our domains
+        if (clean_link in content or 
+            post_link in content or 
+            (post_slug and post_slug in content and ("natansessays.com" in content or "NatanFreeman.github.io/essays" in content))):
             already_posted = True
             break
             
