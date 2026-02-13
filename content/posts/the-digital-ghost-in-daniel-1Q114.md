@@ -606,9 +606,12 @@ If the "Wise" have a computer program that proves God can predict the future, th
 But God doesn't want investors; He wants partners.
 
 ## My children have defeated me
-TODO: criticize rabbinic Judaism for being _functionalist_
+
+Unfortunately, this pivot failed as well. TODO: explain how Yohanan ben Zakkai sought to save Judaism, but in doing so destroyed it using functionalism
 
 TODO: cite the story of the oven as an example of how the rabbis saw the Torah in a functionalist view, and thus believed they were allowed to change it
+
+TODO: talk about the irony of how the rabbis criticized the Hasmoneans for not separating church and state, and yet did the very same thing
 
 TODO: explain how under exile the rabbis had more power, how they viewed this favorably and how they used the Torah simply to ensure their own authority
 
