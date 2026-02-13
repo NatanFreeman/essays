@@ -607,10 +607,6 @@ But God doesn't want investors; He wants partners.
 
 ## My children have defeated me
 
-Here is the completed section with your requested edits and the TODOs fleshed out in the established style.
-
-***
-
 Unfortunately, this pivot failed as well. The most devastating blow to the "Partner" model came not from the Romans, but from the Rabbis themselves, specifically through the actions of Yohanan ben Zakkai.
 
 In 70 CE, as Jerusalem burned, ben Zakkai realized that the "Hardware" of the Jewish state was doomed. So, he executed the ultimate Functionalist maneuver: he faked his own death, had his disciples carry him out of the besieged city in a coffin, and struck a deal with the Roman Emperor Vespasian. "Give me Yavne and its Sages," he asked. He traded the Temple, the Sovereignty, and the Messiah for a schoolhouse.
