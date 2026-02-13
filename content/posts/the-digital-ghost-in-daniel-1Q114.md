@@ -607,15 +607,31 @@ But God doesn't want investors; He wants partners.
 
 ## My children have defeated me
 
-Unfortunately, this pivot failed as well. TODO: explain how Yohanan ben Zakkai sought to save Judaism, but in doing so destroyed it using functionalism
+Unfortunately, this pivot failed as well. The most devastating blow to the "Partner" model came not from the Romans, but from the Rabbis themselves, specifically through the actions of Yohanan ben Zakkai.
 
-TODO: cite the story of the oven as an example of how the rabbis saw the Torah in a functionalist view, and thus believed they were allowed to change it
+In 70 CE, as Jerusalem burned, ben Zakkai realized that the "Hardware" of the Jewish state was doomed. So, he executed the ultimate Functionalist maneuver: he faked his own death, had his disciples carry him out of the besieged city in a coffin, and struck a deal with the Roman Emperor Vespasian. "Give me Yavne and its Sages," he asked. He traded the Temple, the Sovereignty, and the Messiah for a schoolhouse.
 
-TODO: talk about the irony of how the rabbis criticized the Hasmoneans for not separating church and state, and yet did the very same thing
+Ben Zakkai saved Judaism, yes. But he saved it by lobotomizing it. He transformed a nation of warriors and prophets into a community of scholars and lawyers. He decided that since we couldn't handle the "fire" of direct revelation without getting burned (like the Hasmoneans), we would survive on the "warmth" of endless interpretation.
 
-TODO: explain how under exile the rabbis had more power, how they viewed this favorably and how they used the Torah simply to ensure their own authority
+This shift was codified in the infamous Talmudic story of the *Oven of Akhnai*. When Rabbi Eliezer called down miracles—uprooting trees, reversing streams, and bending walls—to prove his interpretation of the Law was correct, the majority of the Sages ignored him. When a voice from Heaven finally boomed, "The Law is according to Rabbi Eliezer," Rabbi Joshua stood up and quoted the Torah back at God: *"It is not in Heaven."*
 
-TODO: explain how this view has bound the Jews in exile and that it took _secular_ Jews to bring Zionism into reality
+This is usually taught as a beautiful moment of human empowerment, where God smiles and says, "My children have defeated Me." But in the context of our failure, it is a chilling declaration of a coup d'état. The Rabbis looked at the "Lying God," the "Strategist God," and said: *You are fired. We have the text, we have the majority vote, and we no longer care what You actually think.* They seized "Admin Access" to the religion and locked God out of His own system.
+
+TODO: talk about how the rabbis changed the anointed times using the Hillel calendar (as they do to this day) and how they changed the commandments by using loopholes such as how they annulled the prohibition for loans with interest
+
+TODO: daniel actually predicted this with the "tenth nation who would try to change the anointment times and laws". This has to a Jewish group because they're the only ones who got anointed times and laws
+
+The irony is suffocating. The Rabbis spent centuries criticizing the Hasmoneans for refusing to separate the Crown of Kingship from the Crown of Priesthood. They argued that power corrupts. Yet, in the Diaspora, the Rabbis did the exact same thing. In the absence of a King or a Prophet, the Rabbi became the sole authority—judge, jury, legislator, and spiritual guide. They built a "portable state" where their word was absolute law.
+
+Thus this "Functionalist" Judaism fell in love with the Exile. Why? Because in Exile, the Rabbis had no rivals. There were no Jewish Kings to imprison them, no Prophets to overrule them, and no messy geopolitical wars to fight. They didn't have to compete with the Sadducees, the Essense or any other sect of theological grounds. This, combined with the "Silence" of God was their greatest asset because it meant no one could interrupt their debates. They turned the "Fence around the Torah" into a prison wall, keeping the Jews in and the world out, prioritizing the survival of the *structure* over the return to the *Land*.
+
+TODO: talk about the irony of how the destruction of the temple was great for them, since they didn't control the temple anyway
+
+For two thousand years, this worked The Jews survived. But they survived as shadows in the machine of history—alive, but not living; present, but not sovereign. TODO: this didn't work 100%. Talk about the pogroms and the persecution and how this was effective to an extent, but it was far from perfect
+
+It is no coincidence that when the return to Zion finally happened, it wasn't led by the "Wise" Rabbis who had memorized every letter of Daniel. It was led by the "Heretics"—the secular Zionists. Men like Herzl and Ben-Gurion looked at the "Functionalist" survival manual and threw it in the trash. They didn't care about the Rabbinic vote; they cared about the original, raw data of the Bible—the parts about land, sovereignty, and self-defense.
+
+The great irony of 1948 is that the "Atheists" were the only ones who actually believed in the God of History enough to pick up a gun, while the "Believers" were too busy waiting for a Messiah to save them from the consequences of their own passivity. The Secularists broke the "Silence" by forcing history to restart, proving that while Functionalism can keep you safe in a coffin, only risk can bring you back to life. TODO: add a sentence here conceding that yes, there were some notable religious Zionist leaders, but they came _after_ the seculars led the way
 
 ## Death of Faith
 You might think that by writing this article, I am committing the ultimate sin. If my thesis is correct, then by exposing the "Lying God," I am doing _exactly what the Angel feared_. I am letting the children into the parents' room to see the birth certificate is a forgery. I am attempting to make the "Wise" truly wise, and in doing so, am breaking the "Irrationality Engine" that kept the people alive for two millennia.
