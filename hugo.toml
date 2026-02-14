@@ -2,8 +2,10 @@ baseURL = 'https://natansessays.com/'
 languageCode = 'en-us'
 title = 'Essays by Natan Freeman'
 theme = "PaperMod"
+enableRobotsTXT = true
 
 [params]
+  env = "production"
   github_repo = "https://github.com/NatanFreeman/essays"
   defaultTheme = "auto"
   disableThemeToggle = true
@@ -19,3 +21,6 @@ theme = "PaperMod"
     URL = "https://github.com/NatanFreeman/essays/blob/main/content"
     Text = "Suggest Changes"
     appendFilePath = true
+
+  [params.analytics.google]
+    SiteVerificationTag = "7pmwM2-PY41jO397FyTwrCslrwbwqYO9M6MjlGIbE7k"

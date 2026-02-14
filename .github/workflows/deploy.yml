@@ -43,8 +43,7 @@ jobs:
         run: |
           hugo \
             --gc \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}"
+            --minify
 
       - name: Auto-post to Mastodon
         env:
