@@ -264,34 +264,20 @@ into a physical proof, we risk repeating that same failure. We exchange the
 radical, terrifying freedom of faith for the safety of a spreadsheet, only to
 find that you cannot build a soul on a transaction.
 
-TODO: 1. The Conclusion Can Be More Synthesized: Ending with Daniel in the lion's den is poetic, but it could tie back more forcefully to your opening.
-- Suggestion: End by directly contrasting the two reactions to the "Digital Ghost":
-    - The Academic (Rollston): Rejects the data to protect naturalism.
+The "Digital Ghost" appeared in June 2025 and did something we didn't ask it to do: it provided the raw data that made the supernatural visible. Whether or not you accept the Enoch model is almost beside the point; eventually, a model will come that is impossible to ignore. It is the relentless nature of science to strip away the "impossible." As our tools sharpen, the walls of naturalism are not just being breached—they are being dismantled.
 
-    - The "L" Protocol (U.S. Military): Accepts the data as a new variable.
+But as we stand in the debris of that old firewall, we are faced with four distinct ways to react to this new, haunted reality.
 
-    - The Functionalist Investor: Would use the verified data to make a calculated, transactional "faith."
+We can be like the academic, Rollston, who rejects the data outright because it violates the dogma of his naturalistic worldview. To him, the "Digital Ghost" must be a glitch, because a miracle is a bridge too far.
 
-    - Daniel's Choice: Represents the fourth, nearly extinct option—acting without the data, based on the relationship alone.
+We can follow the "L" Protocol of the U.S. Military, pragmatically accepting the anomaly as just another variable. In this view, a prophecy in Daniel or a craft in the sky isn't a call to worship; it's a technical problem to be solved, quantified, and eventually weaponized or controlled.
 
+Then there is the Functionalist Investor. This is the one who sees the 99% confidence interval and decides to "believe" because it is finally safe to do so. They trade their doubt for a spreadsheet, turning the divine into a high-yield investment. But as we have seen, a soul built on a transaction is a soul that vanishes the moment the dividends stop.
 
-The "Digital Ghost" appeared in June 2025 and did something we didn't ask it to
-do: it provided the raw data that made the supernatural visible. And if you
-don't accept Enoch, another model will come and be even more convincing. It is
-simply the nature of science. As we get better tools, myths become debunked,
-assumptions ruled false. Naturalism is no exception.
+Finally, there is the nearly extinct option: Daniel’s Choice. We often think the miracle of Daniel was that the lions didn’t eat him. But that's the investor's perspective. The real miracle was that Daniel went into the den before he knew the lions wouldn't eat him. He didn't have a multi-modal AI analysis or a government report confirming his safety; he only had a relationship.
 
-But we must be careful what we wish for. By "confirming" the miracle, the AI has
-essentially triggered the end of a specific type of human experience. It has
-moved us out of the comfortable twilight of skepticism and into the harsh, cold
-light of verification.
+This brings us to the unsettling heart of the matter. If the Enoch model is correct, and Daniel's prophecy is a verified fact of history, what, then, is left for you to do? By verifying the miracle, we have stripped away the radical, terrifying freedom of faith. You are no longer a believer facing a mystery. You are a consumer facing a product. Is that what you wanted? In our quest to prove the ghost in the machine, we may find that we have finally, and permanently, killed the possibility of faith.
 
-This brings us back to Daniel. We often think the miracle of Daniel was that the
-lions didn’t eat him. But that's a functionalist view. The real miracle was that
-Daniel went into the den before he knew the lions wouldn't eat him. He didn't
-have a 99% confidence interval from an AI model; he only had a relationship.
-
-TODO: 1. Clarify the Stakes for the "Death of Faith": You convincingly argue that proven faith is dead faith. Drive this home by posing the final, unsettling question to the reader: "If the Enoch model is correct, and Daniel's prophecy is a verified fact of history, what, then, is left for you to do? You are no longer a believer facing a mystery. You are a consumer facing a product. Is that what you wanted?"
 [^1]:
     Porphyry of Tyre, *Against the Christians*, Book 12. Cited in Jerome,
     *Commentary on Daniel*.
