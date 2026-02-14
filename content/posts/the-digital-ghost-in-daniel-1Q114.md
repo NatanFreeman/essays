@@ -160,6 +160,8 @@ real anecdotes. I am not really proving anything, you might claim. This is a
 fair critique, and so I do have a real study we can look at. But it requires we
 leave the world of humanities and start looking at real science.
 
+TODO: 1. Trim for Impact: The UAP section, while fascinating, is quite detailed. Consider tightening the timeline narration to keep the focus on the paradigm shift (from denial to investigation) rather than all the specific dates.
+
 In 2021, the US intelligence community, with significant input from the Air
 Force and Navy, released a landmark preliminary assessment on Unidentified
 Aerial Phenomena (UAP). This wasn't a tabloid headline or a leaked memo; it was
@@ -293,6 +295,8 @@ literally, becoming haunted again—only this time, we have the data to prove it
 
 ## Death of Faith
 
+TODO: The "Pivot" Needs a Clearer Bridge: The transition from the "Mundane God" (we're getting haunted again by data) to the "Death of Faith" (this verification kills real religion) happens a bit abruptly. The concept of "Functionalism" is the key link here, but it needs to be introduced more explicitly as the danger of the new mundanity.
+
 You might think that this article is some sort of religious manifesto. But if my
 thesis is correct, I am actually killing faith. By proving the miracle of Daniel
 11 (the 230 BCE dating), the AI threatens to turn it into Functionalism.
@@ -322,6 +326,17 @@ into a physical proof, we risk repeating that same failure. We exchange the
 radical, terrifying freedom of faith for the safety of a spreadsheet, only to
 find that you cannot build a soul on a transaction.
 
+TODO: 1. The Conclusion Can Be More Synthesized: Ending with Daniel in the lion's den is poetic, but it could tie back more forcefully to your opening.
+- Suggestion: End by directly contrasting the two reactions to the "Digital Ghost":
+    - The Academic (Rollston): Rejects the data to protect naturalism.
+
+    - The "L" Protocol (U.S. Military): Accepts the data as a new variable.
+
+    - The Functionalist Investor: Would use the verified data to make a calculated, transactional "faith."
+
+    - Daniel's Choice: Represents the fourth, nearly extinct option—acting without the data, based on the relationship alone.
+
+
 The "Digital Ghost" appeared in June 2025 and did something we didn't ask it to
 do: it provided the raw data that made the supernatural visible. And if you
 don't accept Enoch, another model will come and be even more convincing. It is
@@ -338,6 +353,7 @@ lions didn’t eat him. But that's a functionalist view. The real miracle was th
 Daniel went into the den before he knew the lions wouldn't eat him. He didn't
 have a 99% confidence interval from an AI model; he only had a relationship.
 
+TODO: 1. Clarify the Stakes for the "Death of Faith": You convincingly argue that proven faith is dead faith. Drive this home by posing the final, unsettling question to the reader: "If the Enoch model is correct, and Daniel's prophecy is a verified fact of history, what, then, is left for you to do? You are no longer a believer facing a mystery. You are a consumer facing a product. Is that what you wanted?"
 [^1]: Citation needed
 
 [^2]: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323185
