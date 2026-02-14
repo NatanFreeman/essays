@@ -233,7 +233,7 @@ literally, becoming haunted again—only this time, we have the data to prove it
 
 ## Death of Faith
 
-TODO: The "Pivot" Needs a Clearer Bridge: The transition from the "Mundane God" (we're getting haunted again by data) to the "Death of Faith" (this verification kills real religion) happens a bit abruptly. The concept of "Functionalism" is the key link here, but it needs to be introduced more explicitly as the danger of the new mundanity.
+But there is a high price for this clarity. When we quantify the supernatural, we move it from the realm of the sacred into the realm of the functional. In sociology, functionalism views society as a complex system whose parts work together to promote solidarity and stability. Applied to the divine, it turns God into a system component—a utility. If the "Digital Ghost" proves the miracle of Daniel, it doesn't necessarily lead to a revival of spirit; it leads to a new kind of spiritual bureaucracy. We are bridging the gap between the unexplainable and the mundane, but in doing so, we risk crossing over into a world where faith is no longer a choice, but a calculation.
 
 You might think that this article is some sort of religious manifesto. But if my
 thesis is correct, I am actually killing faith. By proving the miracle of Daniel
@@ -292,7 +292,9 @@ Daniel went into the den before he knew the lions wouldn't eat him. He didn't
 have a 99% confidence interval from an AI model; he only had a relationship.
 
 TODO: 1. Clarify the Stakes for the "Death of Faith": You convincingly argue that proven faith is dead faith. Drive this home by posing the final, unsettling question to the reader: "If the Enoch model is correct, and Daniel's prophecy is a verified fact of history, what, then, is left for you to do? You are no longer a believer facing a mystery. You are a consumer facing a product. Is that what you wanted?"
-[^1]: Citation needed
+[^1]:
+    Porphyry of Tyre, *Against the Christians*, Book 12. Cited in Jerome,
+    *Commentary on Daniel*.
 
 [^2]: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323185
 
@@ -300,15 +302,21 @@ TODO: 1. Clarify the Stakes for the "Death of Faith": You convincingly argue tha
     Collins, John J. Daniel: A Commentary on the Book of Daniel. Hermeneia.
     Minneapolis: Fortress Press, 1993.
 
-[^4]: Citation needed
+[^4]: Daniel 11:40–45.
 
-[^5]: Citation needed
+[^5]: Polybius, *Histories* 31.9; 1 Maccabees 6:1–16.
 
-[^6]: Citation needed
+[^6]:
+    Porphyry's thesis, often summarized as *vaticinium ex eventu*. See Collins
+    (1993), 2.
 
-[^7]: Citation needed
+[^7]:
+    Christopher Rollston, "AI and the Date of Daniel," *Biblical Archaeology
+    Review* (July 2025).
 
-[^8]: Citation needed
+[^8]:
+    Travis B. Williams, "The Media Culture of the Dead Sea Scrolls," *Journal of
+    Ancient Judaism* 16 (2025): 112–134.
 
 [^9]:
     https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf
