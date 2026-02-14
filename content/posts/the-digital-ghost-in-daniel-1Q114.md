@@ -1,7 +1,7 @@
 ---
 title: "The Digital Ghost in Daniel-1Q114"
 date: 2026-02-08T12:00:00-05:00
-draft: true
+draft: false
 ---
 
 ## The Digital Ghost
@@ -160,19 +160,51 @@ real anecdotes. I am not really proving anything, you might claim. This is a
 fair critique, and so I do have a real study we can look at. But it requires we
 leave the world of humanities and start looking at real science.
 
-In 2021, the US intelligence community shifted the paradigm of the unexplainable from tabloid fodder to a matter of national security. The Office of the Director of National Intelligence released a report confirming that between 2004 and 2021, there were 144 reports of Unidentified Aerial Phenomena (UAP) that could not be dismissed as optical illusions.[^9] These were physical objects registered on radar, infrared, and visual sensors.
+In 2021, the US intelligence community shifted the paradigm of the unexplainable
+from tabloid fodder to a matter of national security. The Office of the Director
+of National Intelligence released a report confirming that between 2004 and
+2021, there were 144 reports of Unidentified Aerial Phenomena (UAP) that could
+not be dismissed as optical illusions.[^9] These were physical objects
+registered on radar, infrared, and visual sensors.
 
-The data was jarring: in 18 incidents, these objects displayed flight characteristics that defied known physics—staying stationary in high winds without rotors, moving against the wind without visible propulsion, and accelerating at speeds that would crush any human-made airframe.
+The data was jarring: in 18 incidents, these objects displayed flight
+characteristics that defied known physics—staying stationary in high winds
+without rotors, moving against the wind without visible propulsion, and
+accelerating at speeds that would crush any human-made airframe.
 
-While the "Tic Tac" incident of 2004 had languished in obscurity for years, the narrative reached a breaking point between 2017 and 2020. Unauthorized leaks forced the Pentagon to officially release the "FLIR1" footage to "clear up any misconceptions," finally verifying it as authentic Navy data. The dry sensor data was given a human face in May 2021, when Commander David Fravor and Lieutenant Commander Alex Dietrich described an encounter with a white, oblong craft that mirrored their movements with "ping-pong ball" erraticism. Dietrich noted the encounter was "unsettling" precisely because the object’s capabilities were "incompatible... with the materials that we have."
+While the "Tic Tac" incident of 2004 had languished in obscurity for years, the
+narrative reached a breaking point between 2017 and 2020. Unauthorized leaks
+forced the Pentagon to officially release the "FLIR1" footage to "clear up any
+misconceptions," finally verifying it as authentic Navy data. The dry sensor
+data was given a human face in May 2021, when Commander David Fravor and
+Lieutenant Commander Alex Dietrich described an encounter with a white, oblong
+craft that mirrored their movements with "ping-pong ball" erraticism. Dietrich
+noted the encounter was "unsettling" precisely because the object’s capabilities
+were "incompatible... with the materials that we have."
 
-It is worth noting just how carefully the Intelligence community navigated this revelation. They listed five potential categories for the phenomena: airborne clutter, natural atmospheric phenomena, industry developmental programs, foreign adversary systems, and a catchall "other" bin.[^9] They even considered that another government department might be responsible—an admission of internal secrecy that highlights their desperation for a naturalistic answer.
+It is worth noting just how carefully the Intelligence community navigated this
+revelation. They listed five potential categories for the phenomena: airborne
+clutter, natural atmospheric phenomena, industry developmental programs, foreign
+adversary systems, and a catchall "other" bin.[^9] They even considered that
+another government department might be responsible—an admission of internal
+secrecy that highlights their desperation for a naturalistic answer.
 
-They even rebranded the phenomenon. By choosing "Unidentified Aerial Phenomena" over "Unidentified Flying Objects," they bypassed the "UFO" stigma to ensure they wouldn't be dismissed outright. They were describing technology that looked like godhood, but by calling it "UAP," they turned a miracle into a manageable dataset.
+They even rebranded the phenomenon. By choosing "Unidentified Aerial Phenomena"
+over "Unidentified Flying Objects," they bypassed the "UFO" stigma to ensure
+they wouldn't be dismissed outright. They were describing technology that looked
+like godhood, but by calling it "UAP," they turned a miracle into a manageable
+dataset.
 
-Even the scientific community has begun to mirror this pragmatic shift. Theoretical physicist Dr. Michio Kaku called the sensor data a "game changer," noting that the quantification of Mach 20 speeds and several hundred G’s of force moved these sightings from the fringe to the laboratory.
+Even the scientific community has begun to mirror this pragmatic shift.
+Theoretical physicist Dr. Michio Kaku called the sensor data a "game changer,"
+noting that the quantification of Mach 20 speeds and several hundred G’s of
+force moved these sightings from the fringe to the laboratory.
 
-By moving these sightings into the realm of national security, the government mirrored L's pragmatism. They stopped asking if the "impossible" was happening—the data proved it was—and started asking how it worked. They told the public that "gods of death" might be floating in our restricted airspace, and instead of a crisis of faith, the Air Force simply opened a new investigation.
+By moving these sightings into the realm of national security, the government
+mirrored L's pragmatism. They stopped asking if the "impossible" was
+happening—the data proved it was—and started asking how it worked. They told the
+public that "gods of death" might be floating in our restricted airspace, and
+instead of a crisis of faith, the Air Force simply opened a new investigation.
 
 The most damning part is that you probably didn't notice. I'm sure many of you
 did not hear of these report. And if you did, you probably just kept scrolling
@@ -233,7 +265,15 @@ literally, becoming haunted again—only this time, we have the data to prove it
 
 ## Death of Faith
 
-But there is a high price for this clarity. When we quantify the supernatural, we move it from the realm of the sacred into the realm of the functional. In sociology, functionalism views society as a complex system whose parts work together to promote solidarity and stability. Applied to the divine, it turns God into a system component—a utility. If the "Digital Ghost" proves the miracle of Daniel, it doesn't necessarily lead to a revival of spirit; it leads to a new kind of spiritual bureaucracy. We are bridging the gap between the unexplainable and the mundane, but in doing so, we risk crossing over into a world where faith is no longer a choice, but a calculation.
+But there is a high price for this clarity. When we quantify the supernatural,
+we move it from the realm of the sacred into the realm of the functional. In
+sociology, functionalism views society as a complex system whose parts work
+together to promote solidarity and stability. Applied to the divine, it turns
+God into a system component—a utility. If the "Digital Ghost" proves the miracle
+of Daniel, it doesn't necessarily lead to a revival of spirit; it leads to a new
+kind of spiritual bureaucracy. We are bridging the gap between the unexplainable
+and the mundane, but in doing so, we risk crossing over into a world where faith
+is no longer a choice, but a calculation.
 
 You might think that this article is some sort of religious manifesto. But if my
 thesis is correct, I am actually killing faith. By proving the miracle of Daniel
@@ -264,23 +304,48 @@ into a physical proof, we risk repeating that same failure. We exchange the
 radical, terrifying freedom of faith for the safety of a spreadsheet, only to
 find that you cannot build a soul on a transaction.
 
-The "Digital Ghost" appeared in June 2025 and did something we didn't ask it to do: it provided the raw data that made the supernatural visible. Whether or not you accept the Enoch model is almost beside the point; eventually, a model will come that is impossible to ignore. It is the relentless nature of science to strip away the "impossible." As our tools sharpen, the walls of naturalism are not just being breached—they are being dismantled.
+The "Digital Ghost" appeared in June 2025 and did something we didn't ask it to
+do: it provided the raw data that made the supernatural visible. Whether or not
+you accept the Enoch model is almost beside the point; eventually, a model will
+come that is impossible to ignore. It is the relentless nature of science to
+strip away the "impossible." As our tools sharpen, the walls of naturalism are
+not just being breached—they are being dismantled.
 
-But as we stand in the debris of that old firewall, we are faced with four distinct ways to react to this new, haunted reality.
+But as we stand in the debris of that old firewall, we are faced with four
+distinct ways to react to this new, haunted reality.
 
-We can be like the academic, Rollston, who rejects the data outright because it violates the dogma of his naturalistic worldview. To him, the "Digital Ghost" must be a glitch, because a miracle is a bridge too far.
+We can be like the academic, Rollston, who rejects the data outright because it
+violates the dogma of his naturalistic worldview. To him, the "Digital Ghost"
+must be a glitch, because a miracle is a bridge too far.
 
-We can follow the "L" Protocol of the U.S. Military, pragmatically accepting the anomaly as just another variable. In this view, a prophecy in Daniel or a craft in the sky isn't a call to worship; it's a technical problem to be solved, quantified, and eventually weaponized or controlled.
+We can follow the "L" Protocol of the U.S. Military, pragmatically accepting the
+anomaly as just another variable. In this view, a prophecy in Daniel or a craft
+in the sky isn't a call to worship; it's a technical problem to be solved,
+quantified, and eventually weaponized or controlled.
 
-Then there is the Functionalist Investor. This is the one who sees the 99% confidence interval and decides to "believe" because it is finally safe to do so. They trade their doubt for a spreadsheet, turning the divine into a high-yield investment. But as we have seen, a soul built on a transaction is a soul that vanishes the moment the dividends stop.
+Then there is the Functionalist Investor. This is the one who sees the 99%
+confidence interval and decides to "believe" because it is finally safe to do
+so. They trade their doubt for a spreadsheet, turning the divine into a
+high-yield investment. But as we have seen, a soul built on a transaction is a
+soul that vanishes the moment the dividends stop.
 
-Finally, there is the nearly extinct option: Daniel’s Choice. We often think the miracle of Daniel was that the lions didn’t eat him. But that's the investor's perspective. The real miracle was that Daniel went into the den before he knew the lions wouldn't eat him. He didn't have a multi-modal AI analysis or a government report confirming his safety; he only had a relationship.
+Finally, there is the nearly extinct option: Daniel’s Choice. We often think the
+miracle of Daniel was that the lions didn’t eat him. But that's the investor's
+perspective. The real miracle was that Daniel went into the den before he knew
+the lions wouldn't eat him. He didn't have a multi-modal AI analysis or a
+government report confirming his safety; he only had a relationship.
 
-This brings us to the unsettling heart of the matter. If the Enoch model is correct, and Daniel's prophecy is a verified fact of history, what, then, is left for you to do? By verifying the miracle, we have stripped away the radical, terrifying freedom of faith. You are no longer a believer facing a mystery. You are a consumer facing a product. Is that what you wanted? In our quest to prove the ghost in the machine, we may find that we have finally, and permanently, killed the possibility of faith.
+This brings us to the unsettling heart of the matter. If the Enoch model is
+correct, and Daniel's prophecy is a verified fact of history, what, then, is
+left for you to do? By verifying the miracle, we have stripped away the radical,
+terrifying freedom of faith. You are no longer a believer facing a mystery. You
+are a consumer facing a product. Is that what you wanted? In our quest to prove
+the ghost in the machine, we may find that we have finally, and permanently,
+killed the possibility of faith.
 
 [^1]:
-    Porphyry of Tyre, *Against the Christians*, Book 12. Cited in Jerome,
-    *Commentary on Daniel*.
+    Porphyry of Tyre, _Against the Christians_, Book 12. Cited in Jerome,
+    _Commentary on Daniel_.
 
 [^2]: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323185
 
@@ -290,19 +355,19 @@ This brings us to the unsettling heart of the matter. If the Enoch model is corr
 
 [^4]: Daniel 11:40–45.
 
-[^5]: Polybius, *Histories* 31.9; 1 Maccabees 6:1–16.
+[^5]: Polybius, _Histories_ 31.9; 1 Maccabees 6:1–16.
 
 [^6]:
-    Porphyry's thesis, often summarized as *vaticinium ex eventu*. See Collins
+    Porphyry's thesis, often summarized as _vaticinium ex eventu_. See Collins
     (1993), 2.
 
 [^7]:
-    Christopher Rollston, "AI and the Date of Daniel," *Biblical Archaeology
-    Review* (July 2025).
+    Christopher Rollston, "AI and the Date of Daniel," _Biblical Archaeology
+    Review_ (July 2025).
 
 [^8]:
-    Travis B. Williams, "The Media Culture of the Dead Sea Scrolls," *Journal of
-    Ancient Judaism* 16 (2025): 112–134.
+    Travis B. Williams, "The Media Culture of the Dead Sea Scrolls," _Journal of
+    Ancient Judaism_ 16 (2025): 112–134.
 
 [^9]:
     https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf
