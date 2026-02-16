@@ -31,6 +31,16 @@ The vast majority of new art is terrible. This is not a fault - R&D is allowed t
 This isn't my fringe out-of-touch high-tech take. TODO: introduce Anthony Fantano Just listen to what Anthony Fantano has to say about 80s music being "better" than the music today:
 > TODO: quote Anthony Fantano
 
-An AI model which can predict what art will be good ahead of time will make billions. The only problem is that this task is impossible. TODO: explain how studios are already doing this, the safe-hot trap, how this has lead to nothing but sequels. Conclude that finding outliers is just random noise and the market is the best engine for doing it reliably
+An AI model which can predict what art will be good ahead of time will make billions. Except, such a model is impossible. In music, there is a very low signal to noise ratio. TODO: explain how studios are already doing this, the safe-hot trap, how this has lead to nothing but sequels. Conclude that finding outliers is just random noise and the market is the best engine for doing it reliably
 
-The moment we have a model
+A model which would have an accurate enough understanding of the world to predict success accurately, wouldn't be predicting art. It would be predicting stocks and wars. It's the closest thing to an AI god.
+
+So what does the future of AI look like in this space? I argue its purpose will not be to make R&D cheaper, nor will it predict success. AI will be used to throw everything on the wall and see what sticks. This is how I predict the _pipeline_ will go. A "director" will create 100 movie trailers, upload them to TikTok and see what the **market** decides it most compelling. They will then rework and flesh out the concept into a finished product and release it in theaters. This will happen to everything from music to books and perhaps even video games. Game jams already fulfill a similar purpose there.
+
+There is an elephant in the room I have not addressed. Artists hate AI. They usually give a host of reasons for this, but the most common rhetoric is that AI steals art. This doesn't make any sense because it implies the artists were getting paid in the first place. But if you recall our economic model you'd know that money was never part of the contract. The cold-hard truth is that you didn't become an artist to make money, you did it because it's what you loved. The real reason artists don't use AI is because they don't find it enjoyable. The aspect of creation they hold most dear is going to be completely automated in my proposed pipeline.
+
+This is fantastic news! It means my pipeline kills the passion tax. Since "art" will be about optimizing and touching up someone else's idea, today's artists will hate it. This new industry will attract an audience who want to optimize a product and get paid farely reliably. The art industry stops being a casino and starts being an investment bank.
+
+TODO: it would be nice to have some existing examples of people doing this
+
+I'm sure artists are going to mourn and dub this "the death of art". In many ways they'll be correct. The wild west of art wonderland they hold dear _will_ be gone. Personally, I won't be too bothered. People who love creating for the sake of creating can still do so. The difference is that their passion will no longer be exploited by the fantasy of commercial success.
