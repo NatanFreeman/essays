@@ -76,30 +76,21 @@ This is why initiatives like
 [Adobe’s Film & TV Fund](https://blog.adobe.com/en/publish/2026/01/20/expanding-access-storytelling-adobe-film-tv-fund-direct-creators-contributions-product-donations)
 or
 [Ireland’s Basic Income for the Arts (BIA)](https://www.gov.ie/en/department-of-culture-communications-and-sport/campaigns/basic-income-for-the-arts-pilot-scheme/)
-are so misguided. They operate on the delusion that artists are supposed to be
-paid "fairly" for the process of creation. Ireland’s BIA pilot literally hands
-out hundreds of euros a week to artists just for being artists. It’s adorable,
-but it ignores the fundamental business model: artists weren’t in it for the
-money in the first place. If they were, they’d be in accounting. Trying to put
-an artist on a salary is like trying to put a professional gambler on a
-salary—it defeats the entire purpose of the "All-In" lifestyle that produces
-outliers. Paying an artist a living wage to do R&D doesn't make the art better;
-it just makes the corporation’s eventual acquisition of that art more expensive.
-The system relies on the artist's desperation and internal fire; if you pay them
-to be comfortable, you're just subsidizing a hobby.
+are so misguided. Ireland’s BIA pilot literally hands out hundreds of euros a
+week to artists just for being artists. While boosters point to modest gains in
+artistic output, they ignore the quality dilution. By removing the evolutionary
+pressure of the "all-in" lifestyle, you stop producing outliers. Paying an
+artist a living wage to do R&D doesn't make the art better; it just makes the
+corporation’s eventual acquisition of that art more expensive. A
+government-subsidized artist is no longer an R&D researcher; they are a Civil
+Servant. Real breakthroughs require the existential risk of failure.
 
 This phenomenon creates a "Barbell Economy" where art becomes both cheaper and
 more expensive simultaneously, while the quality splits into two extremes. On
-one end of the barbell, you have $300 million blockbusters that are too big to
-fail. On the other end, you have a sea of "content"—ultra-cheap media produced
-for pennies. The "middle class" of art—the $20 million mid-budget movie or the
-professional musician who makes a comfortable living without being a
-superstar—is being squeezed out of existence because it carries the risk of R&D
-without the safety of a massive franchise.
-
-The system is highly efficient for consumers (who get infinite art for cheap)
-but brutal for artists (who carry 100% of the risk). Art is "better" if you like
-variety, but "worse" if you want bold, high-budget risks from major studios.
+one end of the barbell, you have $300 million blockbusters. On the other end,
+you have a sea of "content"—ultra-cheap media produced for pennies. The "middle
+class" of art—the $20 million mid-budget movie—is being squeezed out because it
+carries the risk of R&D without the safety of a massive franchise.
 
 ## Enter AI
 
@@ -153,6 +144,14 @@ product and release it in theaters. This will happen to everything from music to
 books and perhaps even video games. Game jams already fulfill a similar purpose
 there.
 
+Critics argue that humans require a "soul" to form the deep obsessions that lead
+to the Immortality Jackpot. This is nonsense of course. A "soul", so much as it
+can be said to exist - can be manufactured. We already see this with Hatsune
+Miku or K-Pop groups, where "Human Will" is distributed across a corporate
+architecture. In my pipeline, the Director becomes the face. People won't follow
+the AI; they will follow the Director who has a 100% track record of picking the
+best vibes from the noise. The "brand" moves from the performer to the director.
+
 There is an elephant in the room I have not addressed. Artists hate AI. They
 usually give a host of reasons for this, but the most common rhetoric is that AI
 steals art. This doesn't make any sense because it implies the artists were
@@ -163,52 +162,28 @@ The real reason artists don't use AI is because they don't find it enjoyable.
 The aspect of creation they hold most dear is going to be completely automated
 in my proposed pipeline.
 
-This is fantastic news! It means my pipeline kills the passion tax. Since "art"
-will be about optimizing and touching up someone else's idea, today's artists
-will hate it. This new industry will attract an audience who want to optimize a
-product and get paid fairly reliably. The art industry stops being a casino and
-starts being an investment bank.
+This is fantastic news! It means my pipeline kills the passion tax. Today’s
+displaced illustrators are the manual typists of the 1950s; they find
+fulfillment in the tactile nature of the work, but that labor is now obsolete.
+This new industry will attract an audience who don't care about
+"brushstrokes"—they call themselves Product Managers, Creative Technologists, or
+Prompt Architects. They want to optimize a product and get paid reliably. They
+find their fulfillment in Strategic Success rather than execution. The art
+industry stops being a casino and starts being an investment bank.
 
 Runway’s **"The Hundred Film Fund"** is the first true VC of this new industry.
 By promising to fund 100 films that use AI, they aren't looking for a "star" to
-subsidize with a meager salary; they are providing the capital to accelerate the
-"throwing everything at the wall" phase. They are the high-frequency traders of
-the art world. They understand that if you can use AI to generate 1,000 concepts
-for the price of one, and let the internet act as your free focus group, you
-don't need "artistic intuition." You just need a data-driven pipeline and a
-willingness to kill your darlings.
+subsidize; they are providing the capital to accelerate the "throwing everything
+at the wall" phase. They are the high-frequency traders of the art world.
+
+Critics point to the current "signal-to-noise" crisis on social media as proof
+this won't work, but they are looking at the messy "dial-up phase" of the
+industry. As we decouple "Labor" from "Art," the industry will stop being a
+cruel lottery and start being a high-precision engine.
 
 I'm sure artists are going to mourn and dub this "the death of art". In many
 ways they'll be correct. The wild west of art wonderland they hold dear _will_
 be gone. Personally, I won't be too bothered. People who love creating for the
 sake of creating can still do so. The difference is that their passion will no
-longer be exploited by the fantasy of commercial success.
-
-<!-- Here is a summary of the core tensions between your article’s thesis and the real-world data/counter-arguments we’ve discussed, along with strategies to address them in your writing.
-
-### 1. The "Socialism vs. R&D" Debate
-*   **My Argument:** Data from Ireland’s Basic Income for the Arts (BIA) suggests that providing financial security actually *increases* artistic output and generates a positive ROI (€1.39 for every €1 spent), rather than killing the "all-in" fire.
-*   **How to Address It:**
-    *   **Double down on the "Selection" argument:** Argue that while BIA might increase *output*, it dilutes *quality* by removing the "Evolutionary Pressure" that produces outliers. You can claim that the €1.39 return is just "administrative churn" or "circular spending" that doesn't produce the "Four-Quadrant" hits Disney needs.
-    *   **The "Hobbyist Trap":** Argue that a government-subsidized artist is no longer an "R&D researcher" but a "Civil Servant." Real breakthroughs require the existential risk of failure.
-
-### 2. The "Missing New Class" of AI Optimizers
-*   **My Argument:** While displacement is happening (illustrators losing work), we aren't seeing a "new class of happy optimizers" yet; instead, we are seeing a "signal-to-noise" crisis and "Engagement Decay" on platforms like TikTok.
-*   **How to Address It:**
-    *   **The "Early Adopter" Defense:** Frame the current "signal-to-noise" crisis as the messy "dial-up phase" of the industry. The "happy optimizers" are currently the engineers at Runway and Midjourney; the creative-professional version simply hasn't graduated yet.
-    *   **Professionalization vs. Hobbyism:** Argue that the reason we don't see them is that they don't call themselves "artists." They call themselves "Product Managers," "Creative Technologists," or "Prompt Architects." They are hiding in plain sight.
-
-### 3. The "Parasocial/Mythos" Bottleneck
-*   **My Argument:** Humans (the market) generally require a "Human Will" or a "Soul" to form the deep obsessions that lead to "Immortality Jackpot" successes (Lady Gaga/Taylor Swift).
-*   **How to Address It:**
-    *   **The "VTuber/K-Pop" Precedent:** Use Hatsune Miku or K-Pop to prove that "Human Will" can be manufactured or distributed.
-    *   **The "Director as Face" Model:** Argue that the *Director* of the 100-trailer pipeline becomes the "Artist." People won't follow the AI; they will follow the "Curator" who has a 100% track record of picking the best vibes. The "brand" moves from the *performer* to the *editor*.
-
-### 4. The "Barbell Economy" and the Middle Class
-*   **My Argument:** The "middle class" isn't dead; studios like A24 and the 2025 recovery in the European art market show that people will still pay a premium for "vetted human" mid-tier projects.
-*   **How to Address It:**
-    *   **A24 as the Exception:** Argue that A24 is the "Luxury Boutique" model, not a "Middle Class" model. It serves a tiny elite. The "Middle Class" for the masses (network TV, mid-budget comedies) is being replaced by ultra-cheap AI content.
-
-
-### Summary of your potential counter-rebuttal:
-*"Critics point to government subsidies or the lack of 'soul' in AI, but they are looking at the past. The 'Passion Tax' was a bug, not a feature. As we decouple 'Labor' from 'Art,' the industry will stop being a cruel lottery and start being a high-precision engine. If you want a soul, go to a museum; if you want the future of culture, look at the data-stream."* -->
+longer be exploited by the fantasy of commercial success. If you want a soul, go
+to a museum; if you want the future of culture, look at the data-stream.
