@@ -4,10 +4,21 @@ date = 2026-02-17T19:48:48Z
 draft = true
 +++
 
-### **Thesis Statement**
-The current political crisis in Israel is not merely a struggle over one leader (Netanyahu) or specific policies; it is a fundamental rejection of the "Normal Nation" model (centralized, authoritative, and monolithic) in favor of the original Jewish blueprint: a decentralized, tribal, and anti-authoritarian federation. To save the Jewish state, Israel must "kill" the 19th-century concept of a monolithic state and return to the "Tabernacle" model of communal coexistence.
+## Thesis
+The current political crisis in Israel is not merely a struggle over one leader (Bibi) or specific policies; it is a fundamental rejection of the "Normal Nation" model (centralized, authoritative, and monolithic) in favor of the original Jewish blueprint: a decentralized, tribal, and anti-authoritarian federation. To save the Jewish state, Israel must "kill" the 19th-century concept of a monolithic state and return to the "Tabernacle" model of communal coexistence.
 
----
+## The Two "Kings" of Israel
+Bibi has been criticised for being too authoritarian. TODO: talk about how crtitics point to the political reform and his tendancy to hoard power
+
+There's something suprising about this modern anti-Bibi view. After all, Bibi is far from the most authoritarian figure Israel had. Not by a long shot. That honer would go to David Ben-Gurion, Israel's first prime minister. He makes Bibi look like a libretarian hippy by comparison. So why are people criticising Bibi? It seems like Ben-Gurion established already that it's okay to be authoritarian.
+
+TODO: explain how critics are blaming populism.
+
+To truly understand why Ben-Gurion "got away with it" whilst Bibi didn't, we need to understand Ben-Gurion's historical context. TODO: talk about the historical context and Ben Gurion's vision for the "new Jew" of "mishmaat" and how since Judaism was so vunrable at the time, they were willing to go along with it
+
+TODO: explain how and why by 1967, the people remembered they were Jews and didn't want to listen to "hazakin" anymore. Explain how Ben Gurion's party disolved with no set succesor. Use the appritunity to compare this with Bibi
+
+Really, it's a historical considence that Ben-Gurion's gambit worked for as long as it did. But it was never too last. Israel is not like Singapore. TODO: explain how it is not in the blood of the Jewish people to be subservient. We would rather bicker and fight in tents than be submissive in a 10 story duplex. Say that Jews are defined by Huzpa rather than the Mishmaat Ben Gurion wanted
 
 ### **I. Introduction: The Two "Kings" of Israel**
 *   **The Paradox:** David Ben-Gurion was more authoritative than Benjamin Netanyahu, yet he is celebrated as a founder while Netanyahu is resisted as an autocrat.
