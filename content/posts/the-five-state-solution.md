@@ -18,9 +18,11 @@ To truly understand why Ben-Gurion "got away with it" whilst Bibi didn't, we nee
 
 But then came 1967. We won the Six-Day War, the existential panic subsided, and the "Jewish DNA" woke up. The moment the people stopped feeling like refugees, they remembered they were Jews—the descendants of prophets who argued with Kings. They didn't want to listen to *HaZaken* anymore. Ben-Gurion couldn't handle this shift. He became isolated, bitter, and eventually, his own party chewed him up and spit him out. He left behind no system, no successor, only a void. This is exactly the tragedy Bibi is repeating. Like Ben-Gurion, he has identified the State with himself to such a degree that he has ensured there is no one "authorized" to take the wheel when he's gone.
 
-TODO: if Ben-Gurion looked at the protests in modern day Tel-Aviv, he would have an existential crises. By his own standards, he failed. and that's a good thing...?
-
 Really, it's a historical coincidence that Ben-Gurion's gambit worked for as long as it did. But it was never going to last. Israel is not like Singapore. The Singaporean model relies on a populace willing to trade liberty and expression for efficiency and air-conditioning. But it is not in the blood of the Jewish people to be subservient. We are the stiff-necked people. We would rather bicker and fight in tents than be submissive in a 10-story duplex.
+
+TODO: if Ben-Gurion looked at the protests in modern day Tel-Aviv, he would have an existential crises. By his own standards, he failed. and that's a good thing...? Because we have a better economy and stuff
+
+Despite this, we still suffer from the very same issues Ben-Gurion set out to prevent. We are more divided than ever, full of _huztpa_ with zero unified culture. And there is no end in sight.
 
 ## The Rejection of the King
 Bibi and Ben-Gurion were not the first ones to propose this centralized architecture. The first call for a centralized leader came thousands of years ago, in the Book of Samuel. It is perhaps the most critical, yet overlooked, moment in Jewish political history. The Elders of Israel approached the prophet Samuel with a demand that sounds suspiciously modern: "Appoint for us a king to judge us *like all the nations*."
@@ -39,11 +41,23 @@ The result was immediate and catastrophic. The people didn't bow down; they walk
 
 This is the ancient version of the modern protest. When a leader tries to tighten the screws of the central authority—whether it’s Rehoboam with his taxes or Netanyahu with his judicial reforms—the "Jewish DNA" rejects the transplant. The tribes retreat to their tents. The Kingdom splits.
 
+The tragedy is that we usually read "To your tents, O Israel!" as a cry of rebellion, a sign of failure. But perhaps it was actually a moment of clarity. Perhaps the people were instinctively running away from a foreign political model that was suffocating them and running back to the only structure that ever actually worked for the Jews.
+
+They were running away from the Stone House and back to the Tent.
+
+And this brings us to the core of the solution. If the problem is the "Iron" of the centralized state—the rigid, unyielding demand for uniformity—then the cure cannot be a better King or a nicer Prime Minister. The cure requires a fundamental change in the architecture of the state itself. We need to stop trying to force the tribes into a monolithic fortress and start building a structure that can actually handle the wind.
+
+## From Temple to Tabernacle
+We often mistake the height of Jewish glory for the building of Solomon's Temple. We look at that massive stone complex in Jerusalem—centralized, wealthy, and imposing—and think, "That is what a Jewish State should look like." It is the ancient equivalent of the modern fantasy: a high-tech, sovereign fortress that commands the respect of the nations.
+
+But Yehova never _wanted_ a temple. That was King David's idea. TODO: explian Yehova's reaction as "going along with it" as He did with the demand for a king. But that was never the original idea. There was supposed to be a Tabernacle going from tribe to tribe
+
+TODO: explain how the temple become a symbol of centralized authority. Why and how it lead to civil war and got destroyed
 
 ### **V. The Architectural Solution: From Temple to Tabernacle**
 *   **The Temple (Solomon/Statism):** Permanent, stone-heavy, and centralized. It becomes a "Zero-Sum Prize" that leads to civil war and destruction. It is a geopolitical and internal "Fortress."
 *   **The Tabernacle (David/The Tribes):** Portable, flexible, and made of "willing hearts." It is a shared canopy (*Sukkah*) that covers different tents without merging them.
-*   **Political Realism:** A "Tabernacle" mindset (Federalism/Decentralization) is the only way to resolve the Temple Mount conflict and the internal "Tribal War." It lowers the stakes of the "Center" so the tribes stop trying to destroy one another.
+*   **Political Realism:** A "Tabernacle" mindset (Federalism/Decentralization) is the only way to resolve the internal "Tribal War." It lowers the stakes of the "Center" so the tribes stop trying to destroy one another.
 
 ### **VI. Conclusion: The Death that Saves the State**
 *   **Summary:** Ben-Gurion succeeded in building the hardware (the State), but his software (Statism) failed because it tried to "fix" the Jewish character.
