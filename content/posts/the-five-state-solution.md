@@ -18,23 +18,27 @@ To truly understand why Ben-Gurion "got away with it" whilst Bibi didn't, we nee
 
 But then came 1967. We won the Six-Day War, the existential panic subsided, and the "Jewish DNA" woke up. The moment the people stopped feeling like refugees, they remembered they were Jews—the descendants of prophets who argued with Kings. They didn't want to listen to *HaZaken* anymore. Ben-Gurion couldn't handle this shift. He became isolated, bitter, and eventually, his own party chewed him up and spit him out. He left behind no system, no successor, only a void. This is exactly the tragedy Bibi is repeating. Like Ben-Gurion, he has identified the State with himself to such a degree that he has ensured there is no one "authorized" to take the wheel when he's gone.
 
+TODO: if Ben-Gurion looked at the protests in modern day Tel-Aviv, he would have an existential crises. By his own standards, he failed. and that's a good thing...?
+
 Really, it's a historical coincidence that Ben-Gurion's gambit worked for as long as it did. But it was never going to last. Israel is not like Singapore. The Singaporean model relies on a populace willing to trade liberty and expression for efficiency and air-conditioning. But it is not in the blood of the Jewish people to be subservient. We are the stiff-necked people. We would rather bicker and fight in tents than be submissive in a 10-story duplex.
 
-### **II. The Failure of the "Normal Nation" (Mamlakhtiyut)**
-*   **The Ben-Gurion Experiment:** *Mamlakhtiyut* (Statism) was an attempt to "cure" Jews of their argumentative, tribal nature to ensure survival.
-*   **The "Normalcy" Trap:** Zionism’s goal was to be *K’chol HaGoyim* ("Like all the nations"). This meant a centralized army, a centralized education system, and a "New Jew" who obeys the state.
-*   **Why it Worked (Temporarily):** The "Existential Emergency" (1948–1967) acted as a straitjacket, forcing a naturally rebellious people to accept a "Father" figure (*HaZaken*).
-*   **The Success Paradox:** By building a strong "vessel," Ben-Gurion allowed Israelis the luxury of returning to their natural state: being a "stiff-necked" people.
+## The Rejection of the King
+Bibi and Ben-Gurion were not the first ones to propose this centralized architecture. The first call for a centralized leader came thousands of years ago, in the Book of Samuel. It is perhaps the most critical, yet overlooked, moment in Jewish political history. The Elders of Israel approached the prophet Samuel with a demand that sounds suspiciously modern: "Appoint for us a king to judge us *like all the nations*."
 
-### **III. The Singapore Trap vs. Jewish Chutzpah**
-*   **The Singapore Model:** Prosperity and stability in exchange for discipline (*Mishma’at*) and limited freedom.
-*   **The Jewish Operating System:** The "Start-up Nation" is built on *Chutzpah*—the religious and cultural mandate to question authority (from Abraham arguing with God to the tech entrepreneur arguing with the CEO).
-*   **The Conflict:** Netanyahu is trying to apply 1950s "Strongman" authority (or 21st-century Singaporean efficiency) to a 2024 population that is culturally wired for disruption and rebellion. You cannot have a high-tech economy and a submissive citizenry simultaneously.
+The reaction from Heaven was devastating. Samuel was insulted, but God told him to take it personally: "They have not rejected you," God says, "they have rejected *Me* from being king over them."
 
-### **IV. Theological Roots: The Rejection of the King**
-*   **The Original Warning:** Revisit **1 Samuel 8**. God defines the desire for a King (a centralized state) as a rejection of Divine authority.
-*   **The "Scorpions" of Rehoboam:** Compare Netanyahu/Ben-Gurion’s centralization to King Rehoboam. When a leader refuses to lighten the "yoke" of the center, the tribes naturally say: *"To your tents, O Israel!"*
-*   **The Mission:** Israel was never meant to be a "Normal Nation." Its beauty and "Light" come from showing how 12 distinct tribes can coexist without a human King (or a centralized autocracy) to hold them together.
+The divine blueprint for Israel was never a centralized monarchy. God didn't want a "State" in the conventional sense; He wanted a Federation. He designed a system of twelve distinct tribes, each with its own territory, culture, and economy, bound together not by a strongman executive, but by a shared spiritual covenant. In God's vision, there was no seat for a human King because that seat was already taken.
+
+But the people insisted. They didn't want to be special; they wanted to be "normal." They wanted the security and efficiency of a monarch. This ancient demand to be like all the other nations"—is the exact same impulse driving modern Zionism. Ben-Gurion wanted Israel to be a "normal" socialist state with its own criminals and policemen. Netanyahu wants Israel to be a "normal" economic superpower like Singapore. Both men fell into the trap of believing that the only way to survive is to copy the political architecture of the Gentiles. They viewed the decentralized, tribal chaos of Jewish life as a bug to be patched, rather than a feature designed by God Himself.
+
+History shows us exactly where this desire leads. The "United Monarchy"—ancient Israel’s brief attempt at being a regional superpower under Solomon—ultimately backfired in the days of his son, Rehoboam. When Solomon died, the tribes came to the new King with a simple request: the central government had become too heavy, the taxes too high, the demands too great. They asked for the "yoke" to be lightened.
+
+Rehoboam faced the classic dictator’s dilemma. His older, wiser advisors told him to serve the people and compromise. But his young, arrogant advisors told him to project strength. They told him that he "must have that iron in him". Rehoboam listened and delivered the most disastrous speech in Jewish history: "My father chastised you with whips, but I will chastise you with scorpions."
+
+The result was immediate and catastrophic. The people didn't bow down; they walked away. The cry went up: *"To your tents, O Israel!"*
+
+This is the ancient version of the modern protest. When a leader tries to tighten the screws of the central authority—whether it’s Rehoboam with his taxes or Netanyahu with his judicial reforms—the "Jewish DNA" rejects the transplant. The tribes retreat to their tents. The Kingdom splits.
+
 
 ### **V. The Architectural Solution: From Temple to Tabernacle**
 *   **The Temple (Solomon/Statism):** Permanent, stone-heavy, and centralized. It becomes a "Zero-Sum Prize" that leads to civil war and destruction. It is a geopolitical and internal "Fortress."
