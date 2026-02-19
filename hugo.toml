@@ -6,6 +6,7 @@ enableRobotsTXT = true
 
 [params]
   env = "production"
+  description = "Essays by Natan Freeman on technology, AI, history, and more"
   github_repo = "https://github.com/NatanFreeman/essays"
   defaultTheme = "auto"
   disableThemeToggle = true
