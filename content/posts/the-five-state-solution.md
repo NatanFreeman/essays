@@ -22,10 +22,19 @@ Really, it's a historical coincidence that Ben-Gurion's gambit worked for as lon
 
 If Ben-Gurion were to stand on a balcony overlooking the modern protests in Tel Aviv, he wouldn't just be angry; he would suffer a total existential crisis. He spent his life trying to engineer the "New Jew," a disciplined Spartan who would subordinate his ego to the Mamlachtiyut (Statism). He wanted a monolithic block of granite; instead, he got a chaotic mosaic of a million jagged pieces.
 
-By Ben-Gurion’s own metrics, he failed. He didn't kill the "Old Jew" of the Diaspora; he just gave him a Hebrew passport and F16 jets.
+By Ben-Gurion’s own metrics, he failed. He didn't kill the "Old Jew" of the Diaspora; he just gave him a Hebrew passport and F16 fighter jets.
 Yet, in a twist of historical irony, this failure is our greatest asset. If we had actually become the disciplined, obedient cogs Ben-Gurion dreamed of, we would practically be an Eastern Europian country. Instead, that irrepressible *Chutzpah*—the very refusal to accept "no" or follow a centralized command—is what fuels the Israeli engine. You cannot build a "Startup Nation" out of obidient drones. It is our fundamental anti-authoritarianism that allows a twenty-year-old soldier to challenge a general, or a developer to disrupt an entire global industry. We traded the orderly efficiency of a "Normal Nation" for a chaotic, high-tech vitality that only a "Stiff-Necked People" could produce.
 
-Despite this, we still suffer from the very same issues Ben-Gurion set out to prevent. We are more divided than ever, full of _huztpa_ with zero unified culture. And there is no end in sight. 
+Despite this, we still suffer from the very same issues Ben-Gurion set out to prevent. We are more divided than ever, full of _huztpa_ with zero unified culture. And there is no end in sight. TODO: give examples showing how we are divided and can't agree on anything
+
+## Death of the State
+Ben-Gurion’s "Jewish State" was based on the idea that there is one "correct" way to be a Zionist. He believed that over time, the Haredim would disappear, the Arabs would become quiet, and the Mizrahim would become "Europeanized" secular laborers. The reality is that none of that happened. They all grew stronger and more self-assured.
+
+This creates direct friction with the Ben-Gurion model, in which the state is a Zero-Sum Prize. Whoever wins the election (51%) gets to decide the "soul" of the country for the other 49%. Everything from the education curriculums to laws over marriage and the army. Because the stakes are "The Soul of the Nation," the "pushback" is existential. If you lose an election, you feel like your way of life is being "killed."
+
+The only way to save the Jewish state from its current trajectory ...is to kill the Jewish state. Israel was never _meant_ to be organized in such a centralized architecture.  We have to move from monolithic, melting-pot entity to something more like a Federation of Israelis. No one is going to "win." The secular liberals won't "enlighten" the Haredim, and the Haredim won't "convert" the secularists.
+
+TODO: The "Altneuland" Irony. Ironically, the father of Zionism, Theodor Herzl, imagined a "Jewish State" (Altneuland) that was much more like a decentralized "Company-State" or a federation of cooperatives than Ben-Gurion’s centralized powerhouse.
 
 ## The Rejection of the King
 Bibi and Ben-Gurion were not the first ones to propose this centralized architecture. The first call for a centralized leader came thousands of years ago, in the Book of Samuel. It is perhaps the most critical, yet overlooked, moment in Jewish political history. The Elders of Israel approached the prophet Samuel with a demand that sounds suspiciously modern: "Appoint for us a king to judge us *like all the nations*."
@@ -34,7 +43,7 @@ The reaction from Heaven was devastating. Samuel was insulted, but God told him 
 
 The divine blueprint for Israel was never a centralized monarchy. God didn't want a "State" in the conventional sense; He wanted a Federation. He designed a system of twelve distinct tribes, each with its own territory, culture, and economy, bound together not by a strongman executive, but by a shared spiritual covenant. In God's vision, there was no seat for a human King because that seat was already taken.
 
-But the people insisted. They didn't want to be special; they wanted to be "normal." They wanted the security and efficiency of a monarch. This ancient demand to be like all the other nations"—is the exact same impulse driving modern Zionism. Ben-Gurion wanted Israel to be a "normal" socialist state with its own criminals and policemen. Netanyahu wants Israel to be a "normal" economic superpower like Singapore. Both men fell into the trap of believing that the only way to survive is to copy the political architecture of the Gentiles. They viewed the decentralized, tribal chaos of Jewish life as a bug to be patched, rather than a feature designed by God Himself.
+But the people insisted. They didn't want to be special; they wanted to be "normal." They wanted the security and efficiency of a monarch. This ancient demand to be like all the other nations"—is the exact same impulse driving modern Zionism. Ben-Gurion wanted Israel to be a "normal" socialist state with its own criminals and policemen. Bibi wants Israel to be a "normal" economic superpower like Singapore. Both men fell into the trap of believing that the only way to survive is to copy the political architecture of the Gentiles. They viewed the decentralized, tribal chaos of Jewish life as a bug to be patched, rather than a feature designed by God Himself.
 
 History shows us exactly where this desire leads. The "United Monarchy"—ancient Israel’s brief attempt at being a regional superpower under Solomon—ultimately backfired in the days of his son, Rehoboam. When Solomon died, the tribes came to the new King with a simple request: the central government had become too heavy, the taxes too high, the demands too great. They asked for the "yoke" to be lightened.
 
@@ -42,37 +51,28 @@ Rehoboam faced the classic dictator’s dilemma. His older, wiser advisors told 
 
 The result was immediate and catastrophic. The people didn't bow down; they walked away. The cry went up: *"To your tents, O Israel!"*
 
-This is the ancient version of the modern protest. When a leader tries to tighten the screws of the central authority—whether it’s Rehoboam with his taxes or Netanyahu with his judicial reforms—the "Jewish DNA" rejects the transplant. The tribes retreat to their tents. The Kingdom splits.
+This is the ancient version of the modern protest. When a leader tries to tighten the screws of the central authority—whether it’s Rehoboam with his taxes or Bibi with his judicial reforms—the "Jewish DNA" rejects the transplant. The tribes retreat to their tents. The Kingdom splits.
 
 The tragedy is that we usually read "To your tents, O Israel!" as a cry of rebellion, a sign of failure. But perhaps it was actually a moment of clarity. Perhaps the people were instinctively running away from a foreign political model that was suffocating them and running back to the only structure that ever actually worked for the Jews.
 
 They were running away from the Stone House and back to the Tent.
 
-And this brings us to the core of the solution. If the problem is the "Iron" of the centralized state—the rigid, unyielding demand for uniformity—then the cure cannot be a better King or a nicer Prime Minister. The cure requires a fundamental change in the architecture of the state itself. We need to stop trying to force the tribes into a monolithic fortress and start building a structure that can actually handle the wind.
+TODO: tie this back into my core argument of a five-state-solution. Do this by explaining how just like Ben-Gruion the House of David was a historical anamolly. Israel was surrounded by superpowers (Egypt, Philistines, Arameans) and so wanted to be like the nations. And this came with the costs we've discussed
 
 ## From Temple to Tabernacle
-We often mistake the height of Jewish glory for the building of Solomon's Temple. We look at that massive stone complex in Jerusalem—centralized, wealthy, and imposing—and think, "That is what a Jewish State should look like." It is the ancient equivalent of the modern fantasy: a high-tech, sovereign fortress that commands the respect of the nations.
+Some of you might reject this idea of a decentralized federation. TODO: talk about sinaat hinam After all, "division is what destroyed the Second Temple" you might say. But this completely misses the point. God never _wanted_ a temple. TODO: talk about the structure of the Tabernacle, how it was supposed to move between the tribes and be for everyone
 
-But Yehova never _wanted_ a temple. That was King David's idea. TODO: explian Yehova's reaction as "going along with it" as He did with the demand for a king. But that was never the original idea. There was supposed to be a Tabernacle going from tribe to tribe
+TODO: explain that the sinaat hinam was only there _because_ of the zero sum competition for the vessel. It became a symbol of centralized authority. Why and how it lead to civil war and got destroyed
 
-TODO: explain how the temple become a symbol of centralized authority. Why and how it lead to civil war and got destroyed
+TODO: The 12 tribes were only supposed to agree on Spirituality, which was represented by a _moving_ Tabernacle and defense (the judges)
 
-### **V. The Architectural Solution: From Temple to Tabernacle**
-*   **The Temple (Solomon/Statism):** Permanent, stone-heavy, and centralized. It becomes a "Zero-Sum Prize" that leads to civil war and destruction. It is a geopolitical and internal "Fortress."
-*   **The Tabernacle (David/The Tribes):** Portable, flexible, and made of "willing hearts." It is a shared canopy (*Sukkah*) that covers different tents without merging them.
-*   **Political Realism:** A "Tabernacle" mindset (Federalism/Decentralization) is the only way to resolve the internal "Tribal War." It lowers the stakes of the "Center" so the tribes stop trying to destroy one another.
+TODO: address Psalms 132 by explaining the difference between The Place and The Building. The tragedy of Jewish history is that we often mistake the Container for the Presence. When the First and Second Temples became tools of a corrupt monarchy or a priestly elite, God effectively "checked out" of the hotel. He returned to His "Tent" (the people) and left the "Building" (the stone house) to be burned.
 
-### **VI. Conclusion: The Death that Saves the State**
-*   **Summary:** Ben-Gurion succeeded in building the hardware (the State), but his software (Statism) failed because it tried to "fix" the Jewish character.
-*   **The Choice:** Israel can continue to chase the "Singaporean" mirage of centralized order, which will lead to a repeat of the "Split Kingdom" (Israel vs. Judah), or it can embrace its tribal nature.
-*   **Final Thought:** To save the Jewish State, we must "kill" the idol of the monolithic State. We must realize that the "Vessel" is not a stone building in Jerusalem, but the "Chutzpah" of a people who refuse to have any King but God. The Third Temple is not a building of stone; it is the Tabernacle of coexistence.
+TODO: talk about Amos, and how it says the third Temple will be a _sukka_ (a moving Tabernacle)
 
----
+## A Light to the Nations
+TODO: talk about how being a "light to the nations" has often been interpreted as being a powerhouse like Singapore. But we already have Singapore and many other successful countries. We have always had those. That is not what the world need. The world needs a country to set an example of harmony. To show the world that we can be different and still respect and protect each other. If Singapore is the example, it only says that the biggest country should bully everyone else into assimilating to a monolithic entity
 
-### **Suggested "Mic-Drop" Quotes for the Essay:**
-*   *"Ben-Gurion wanted to build a nation like the nations; the Jews, however, insisted on remaining Jews."*
-*   *"The 80-year cycle of Jewish sovereignty is not a curse of history, but a symptom of trying to force a 'nomadic' soul into a 'stone' state."*
-*   *"Netanyahu is fighting the gatekeepers, but the ultimate gatekeeper is the 'Stiff-Necked' DNA of the people he seeks to lead."*
-*   *"We were not chosen to be a disciplined army of subjects, but a rowdy family of priests."*
+By embracing the Zionist Dream, we are not merely applying a skeuomorphism from 1948. Rather, we are repeating the sins of our ancestors which date back to Biblical times. We are rejecting Yehovah and loosing the very thing that made Israel beautiful in the first place.
 
 need to add amos and being a light to the nations
