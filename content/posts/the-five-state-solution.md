@@ -149,12 +149,18 @@ The reaction from Heaven was devastating. Samuel was insulted, but God told him
 to take it personally: "They have not rejected you," God says, "they have
 rejected _Me_ from being king over them."
 
-The divine blueprint for Israel was never a centralized monarchy. God didn't
-want a "State" in the conventional sense; He wanted a Federation. He designed a
-system of twelve distinct tribes, each with its own territory, culture, and
-economy, bound together not by a strongman executive, but by a shared spiritual
-covenant. In God's vision, there was no seat for a human King because that seat
-was already taken.
+The Abarbanel highlights this. He explicitly disagrees with Maimonides, arguing
+that God never commanded the Jews to have a king. To him, the monarchy was a
+concession to human weakness, a departure from the ideal rather than the
+fulfillment of one. He famously asked: "Why should a people need a King? A King
+is only necessary for nations who have no Law. But we have the Torah!"
+
+He is correct. After all, the divine blueprint for Israel was never a
+centralized monarchy. God didn't want a "State" in the conventional sense; He
+wanted a Federation. He designed a system of twelve distinct tribes, each with
+its own territory, culture, and economy, bound together not by a strongman
+executive, but by a shared spiritual covenant. In God's vision, there was no
+seat for a human King because that seat was already taken.
 
 But the people insisted. They didn't want to be special; they wanted to be
 "normal." They wanted the security and efficiency of a monarch. This ancient
