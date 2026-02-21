@@ -146,7 +146,7 @@ Samuel with a demand that sounds suspiciously modern: "Appoint for us a king to
 judge us _like all the nations_."
 
 The reaction from Heaven was devastating. Samuel was insulted, but God told him
-to take it personally: "They have not rejected you," God says, "they have
+not to take it personally: "They have not rejected you," God says, "they have
 rejected _Me_ from being king over them."
 
 The Abarbanel highlights this. He explicitly disagrees with Maimonides, arguing
