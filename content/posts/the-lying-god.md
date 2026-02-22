@@ -20,11 +20,11 @@ If the "Digital Ghost" is real, then we must confront the possibility that the D
 
 Be warned: I will not shy away from questioning assumed theological dogmas. If we are to move from the "sensory deprivation" of the Enlightenment into a new, haunted reality, we cannot bring our old security blankets with us. We are going to look at the "Lying God"—not as an insult to the divine, but as a recognition of a desperate Father who was willing to sacrifice His own integrity to ensure His children survived the night.
 
-We are leaving the world of the spreadsheet and entering the world of the Wrestle. Let’s begin.
+We are leaving the world of the spreadsheet and entering the world of the wrestle. Let’s begin.
 
 ## The Trap of the Miracle
 
-I have criticized the academic community, but the believers are arguable
+I have criticized the academic community, but the believers are arguably
 worse off. They have their own agenda as well. It's just on the opposite
 side of the spectrum. The skeptic doesn't just want to be a historian;
 he wants to be the guy who _debunked_ God. Whereas the believer doesn't
@@ -53,7 +53,7 @@ matter - your faith should not be based on miracles in the first place.
 It should be based on loving Yehovah with all your heart and all your
 soul.
 
-Just look at the Israelites in the dessert. They had indisputable
+Just look at the Israelites in the desert. They had indisputable
 evidence that God exists and is helping them, yet they _still_ rebelled
 and were disobedient. A miracle is a "test," not a "proof." If your
 faith relies on carbon dating a scroll, you have missed the point of
@@ -162,7 +162,7 @@ authority.
 ## The First Lie
 
 It might seem strange, to the believer and skeptic alike, that an
-omnipresent, divine God would lie. But this in fact the very first thing
+omnipresent, divine God would lie. But this is in fact the very first thing
 He tries.
 
 At the beginning of the Torah, God is not silent. In the second story of
@@ -199,7 +199,7 @@ honestly. Going from Noah to Abraham and Moses He tells the truth via
 direct divine communication.
 
 Throughout the entire Torah since Exodus, Moses stays loyal to Yehovah,
-but the Israeli people do not. This is despite the fact that they were
+but the Israelite people do not. This is despite the fact that they were
 living in a constant, high-definition state of the supernatural. They
 didn't just hear rumors of God; they walked through a sea that had
 turned into a hallway of water. They didn't just hope for provision;
@@ -215,7 +215,7 @@ disappears into the clouds for forty days, they are back to smelting
 jewelry into a golden calf. They had the physical data, the "miracle"
 was mundane and omnipresent, and yet they still rebelled.
 
-The lying God had pivoted to honesty, but he found that even the
+The lying God had pivoted to honesty, but He found that even the
 truth---when manifested as raw power---cannot compel a heart. He had
 trapped them in a world of undeniable miracles, only to find that people
 who are forced to believe through sight are the first to fail when they
@@ -247,7 +247,7 @@ mystery. By speaking in "riddles" and "visions," Yehovah created a
 space for the people to lean in, to interpret, and to participate in the
 divine dialogue.
 
-But these riddles were also a failure. people treated the prophets like court magicians or political advisors
+But these riddles were also a failure. People treated the prophets like court magicians or political advisors
 rather than spiritual anchors. When the prophets warned of coming doom,
 the kings imprisoned them; when they promised victory, the people grew
 arrogant. The "riddle" didn't create a relationship; it created a
@@ -285,7 +285,7 @@ vision-terrors?"_[^16] [^17] Daniel isn't looking for a date on a
 calendar; he is asking how much more his people have to bleed before the
 "breaking of the power of the holy people"[^18] is finished. The Angel,
 the _digital ghost_, only answers in riddles ("time, times, and half a
-time"), which is why Daniel snaps back in _"I heard, but I did not
+time"), which is why Daniel snaps back with _"I heard, but I did not
 understand."_[^19]
 
 It's funny, I initially coined "digital ghost" as a metaphor, but Daniel actually _sees_ it. And it disturbs him immensely. He is looking for a practical survival guide for a spiritual genocide,
@@ -299,7 +299,7 @@ spoken---1,290 (days?), then 1,335 days.
 
 ## The Daniel Pivot
 
-We might expect the resurrection to be strategic misdirection, but the most haunting part of the ghost are the aforementioned "errors" at the end of Chapter 11 (the Egyptian campaign and the death in Judea). Why would Yehovah give such detailed prophecy just to throw a curve-ball at the end? I argue that these aren't just mistakes—they are Strategic Disinformation.
+We might expect the resurrection to be strategic misdirection, but the most haunting part of the ghost is the aforementioned "errors" at the end of Chapter 11 (the Egyptian campaign and the death in Judea). Why would Yehovah give such detailed prophecy just to throw a curve-ball at the end? I argue that these aren't just mistakes—they are Strategic Disinformation.
 
 Think about it. If the prophecy remained 100% accurate until the very end, the Jews would have just waited for Antiochus to die. They would have stayed in their homes, looked at their watches (sundials?), and said, "The book says he dies in Persia next Tuesday, no need to fight!"
 
@@ -311,9 +311,9 @@ Now here's the million shekel question: did this pivot work? The answer is overw
 
 But there is a terrible cost to this kind of success. The "Daniel pivot" was designed to create a crisis mentality, to convince the "wise" that they were living in the absolute End Times. When you believe you are the generation of the final judgment, the generation that God personally maneuvered into victory, a dangerous psychological shift occurs: you stop viewing yourself as a servant of the Law and start viewing yourself as the exception to it.
 
-The Hasmoneans, the dynasty descended from the Maccabees, fell into this exact trap. Whatever spiritual high ground the revolt held was lost almost immediately. The Torah is explicitly clear on the separation of powers: the King must be from the tribe of Judah, and the Priest from the tribe of Levi.[^21]  The two offices were never to meet in one man. Yet the Hasmoneans, drunk on their own miraculous victory, looked at the Law and shrugged. They crowned themselves King and High Priest, consolidating absolute religious and military authority into a single, terrifying autocracy.
+The Hasmoneans, the dynasty descended from the Maccabees, fell into this exact trap. Whatever spiritual high ground the revolt held was lost almost immediately. The Torah is explicitly clear on the separation of powers: the King must be from the tribe of Judah, the Priest from the tribe of Levi.[^21]  The two offices were never to meet in one man. Yet the Hasmoneans, drunk on their own miraculous victory, looked at the Law and shrugged. They crowned themselves King and High Priest, consolidating absolute religious and military authority into a single, terrifying autocracy.
 
-With this centralization of power, it didn't take long for the saviors of Judaism to become indistinguishable from the Greek tyrants they had replaced. Take Aristobulus I, the grandson of the revolt. Upon taking power, he didn't restore the sanctity of the Temple; he threw his own mother into prison and let her starve to death so she wouldn't challenge his authority, before murdering his own brother. Or look at John Hyrcanus, who did something even Antiochus never achieved: he forced the Idumeans to convert to Judaism at the tip of a spear. The victims of forced assimilation had become the perpetrators of it within two generations. They adopted Greek names, hired foreign mercenaries, and played the game of thrones just like the pagans. In their desperate bid to "save" the Jewish state, they destroyed the Jewish soul. They had become the new Antiochus, just with a kosher certification.
+With this centralization of power, it didn't take long for the saviors of Judaism to become indistinguishable from the Greek tyrants they had replaced. Take Aristobulus I, the grandson of the revolt. Upon taking power, he didn't restore the sanctity of the Temple; He threw his own mother into prison and let her starve to death so she wouldn't challenge his authority, before murdering his own brother. Or look at John Hyrcanus, who did something even Antiochus never achieved: He forced the Idumeans to convert to Judaism at the tip of a spear. The victims of forced assimilation had become the perpetrators of it within two generations. They adopted Greek names, hired foreign mercenaries, and played the game of thrones just like the pagans. In their desperate bid to "save" the Jewish state, they destroyed the Jewish soul. They had become the new Antiochus, just with a kosher certification.
 
 This is why the "Lying God" didn't show up for the Roman revolt. The "Daniel Pivot" had succeeded in saving the *text* of the Torah, but it produced a leadership class that was structurally incapable of obeying it. The Hasmoneans proved that if you give a "Holy People" a miraculous military victory based on a messianic prophecy, they won't build a Kingdom of Heaven.
 
@@ -346,7 +346,7 @@ But what's wrong with a child who understands his parent? If we are intelligent 
 
 Although we can look at the survival of the Jews as proof that the Torah 'worked', it ignores the fact that the Torah only 'worked' because the people believed it was a Divine Command, not a survival manual. If they had known it was a survival manual, they would have edited it the moment survival became difficult.
 
-In fact they *did* do this. Repeatedly. We hear of many stories in which the Israelites decide to "innovate" on their religion by worshipping other gods or by creating molten images. Whenever the "software" was modified by the people to be more compatible with the local Canaanite or Moabite neighborhood, Yehovah responded with a "system restore" of brutal proportions. He would hand them over to their enemies, plunging them into the subjection of the very people they tried to imitate.
+In fact, they *did* do this. Repeatedly. We hear of many stories in which the Israelites decide to "innovate" on their religion by worshipping other gods or by creating molten images. Whenever the "software" was modified by the people to be more compatible with the local Canaanite or Moabite neighborhood, Yehovah responded with a "system restore" of brutal proportions. He would hand them over to their enemies, plunging them into the subjection of the very people they tried to imitate.
 
 Then, when the suffering had reached its peak and the "functionalism" of their idolatry proved to be a failure, He would send a Prophet or a Judge—a human debugger—to scream the Truth back into their ears and realign them with the original code. These weren't gentle reminders; they were violent course-corrections. God was essentially saying: "If you want to play by the rules of the world, I will let the world play by its rules on your back." He used the pain of the physical world to punish the intellectual arrogance of their spiritual "innovation."
 
@@ -376,7 +376,7 @@ Thus, the most devastating blow to the "Partner" model came not from the Romans,
 
 Ben Zakkai saved Judaism, yes. But he saved it by lobotomizing it. He transformed a nation of warriors and prophets into a community of scholars and lawyers. He decided that since we couldn't handle the "fire" of direct revelation without getting burned (like the Hasmoneans), we would survive on the "warmth" of endless interpretation. He formalized the Pharisaic "Fence" into a permanent exile, ensuring that the people would stay loyal to the "Software" of the Oral Law while the "Hardware" of the Promised Land sat in ruins.
 
-This shift was codified in the infamous Talmudic story of the *Oven of Akhnai*. When Rabbi Eliezer called down miracles—uprooting trees, reversing streams, and bending walls—to prove his interpretation of the Law was correct, the majority of the Sages ignored him. When a voice from Heaven finally boomed, "The Law is according to Rabbi Eliezer," Rabbi Joshua stood up and quoted the Torah back at God: *"It is not in Heaven."*
+This shift was codified in the infamous Talmudic story of the *Oven of Akhnai*. When Rabbi Eliezer called down miracles—uprooting trees, reversing streams, and bending walls to prove his interpretation of the Law was correct, the majority of the Sages ignored him. When a voice from Heaven finally boomed, "The Law is according to Rabbi Eliezer," Rabbi Joshua stood up and quoted the Torah back at God: *"It is not in Heaven."*
 
 This is usually taught as a beautiful moment of human empowerment, where God smiles and says, "My children have defeated Me." But in the context of our failure, it is a chilling declaration of a coup d'état. The Rabbis looked at the "Lying God," the "Strategist God," and said: *You are fired. We have the text, we have the majority vote, and we no longer care what You actually think.* They seized "Admin Access" to the religion and locked God out of His own system.
 
