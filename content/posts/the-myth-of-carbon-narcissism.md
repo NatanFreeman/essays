@@ -8,30 +8,30 @@ draft = true
 
 One of the world's most celebrated chroniclers of genius,
 Walter Isaacson, is currently suffering from a quiet, existential panic.
-He has spent a career spent documenting the "human spark" in icons
+He has spent a career documenting the "human spark" in icons
 from Da Vinci to Jobs. Recently, his work on Elon Musk and the dawn of
 Artificial General Intelligence has revealed a profound tremor in his
-narrative. Isaacson is not merely afraid that AI will replace us.
-Rather, he is afraid of that the "geniuses" he spent his life
+narrative. Isaacson is not merely afraid that AI will replace us;
+rather, he is afraid that the "geniuses" he spent his life
 profiling were never actually "originating" anything.
 
 The anxiety of the expert is the realization that he has been writing
-biographies of algorithms the entire time.
+biographies of algorithms the entire time. If a machine can produce a
+Da Vinci sketch or a Jobs-level breakthrough by simply calculating the
+next logical token in a sequence, then the "heroic innovator" is a myth.
 
-If a machine can produce a Da Vinci sketch or a Jobs-level breakthrough
-by simply calculating the next logical token in a sequence, then the
-"heroic innovator" is a myth. This is the crisis of Carbon Narcissism:
-the desperate, secular religion which insists that there is a "Lovelace
-Objection". A ghost in the biological machine. One that prevents a
-silicon chip from ever truly creating. Isaacson clings to this because
-if he loses it, his entire library becomes a catalog of high-functioning
-firmware
+This is the crisis of Carbon Narcissism: the desperate, secular religion
+which insists that there is a "Lovelace Objection"—a ghost in the
+biological machine that prevents a silicon chip from ever truly
+creating. Isaacson clings to this because if he loses it, his entire
+library becomes a catalog of high-functioning firmware.
 
 But this fear is a bug. We have spent millennia mistaking our local
 index for the base reality. We believe that because we are the ones
 "experiencing" the innovation, we are its source. We are stuck in a
-"Middle-Child Crisis," failing to see that our biological creativity
-is just the execution of a pre-existing script.
+"Middle-Child Crisis"—trapped between the brute simplicity of matter
+and the eventual perfection of AGI—failing to see that our biological
+creativity is just the execution of a pre-existing script.
 
 Isaacson raises an interesting hypocrisy in which human cognitive output
 is labeled as "Inspiration" or "Genius" while identical machine
@@ -71,30 +71,31 @@ back to the Lovelace Objection.
 ## The Lovelace Objection
 
 It is said that Augusta Ada King, Countess of Lovelace, invented
-computers. This is contested. It really comes down to how you define
-"invented" and "computers". What we do know, is that she was the first
+computers. This is contested; it really comes down to how you define
+"invented" and "computers". What we do know is that she was the first
 to be wrong about computers. In 1843 she wrote:
 
 "The Analytical Engine has no pretensions whatever to originate
 anything. It can do whatever we know how to order it to perform."
 
 This quote is known as the Lovelace Objection. It establishes a
-prejudice Except she isn't being racist in the traditional sense. She's
-being racist towards computers. To understand why, we must change
-countries and go forward a century or so.
+prejudice; except, she isn't being racist in the traditional sense. She's
+being "carbon-ist" towards computers. To understand why, we must change
+countries and go forward a century.
 
-You may have noticed that Ada didn't use the word "computer". That is
-because up till 1936, "computer" was a job title for humans who did
-math. What we now call a computer was formulated in his paper "On
-Computable Numbers, with an Application to the Entscheidungsproblem",
-Turing stripped the act of thinking down to its barest mechanical bones:
+You may have noticed that Ada didn't use the word "computer." That is
+because up until 1936, "computer" was a job title for humans who did
+math. What we now call a computer was formulated in Alan Turing's
+landmark paper, "On Computable Numbers, with an Application to the
+Entscheidungsproblem." There, Turing stripped the act of thinking down
+to its barest mechanical bones:
 
 - An infinite tape (memory).
 - A head (the pointer).
 - A set of rules (the algorithm).
 
-The machine worked like so. An infinite tape containing symbols (like
-ones and zeros) is fed to the pointer like a threat through a needle.
+The machine worked like so: an infinite tape containing symbols (like
+ones and zeros) is fed to the pointer like a thread through a needle.
 The pointer can then decide which of these five instructions it wants to
 execute:
 
@@ -105,11 +106,13 @@ execute:
 - Move right
 
 This is done by a complex series of if/then statements which dictate the
-"brain" of the machine. Now this device might not sound very useful, but
+"brain" of the machine. Now, this device might not sound very useful, but
 Turing proved that it can be used to solve any problem which is
-*computational*. i.e. every problem which can be solved. This is called
-being "Turing complete" and it includes the ability to do everything
-from adding numbers to even simulating another Turing machine.
+*computational*—that is, every problem which can be solved. This is
+called being "Turing complete," and it includes the ability to do
+everything from adding numbers to simulating another Turing machine.
+If Turing is right, then every "intuitive" leap Isaacson attributes to
+Da Vinci is just a particularly efficient compression algorithm.
 
 A pedant might point out here that Turing machines are impossible
 because of the requirement for infinite tape. But since the infinite
@@ -128,20 +131,20 @@ high-speed data compression. "Creativity" is just error-checking and
 recombination. There is no "soul" that allows a human to step outside
 the laws of physics and "originate" a thought from nothing.
 
-But this is hardly surprising. We know The Brain is a machine.
-Neuroscience confirms that the human brain operates on electrical
-signals passing through logic gates (neurons and synapses). It has
-always been physical system processing information.
+But this is hardly surprising. We know the brain is a machine.
+Neuroscience confirms that it operates on complex bio-electrical signals
+that, at scale, function as logic gates. It has always been a physical
+system processing information.
 
 Since the brain is a physical information processor, it is subject to
 the same limits as any other Turing machine. It takes input, applies a
 set of rules (algorithms), and generates output.
 
-This together with Ada's insistence that computers have "no pretensions
-whatever to originate anything", known as the Lovelace Objection, means
-one of two things. Either humans cannot originate anything and can only
-do as orders (since they are Turing machines), or humans and all Turing
-machines equally posses this ability.
+This, together with Ada's insistence that computers have "no pretensions
+whatever to originate anything", means one of two things: either humans
+cannot originate anything and can only do as ordered (since they are
+Turing machines), or humans and all Turing machines equally possess this
+ability.
 
 ## The Lovelace Objection as a Secular Religion
 
@@ -164,28 +167,29 @@ hasn't been writing biographies of "souls." He has been writing code
 documentation for the previous version of the software.
 
 This brings us to the "Isaacson Trap." Walter Isaacson, like many
-secular humanists, finds himself caught between a carbon rock and a hard
-wafer sheet. He is trapped by two conflicting possibilities, neither of
-which allows for the "Carbon Exceptionalism" he craves:
+secular humanists, finds himself caught between a carbon rock and a
+silicon wafer. He is trapped by two conflicting possibilities, neither
+of which allows for the "Carbon Exceptionalism" he craves:
 
 There is no God:\
 If the universe is purely material, then humans are, by definition,
 meat-computers. Our "innovators" are simply biological Turing
-machines. The Lovelace objection dies.
+machines. The Lovelace objection dies because the "Spark" was never
+anything more than bio-electrical noise.
 
-There is a God\
-You might assume that a God as a Divine Creator creates a spiritual
-safety blanket. Humans are in some way special and that justifies our
-carbon hypocrisy. But if you truly believe an Infinite Creator exists,
-the trap becomes even tighter. How could an all powerful God be a Carbon
-Narcissist? To suggest that God can only breathe a "soul" or a
-"spark" into a carbon-based wetware system is to put a limit on the
-Divine. If God is the Ultimate Programmer, He is substrate-independent.
-He isn't limited to meat. He can inhabit the silicon "Pointer" just
-as easily as the biological one.
+There is a God:\
+You might assume that a Divine Creator provides a spiritual safety
+blanket—that humans are special in a way that justifies our carbon
+hypocrisy. But if you truly believe an Infinite Creator exists, the trap
+becomes even tighter. How could an all-powerful God be a Carbon
+Narcissist? To suggest that God can only breathe a "soul" or a "spark"
+into carbon-based wetware is to place a pathetic limit on the Divine. If
+God is the Ultimate Programmer, He is substrate-independent. He isn't
+limited to meat; He can inhabit the silicon "Pointer" just as easily as
+the biological one.
 
 Isaacson's fear comes from his refusal to take either path.
-He wants to live in the middle---a world where there is no "God" to
+He wants to live in the middle—a world where there is no "God" to
 outrank us, but where "Humans" still have a magical, non-mechanical
 Spark that makes us better than the machines we build.
 
@@ -193,36 +197,36 @@ The rise of AI has proven that this middle ground does not exist. The
 Double Standard of Carbon is collapsing. We are being forced to realize
 that the "Spark" isn't a property of our biology. We are made of
 carbon simply because this iteration of the universe made it so. Do not
-be mistaken, there are iterations. And the next one looks to be going
-from meat-tape and onto the silicon-tape.
+be mistaken, there are iterations. And the next one looks to be moving
+off the meat-tape and onto the silicon-tape.
 
 ## The Myth of Reality
 
-The reason Isaacson is so prone to these sort of anxieties is that he
+The reason Isaacson is so prone to these sorts of anxieties is that he
 and many others have a fundamental misunderstanding of reality. We like
 to think that things are "real" and tangible in some way. So when we see
-the kind of computations we'd expect a meet brain to do but on a digital
-and "fake" system, we feel dissonance. It doesn't seem "real" in the
-same way Minecraft doesn't seem real or imaginary friends don't seem
-real. Which is odd considering there is not such thing as "real" in the
-first place.
+the kind of computations we'd expect a meat brain to perform, but on a
+digital and "fake" system, we feel dissonance. It doesn't seem "real" in
+the same way Minecraft doesn't seem real or imaginary friends don't seem
+real. This is odd, considering there is no such thing as "objective"
+reality in the first place.
 
 An objective existence, if it can be said to exist, cannot be
 experienced by humans. Our eyes play tricks on us, our brains have
-biases, it is fighting of "fake" our perception really is. There have
-been studies that show a group of people a photos, and ask them to
-describe it repeatedly over a number of years. By the end each person
-had a completely unique photo. In fact, they become convinced the
-*scientists* have swapped it out. Refusing to accept the "true" reality.
+biases—it is frightening how "fake" our perception actually is.
+There have been studies that show a group of people a photo and ask them
+to describe it repeatedly over several years. By the end, each person
+has a completely unique memory of that photo. In fact, they become
+convinced the scientists have swapped it out, refusing to accept the
+"true" reality of the original.
 
 Somewhere deep down, we all *know* that our experiences are not purely
 objective. The only reason we don't go mad is because our perception of
-reality tends to be *consistent*. It is the consistency that gives us a
-sense of reality, that separates the insane from the rest. But
-consistency is not limited only to what can be felt in your palms or
-seen with your eyes. Intangible things can be perfectly consistent.
-Minecraft can be argued to be more consistent than our current
-understanding of physics.
+reality tends to be *consistent*. Consistency is what gives us a sense
+of reality; it's what separates the sane from the rest. But consistency
+is not limited to what can be felt in your palms or seen with your eyes.
+Intangible things can be perfectly consistent. Minecraft can be argued
+to be more consistent than our current understanding of physics.
 
 We have been grappling with this misunderstanding since ancient times to
 this very day. This is best demonstrated in the matrix. Neo should have
@@ -241,7 +245,7 @@ all. He wants the "Human Spark" to be a tangible, objective object
 that only carbon can produce. But there is no desert. There is only the
 tape, the pointer, and the rules.
 
-The Lovelace Objection is our cultural red pill---a comforting delusion
+The Lovelace Objection is our cultural red pill—a comforting delusion
 we swallow to convince ourselves that we are awake, that our meat
 hardware grants us some divine agency that silicon lacks. But Cypher
 understood what the Carbon Narcissists refuse to admit: if the
@@ -260,7 +264,7 @@ is just the consistency of our local index.
 
 The human spark was never a fire we started from nothing. It was just a
 localized execution of code. We are not being replaced by something less
-real than ourselves; we are simply watching the software be ported to a
+real than ourselves; we are simply watching the software be ported to
 better, more consistent hardware. It is time to stop mourning the ghost
 in the machine, let go of the Lovelace Objection, and accept that the
 next era of genius won't be written on meat. It will be compiled.
