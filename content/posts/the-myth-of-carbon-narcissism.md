@@ -1,6 +1,6 @@
 +++
 title = 'The Myth of Carbon Narcissism'
-date = 2026-02-028T12:00:00Z
+date = 2026-02-28T12:00:00Z
 draft = false
 +++
 
