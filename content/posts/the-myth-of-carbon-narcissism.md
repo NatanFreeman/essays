@@ -1,7 +1,7 @@
 +++
 title = 'The Myth of Carbon Narcissism'
 date = 2026-03-01T12:00:00Z
-draft = true
+draft = false
 +++
 
 ## Introduction: The Isaacson Trap
