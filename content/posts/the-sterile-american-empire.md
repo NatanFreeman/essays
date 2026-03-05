@@ -4,6 +4,31 @@ date = 2026-03-05T21:01:19Z
 draft = true
 +++
 
+## "Death to America"
+There has been growing anti-American sentiment in the radical left. TODO: introduce the "Campism" movement as a movement which just automatically is against whatever America is doing regardless on whether it aligns with leftist liberal values. It's not blind Patriotism - it's blind adversary
+
+TODO: prove this point in some way. It explains why the radical left can be pro Ayatolla (a radical Muslim regiem which holds the opposite values), pro China (economically left learning but culturally oppresive and is against liberty, multiculturalism, homosexuality, etc) TODO other examples. They assume anything the US does is bad by default. Guilty until proven innocent. Even when the U.S. takes an action that ostensibly aligns with humanitarian or progressive goals, this group will often search for the "ulterior motive" (such as access to oil, military positioning, or corporate profits) rather than accept the action at face value.
+
+This stratergy appears to make zero tactical sense. Why hate the care you are riding in? You could justify blind-patriotism as a survivalist stratergy. TODO: explain why it can be justified. But blind-adversary is like shooting yourself in the foot _on-purpose_.
+
+So why are they doing this? _Are they stupid_? I have idenitfied three reasons. These are:
+- The overturn window reason.
+- The lobbying workaround reason
+- The secular religion reason
+- The revoltion reason
+
+You may have noticed that I listed four, not three. That's because the fisrt is ablsolute schizo nonsense. But it is tragecly popular enough that I feel the need to address it.
+
+TODO: introduce the idea that they are playing by different rules, introduce the overturn window. explain why the overturn window thing is schizo nonsense. use those words, "schizo nonsense". Politics is not a tug-of-war. You don't make the left look reasonable by making the far left crazy. Nobody is saying "well I wasn't going to vote for Biden, but since this Reddit user thinks the US is evil, maybe I'll consider it"
+
+The next reason explains why there is coprate support behind this movement. TODO: Introduce these multinational countries. Instead of lobbying inside the US, these companies realize they can lobby the international world against the US. Whilst this could theoritically work to an extent, it is playing with fire. Debasing the very country where you're based, the same country which happens to be the world's largest economy, is a risky move to say the least.
+
+But why are individuals are buying into it? Simple. It's a clean, easy secular religion to buy into. TOOD: justify why it's a secular religion. This explains why it's the left that's behaving in this way rather than the right. The right already have Christianity. They're creating religion at the price of undermining their own nation
+
+What's most chilling is that the radical left actually _wants_ America to collapse. TODO: Explain why the radical left _wants_ a revolution. This is very suprising. The US is the defacto global superpower with the largest economy. Why on earth would they want a revolution? This actually brings us to the core of the issue. That is the wealth divide.
+
+The radical left might not realize it, but their entire anti-Western sentiment is actually the result of a real, core issue. Not of injustice, but of human evolution and psycology. They are the richest nation in the world, but they don't _feel_ like it. To understand why, we must look at the grape monkey experiment.
+
 ### **Title Concept: The Monkey in the Machine**
 
 **I. The Symptom: Why does the Left hate America?**
