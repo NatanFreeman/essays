@@ -5,29 +5,60 @@ draft = true
 +++
 
 ## "Death to America"
-There has been growing anti-American sentiment in the radical left. TODO: introduce the "Campism" movement as a movement which just automatically is against whatever America is doing regardless on whether it aligns with leftist liberal values. It's not blind Patriotism - it's blind adversary
 
-TODO: prove this point in some way. It explains why the radical left can be pro Ayatolla (a radical Muslim regiem which holds the opposite values), pro China (economically left learning but culturally oppresive and is against liberty, multiculturalism, homosexuality, etc) TODO other examples. They assume anything the US does is bad by default. Guilty until proven innocent. Even when the U.S. takes an action that ostensibly aligns with humanitarian or progressive goals, this group will often search for the "ulterior motive" (such as access to oil, military positioning, or corporate profits) rather than accept the action at face value.
+There has been a growing, visceral anti-American sentiment fermenting in the radical left. It’s no longer just criticism of policy; it has morphed into something far more reflexive and rigid. Political scientists call this "Campism"—a worldview where the globe is divided into two camps: the "imperialist" West and everyone else.
 
-This stratergy appears to make zero tactical sense. Why hate the care you are riding in? You could justify blind-patriotism as a survivalist stratergy. TODO: explain why it can be justified. But blind-adversary is like shooting yourself in the foot _on-purpose_.
+For the modern campist, the logic is simple: if the US supports X, then X is bad. If the US opposes Y, then Y must be good. It is not blind patriotism—it is **blind adversary**.
 
-So why are they doing this? _Are they stupid_? I have idenitfied three reasons. These are:
-- The overturn window reason.
-- The lobbying workaround reason
-- The secular religion reason
-- The revoltion reason
+TODO: prove that this is happening using surveryed or polls or something
 
-You may have noticed that I listed four, not three. That's because the fisrt is ablsolute schizo nonsense. But it is tragecly popular enough that I feel the need to address it.
+This explains the baffling mental gymnastics we see today. You have self-proclaimed progressives running interference for the Ayatollah—a theocratic hardliner whose regime executes gay people and treats women as property—simply because he tweets "Death to America." You have leftists, who ostensibly champion labor rights and individual liberty, carrying water for the Chinese Communist Party—an authoritarian surveillance state that is culturally oppressive and aggressively anti-multicultural.
 
-TODO: introduce the idea that they are playing by different rules, introduce the overturn window. explain why the overturn window thing is schizo nonsense. use those words, "schizo nonsense". Politics is not a tug-of-war. You don't make the left look reasonable by making the far left crazy. Nobody is saying "well I wasn't going to vote for Biden, but since this Reddit user thinks the US is evil, maybe I'll consider it"
+They assume anything the US does is bad by default. It is "guilty until proven innocent." Even when the U.S. takes an action that ostensibly aligns with humanitarian or progressive goals, this group will reflexively search for the "ulterior motive"—access to oil, military positioning, or corporate profits—rather than accept the action at face value.
 
-The next reason explains why there is coprate support behind this movement. TODO: Introduce these multinational countries. Instead of lobbying inside the US, these companies realize they can lobby the international world against the US. Whilst this could theoritically work to an extent, it is playing with fire. Debasing the very country where you're based, the same country which happens to be the world's largest economy, is a risky move to say the least.
+This strategy appears to make zero tactical sense. Why hate the car you are riding in? You could justify blind patriotism as a survivalist strategy—my tribe, right or wrong, because if my tribe falls, I fall. That is basic evolutionary logic. But blind adversary is like shooting yourself in the foot *on purpose*. It is a self-destructive urge that defies self-preservation.
 
-But why are individuals are buying into it? Simple. It's a clean, easy secular religion to buy into. TOOD: justify why it's a secular religion. This explains why it's the left that's behaving in this way rather than the right. The right already have Christianity. They're creating religion at the price of undermining their own nation
+So why are they doing this? *Are they stupid?*
 
-What's most chilling is that the radical left actually _wants_ America to collapse. TODO: Explain why the radical left _wants_ a revolution. This is very suprising. The US is the defacto global superpower with the largest economy. Why on earth would they want a revolution? This actually brings us to the core of the issue. That is the wealth divide.
+I have identified three reasons. These are:
+1.  The Overton Window reason.
+2.  The Lobbying Workaround reason.
+3.  The Secular Religion reason.
+4.  The Revolution reason.
 
-The radical left might not realize it, but their entire anti-Western sentiment is actually the result of a real, core issue. Not of injustice, but of human evolution and psycology. They are the richest nation in the world, but they don't _feel_ like it. To understand why, we must look at the grape monkey experiment.
+You may have noticed that I listed four, not three. That's because the first is absolute **schizo nonsense**. But it is tragically popular enough that I feel the need to address it.
+
+### 1. The Overton Window
+The radical left often claims they are playing 4D chess. They believe that by taking an extreme, uncompromising position—like "America is evil and must be dismantled"—they are shifting the "Overton Window" (the range of acceptable discourse) to the left. The logic is that by screaming crazy demands, they make mainstream progressive critiques, like police reform or healthcare adjustments, look moderate and reasonable by comparison.
+
+This is schizo nonsense. Politics is not a tug-of-war where you pull the rope harder to drag the center toward you. You don't make the left look reasonable by making the far-left look insane; you just terrify the normies. Nobody is sitting in Ohio saying, "Well, I wasn't going to vote for Biden, but since this Reddit user thinks the US is a genocidal empire that deserves to burn, maybe I'll consider it." It alienates the exact people they need to convert.
+
+### 2. The Lobbying Workaround
+The second reason explains why there is surprising corporate and institutional support behind this movement. Multinational corporations and global NGOs operate by different rules. They have realized that instead of lobbying *inside* the US—which is expensive and gridlocked—they can lobby the *international world* against the US.
+
+By funding movements or narratives that delegitimize US policy globally, they can exert pressure from the outside in. While this theoretically works to bypass domestic hurdles, it is playing with fire. Debasing the very country where you are based, the same country which happens to be the world's largest economy and the guarantor of the global trade system, is a risky move to say the least. It’s sawing off the branch you’re sitting on because you think you can fly.
+
+### 3. The Secular Religion
+But why are individuals buying into it? Why does the college student or the suburbanite adopt this self-loathing? Simple. It's a clean, easy *secular religion* to buy into.
+
+Humans are hardwired for faith, for a sense of original sin, and for a path to redemption. The Right already has Christianity to fill this void. The modern Left, largely secular, has a God-shaped hole in its heart. "Anti-Americanism" fills that void perfectly.
+TODO: change from bullet points into a normal paragraph
+*   **Original Sin:** You are born into a nation built on slavery and colonialism.
+*   **Penance:** You must constantly acknowledge your privilege and denounce your country.
+*   **Excommunication:** If you step out of line, "Cancel Culture" casts you out.
+
+It explains why it’s the left behaving this way rather than the right. They are creating a religion at the price of undermining their own nation, trading national cohesion for moral purity.
+
+### 4. The Revolution
+What's most chilling, however, is that the radical left actually *wants* America to be undermined because they want a full-blown revolution. This brings us to the fourth and final reason. They don't want to win in the polls, they want to tear down the democracy.
+
+But why? The US is the de facto global superpower with the largest economy in history. Why on earth would they want a revolution? Why tear down the throne you are sitting on?
+
+This brings us to the core of the issue. It isn't strictly about policy, or justice, or even politics. It is about **the wealth divide**.
+
+The radical left might not realize it, but their entire anti-Western sentiment is actually the result of a real, core issue. It is not born of moral superiority, but of human evolution and psychology. Americans are the richest citizens in the world, but they don't *feel* like it.
+
+To understand why a population living in the lap of luxury is desperate to burn it all down, we must look at the grape monkey experiment.
 
 ### **Title Concept: The Monkey in the Machine**
 
