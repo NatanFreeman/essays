@@ -41,13 +41,9 @@ By funding movements or narratives that delegitimize US policy globally, they ca
 ### 3. The Secular Religion
 But why are individuals buying into it? Why does the college student or the suburbanite adopt this self-loathing? Simple. It's a clean, easy *secular religion* to buy into.
 
-Humans are hardwired for faith, for a sense of original sin, and for a path to redemption. The Right already has Christianity to fill this void. The modern Left, largely secular, has a God-shaped hole in its heart. "Anti-Americanism" fills that void perfectly.
-TODO: change from bullet points into a normal paragraph
-*   **Original Sin:** You are born into a nation built on slavery and colonialism.
-*   **Penance:** You must constantly acknowledge your privilege and denounce your country.
-*   **Excommunication:** If you step out of line, "Cancel Culture" casts you out.
+Humans are hardwired for faith, for a sense of original sin, and for a path to redemption. The Right already has Christianity to fill this void. The modern Left, largely secular, has a God-shaped hole in its heart. "Anti-Americanism" fills that void perfectly because it mimics the structure of the church. In this new faith, you don't need an apple in a garden to inherit Original Sin; you simply need to be born into a nation built on the historical crimes of slavery and colonialism. There is no baptism to wash it away, only a perpetual cycle of Penance, where one must constantly acknowledge their privilege and loudly denounce the country that gave it to them. And like any fundamentalist sect, it requires a mechanism for purity control: Excommunication. If you step out of line or question the doctrine, "Cancel Culture" acts as the modern inquisition, casting the heretic out of the social order.
 
-It explains why it’s the left behaving this way rather than the right. They are creating a religion at the price of undermining their own nation, trading national cohesion for moral purity.
+It explains why it’s the left behaving this way rather than the right. They are creating a religion at the price of undermining their own nation, trading national cohesion for the dopamine hit of moral purity.
 
 ### 4. The Revolution
 What's most chilling, however, is that the radical left actually *wants* America to be undermined because they want a full-blown revolution. This brings us to the fourth and final reason. They don't want to win in the polls, they want to tear down the democracy.
@@ -59,7 +55,6 @@ This brings us to the core of the issue. It isn't strictly about policy, or just
 The radical left might not realize it, but their entire anti-Western sentiment is actually the result of a real, core issue. It is not born of moral superiority, but of human evolution and psychology. Americans are the richest citizens in the world, but they don't *feel* like it.
 
 To understand why a population living in the lap of luxury is desperate to burn it all down, we must look at the grape monkey experiment.
-
 ### **Title Concept: The Monkey in the Machine**
 
 **I. The Symptom: Why does the Left hate America?**
