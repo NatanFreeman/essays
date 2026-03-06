@@ -55,17 +55,16 @@ This brings us to the core of the issue. It isn't strictly about policy, or just
 The radical left might not realize it, but their entire anti-Western sentiment is actually the result of a real, core issue. It is not born of moral superiority, but of human evolution and psychology. Americans are the richest citizens in the world, but they don't *feel* like it.
 
 To understand why a population living in the lap of luxury is desperate to burn it all down, we must look at the grape monkey experiment.
-### **Title Concept: The Monkey in the Machine**
+## The Grape Monkey
+TODO: introduce the grape monkey experiment. Explain how it has been used as an anology for economics
 
-**I. The Symptom: Why does the Left hate America?**
-*   **The Observation:** Start with your initial frustration. Why do so many Americans seem to oppose their own country on principle? It makes zero tactical sense to hate the "car" you are riding in.
-*   **The Misdiagnosis:** Conservatives think it’s a lack of patriotism; Liberals think it’s a moral crusade.
-*   **The Pivot:** But what if it’s neither? What if the "Anti-Americanism" is actually a biological alarm bell ringing?
+What many people misinterpret about the experiment is that they see it as a harbenger of morality. This doesn't work because in a capitalist society, you don't get grapes for the same amount of work, you get grapes for more work. But that's missing the point. Even if we did mirror the captialist framework accurately, it wouldn't matter. Our framework for morality should not be based on monkies. TODO: explain that if we want to use the monkey framework then murder, theft and rape is okay. They aren't telling us what's "fair" or most effecient. They're telling us what we're biologically programmed for.
 
-**II. The Diagnosis: It’s Not Politics, It’s Biology (The Crab Bucket)**
-*   **The Evolutionary Mismatch:** Humans lived in zero-sum tribes for 300,000 years. If one monkey had all the grapes, the others starved. We are hardwired to view extreme wealth inequality as a threat to survival.
-*   **The "Zero-Sum" Instinct:** Even though modern capitalism creates *more* wealth for everyone (non-zero-sum), our lizard brains don't care. We see the Billionaire Class and our biological "fairness" trigger goes off.
-*   **The Conclusion:** The Radical Left isn't running a political strategy; they are acting out an evolutionary reflex. They are the monkeys screaming because the grape distribution looks fatal.
+It doesn't matter how many times Paul Garahm lectures us on how wealth is not zero-sum. TODO: add analogy of growing the pie. The biological reality is that up until 300 years ago, it absolutely was. TODO: explain how and why wealth was zero sum.
+
+Even if we can definitevly proove that we are growing the pie, that the US economy is 60% wealthier because of trillion dollar coperations and billionaires, it wouldn't matter. People's lizard brains cannot accept it. TODO: introduce crab pot mentallity. It's crab pot mentallity. We'd rather drag down the prosperious than grow togethure.
+
+This is why socialist and communist idiologies are so attractive. They aren't a better economic policy, they're a better biological policy. No ammount of academia and historical counter-examples will fix that. The only way to save the capitalist model is to save it from itself. If the wealth divide gets too large, it doesn't fall to economics; it falls to biology.
 
 **III. The Failed Cure: Why We Can't "Reset" the Board**
 *   **The Historical Solution:** How did we fix this before? Teddy Roosevelt (Trust Busting) and Post-WWII Japan (Land Reform). You break the monopolies to save the system.
