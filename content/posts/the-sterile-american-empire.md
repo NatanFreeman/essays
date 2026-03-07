@@ -1,7 +1,7 @@
 +++
 title = 'The Sterile American Empire'
 date = 2026-03-05T21:01:19Z
-draft = true
+draft = false
 +++
 
 ## "Death to America"
