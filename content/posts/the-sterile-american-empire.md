@@ -78,15 +78,33 @@ No amount of academia, historical counter-examples, or GDP charts will fix that.
 The only way to save the capitalist model is to save it from itself. If the wealth divide gets too large—if the guy in the next cage has a super-yacht while you’re struggling to buy eggs—the system doesn't fall to economics; it falls to biology. The monkey stops trading rocks, and starts breaking the cage.
 
 ## Why We Can't "Reset" the Board
-The ideomatic solution to this would be to simply give into the monkeys. Reset the wealth divide to a tolerable level to keep the monkies happy and the economy in shape. We actually have historical precident for this exact phenominon happening in the US. TODO: introduce Tedy Roosevelt's Trust Busting. Explain how he wasn't a socialist. Quite the contrary, he just wanted to prevent the socialists from gaining ground.
+The idiomatic solution to this biological crisis would be to simply give in to the monkeys. You reset the wealth divide to a tolerable level, you break up the giants, and you keep the enclosure from burning down.
 
-To the monkies' credit, this actually had some positive economic consiquences. Whilst on paper a free market economy should allow competition from players of any size, the harsh reality is that power corrupts. Large companies can simply lobby for regulations which benifit themselves and prevent smaller players from entering the arena. This is how monopolies develop. Congress and regulators are supposed to prevent this sort of behaviour, but TODO: explain howoften the money coming into their pockets is from the same companies they're supposed to punish.
+We actually have historical precedent for this exact phenomenon in the US. At the turn of the 20th century, inequality was spiraling, and the "Robber Barons" owned the country. Enter Teddy Roosevelt.
 
-So why can't this work today? Why can't we divide the tech giants and private equety holders into smaller companies, just as Roosevelt did? TODO: Because the monopolies (Big Tech) are no longer just companies. They are behemoths of digital infustructure and complexity.
+Roosevelt wielded the Sherman Antitrust Act like a cudgel, breaking up Standard Oil and the railroad monopolies. But it is crucial to understand *why* he did it. Roosevelt wasn't a socialist; he was a wealthy, aristocratic Republican. He didn't hate capitalism. Quite the contrary—he wanted to save it. He realized that if he didn't break the trusts, the starving monkeys at the bottom would turn to socialism or violent revolution. He busted the trusts to prevent the Marxists from gaining ground.
 
-We can see this happening with Google. Congress has correctly identified that Google Chrome is absolutely dominating the browser space, and suggested selling it off to a different company. What they missed is that Chrome dominates becuase its base (chromium) is an open-source foundation which Google is maintaining at a loss. Don't let the Firefox shills fool you, Chrome is simply the most robust implementation of the W3 web standards. The reason why Google is doing what is ostensively digital philathropy, is that they don't want to develop native applications. By funding the infustructure of ther web, they can save _themselves_ work by having products like Gmail or Google Earth be websites.
+To the monkeys' credit, this actually had positive economic consequences. While on paper a free market should allow competition from players of any size, the harsh reality is that power corrupts. Once a company becomes a titan, it stops innovating and starts legislating. They lobby for regulations that are too expensive for startups to comply with, effectively pulling up the ladder behind them. This is how monopolies calcify. Congress and regulators are supposed to prevent this behavior, but often the money lining their pockets comes from the very same companies they are supposed to punish.
 
-Even though congress is trying to break monopolies with good intentions, they are doing more harm than good. A democratic body simply has no hope to regulate these bodies. TODO: make this point more clear: The only people who understand how they work, have very comfortable Silicon Valley jobs working for those giant coperations. Lawmakers don't understand, and neither do voters. Try explaining to your grandpa that TODO: spicific example of Intel doing something sus with chip fab technologies which should probably not be allowed. Only a benevolant dictator could hope to stand a chance.
+So, if it worked for Teddy, why can't it work today? Why can't we just take an axe to Big Tech and Private Equity the way we did with Standard Oil?
+
+Because the monopolies of today, are no longer just companies selling a product. They are behemoths of digital infrastructure and complexity.
+
+We can see this distinction clearly in the recent Department of Justice crusade against Google. Congress and regulators have correctly identified that Google Chrome absolutely dominates the browser space, and they have suggested forcing Google to sell it off.
+
+This sounds like a "Roosevelt Reset," but it betrays a fundamental misunderstanding of how the internet works. Chrome dominates not just because of branding, but because its engine (Chromium) is an open-source foundation that Google maintains at a massive financial loss. Don't let the Firefox shills fool you: Chrome is simply the most complete implementation of W3 web standards.
+
+The reason Google pours billions into what is ostensibly digital philanthropy is strategic, not charitable. They don't want to develop native applications for Windows or Mac. By funding the infrastructure of the web itself, they ensure that the browser is powerful enough to run Gmail, Google Earth, and the entire G-Suite as websites. If you force Google to sell Chrome, the new owner won't have the billions required to maintain the Chromium engine for free. The browser would rot, or worse, turn into a spyware nightmare to monetize itself. You wouldn't be "freeing the market"; you would be breaking the pipes the economy runs on.
+
+Even though Congress is trying to break monopolies with good intentions, they are doing more harm than good because a democratic body simply has no hope of regulating these entities.
+
+There is a massive knowledge gap. The only people who understand how the algorithms, the chip architectures, and the cloud infrastructures actually work have very comfortable, high-paying jobs in Silicon Valley working *for* those giant corporations. The "Brain Drain" means that the regulators are always ten steps behind the engineers.
+
+Lawmakers don't understand, and neither do voters. Try explaining to your grandpa why Intel’s use of High-NA EUV lithography creates a natural monopoly that cannot be legislated away, or why you can't just "build another chip fab" without twenty years of supply chain integration. The complexity of the modern world has outpaced the cognitive bandwidth of the electorate.
+
+We have built a machine so complex that only the people running it know how to fix it, and they have no incentive to do so. A committee of 80-year-old Senators cannot reset this board. Only a benevolent dictator—a technocrat with absolute power and a PhD in computer engineering—could hope to stand a chance.
+
+And since we don't have one of those, the monkeys remain angry, and the giants remain untouchable.
 
 Japan had this post WWII
 so is Trump plauying the Japan move?
