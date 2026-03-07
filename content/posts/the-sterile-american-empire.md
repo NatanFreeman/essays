@@ -142,11 +142,6 @@ If you tell the American public, "We are keeping the tech billionaires infinitel
 He is hacking our evolutionary biology. By providing an external, existential threat, the state redirects the crab-bucket jealousy outward. The monkeys stop caring about who has the most grapes inside the cage because they are too terrified of the rival tribe outside of it. The Digital Zaibatsu is safe from domestic revolution—not because it fixed the wealth divide, but because it convinced the country that dismantling the monopolies would be an act of treason.
 
 
-
-Here is the final chapter, completing your essay with the punchy, cynical, and evolutionary lens we’ve built up so far.
-
-***
-
 ## The Biological Dead End
 
 Let me be clear. I am not saying that the Digital Zaibatsu model is going to be a catastrophic failure. In fact, it is likely to work very well. **In the short term**. If it all goes according to plan, the U.S. government’s merger with Big Tech will out-innovate, out-build, and out-compete its geopolitical rivals. Trump, or whoever succeeds him in maintaining this machine, is going to beat China and "make America great again" on paper.
