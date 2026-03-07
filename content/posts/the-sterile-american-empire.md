@@ -77,7 +77,23 @@ No amount of academia, historical counter-examples, or GDP charts will fix that.
 
 The only way to save the capitalist model is to save it from itself. If the wealth divide gets too large—if the guy in the next cage has a super-yacht while you’re struggling to buy eggs—the system doesn't fall to economics; it falls to biology. The monkey stops trading rocks, and starts breaking the cage.
 
-**III. The Failed Cure: Why We Can't "Reset" the Board**
+## Why We Can't "Reset" the Board
+The ideomatic solution to this would be to simply give into the monkeys. Reset the wealth divide to a tolerable level to keep the monkies happy and the economy in shape. We actually have historical precident for this exact phenominon happening in the US. TODO: introduce Tedy Roosevelt's Trust Busting. Explain how he wasn't a socialist. Quite the contrary, he just wanted to prevent the socialists from gaining ground.
+
+To the monkies' credit, this actually had some positive economic consiquences. Whilst on paper a free market economy should allow competition from players of any size, the harsh reality is that power corrupts. Large companies can simply lobby for regulations which benifit themselves and prevent smaller players from entering the arena. This is how monopolies develop. Congress and regulators are supposed to prevent this sort of behaviour, but TODO: explain howoften the money coming into their pockets is from the same companies they're supposed to punish.
+
+So why can't this work today? Why can't we divide the tech giants and private equety holders into smaller companies, just as Roosevelt did? TODO: Because the monopolies (Big Tech) are no longer just companies. They are behemoths of digital infustructure and complexity.
+
+We can see this happening with Google. Congress has correctly identified that Google Chrome is absolutely dominating the browser space, and suggested selling it off to a different company. What they missed is that Chrome dominates becuase its base (chromium) is an open-source foundation which Google is maintaining at a loss. Don't let the Firefox shills fool you, Chrome is simply the most robust implementation of the W3 web standards. The reason why Google is doing what is ostensively digital philathropy, is that they don't want to develop native applications. By funding the infustructure of ther web, they can save _themselves_ work by having products like Gmail or Google Earth be websites.
+
+Even though congress is trying to break monopolies with good intentions, they are doing more harm than good. A democratic body simply has no hope to regulate these bodies. TODO: make this point more clear: The only people who understand how they work, have very comfortable Silicon Valley jobs working for those giant coperations. Lawmakers don't understand, and neither do voters. Try explaining to your grandpa that TODO: spicific example of Intel doing something sus with chip fab technologies which should probably not be allowed. Only a benevolant dictator could hope to stand a chance.
+
+Japan had this post WWII
+so is Trump plauying the Japan move?
+No he is going backwards, in Japanese policy, not forwards
+He is creating the Digital Zaibatsu
+
+
 *   **The Historical Solution:** How did we fix this before? Teddy Roosevelt (Trust Busting) and Post-WWII Japan (Land Reform). You break the monopolies to save the system.
 *   **The Complexity Trap:** Why can't we do it now? Because the monopolies (Big Tech) are no longer just companies; they are the national infrastructure (The Digital Zaibatsu).
 *   **The Deadlock:** You can’t break up Amazon or Google without breaking the economy. The "Monkeys" are trapped in the enclosure with the Giants, and there is no way to shrink the Giants.
