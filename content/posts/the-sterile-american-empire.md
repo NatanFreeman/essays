@@ -6,15 +6,15 @@ draft = true
 
 ## "Death to America"
 
-There has been a growing, visceral anti-American sentiment fermenting in the radical left. It’s no longer just criticism of policy; it has morphed into something far more reflexive and rigid. Political scientists call this "Campism"—a worldview where the globe is divided into two camps: the "imperialist" West and everyone else.
+There has been a growing, visceral anti-American sentiment fermenting in the radical left. It's no longer just criticism of policy; it has morphed into something far more reflexive and rigid. Political scientists call this "Campism"—a worldview where the globe is divided into two camps: the "imperialist" West and everyone else.
 
 For the modern campist, the logic is simple: if the US supports X, then X is bad. If the US opposes Y, then Y must be good. It is not blind patriotism—it is **blind adversary**.
 
-TODO: prove that this is happening using surveryed or polls or something
+TODO: prove that this is happening using surveyed or polls or something
 
 This explains the baffling mental gymnastics we see today. You have self-proclaimed progressives running interference for the Ayatollah—a theocratic hardliner whose regime executes gay people and treats women as property—simply because he tweets "Death to America." You have leftists, who ostensibly champion labor rights and individual liberty, carrying water for the Chinese Communist Party—an authoritarian surveillance state that is culturally oppressive and aggressively anti-multicultural.
 
-They assume anything the US does is bad by default. It is "guilty until proven innocent." Even when the U.S. takes an action that ostensibly aligns with humanitarian or progressive goals, this group will reflexively search for the "ulterior motive"—access to oil, military positioning, or corporate profits—rather than accept the action at face value.
+They assume anything the US does is bad by default. It is "guilty until proven innocent." Even when the US takes an action that ostensibly aligns with humanitarian or progressive goals, this group will reflexively search for the "ulterior motive"—access to oil, military positioning, or corporate profits—rather than accept the action at face value.
 
 This strategy appears to make zero tactical sense. Why hate the car you are riding in? You could justify blind patriotism as a survivalist strategy—my tribe, right or wrong, because if my tribe falls, I fall. That is basic evolutionary logic. But blind adversary is like shooting yourself in the foot *on purpose*. It is a self-destructive urge that defies self-preservation.
 
@@ -36,14 +36,14 @@ This is schizo nonsense. Politics is not a tug-of-war where you pull the rope ha
 ### 2. The Lobbying Workaround
 The second reason explains why there is surprising corporate and institutional support behind this movement. Multinational corporations and global NGOs operate by different rules. They have realized that instead of lobbying *inside* the US—which is expensive and gridlocked—they can lobby the *international world* against the US.
 
-By funding movements or narratives that delegitimize US policy globally, they can exert pressure from the outside in. While this theoretically works to bypass domestic hurdles, it is playing with fire. Debasing the very country where you are based, the same country which happens to be the world's largest economy and the guarantor of the global trade system, is a risky move to say the least. It’s sawing off the branch you’re sitting on because you think you can fly.
+By funding movements or narratives that delegitimize US policy globally, they can exert pressure from the outside in. While this theoretically works to bypass domestic hurdles, it is playing with fire. Debasing the very country where you are based, the same country which happens to be the world's largest economy and the guarantor of the global trade system, is a risky move to say the least. It's sawing off the branch you're sitting on because you think you can fly.
 
 ### 3. The Secular Religion
 But why are individuals buying into it? Why does the college student or the suburbanite adopt this self-loathing? Simple. It's a clean, easy *secular religion* to buy into.
 
 Humans are hardwired for faith, for a sense of original sin, and for a path to redemption. The Right already has Christianity to fill this void. The modern Left, largely secular, has a God-shaped hole in its heart. "Anti-Americanism" fills that void perfectly because it mimics the structure of the church. In this new faith, you don't need an apple in a garden to inherit Original Sin; you simply need to be born into a nation built on the historical crimes of slavery and colonialism. There is no baptism to wash it away, only a perpetual cycle of Penance, where one must constantly acknowledge their privilege and loudly denounce the country that gave it to them. And like any fundamentalist sect, it requires a mechanism for purity control: Excommunication. If you step out of line or question the doctrine, "Cancel Culture" acts as the modern inquisition, casting the heretic out of the social order.
 
-It explains why it’s the left behaving this way rather than the right. They are creating a religion at the price of undermining their own nation, trading national cohesion for the dopamine hit of moral purity.
+It explains why it's the left behaving this way rather than the right. They are creating a religion at the price of undermining their own nation, trading national cohesion for the dopamine hit of moral purity.
 
 ### 4. The Revolution
 What's most chilling, however, is that the radical left actually *wants* America to be undermined because they want a full-blown revolution. This brings us to the fourth and final reason. They don't want to win in the polls, they want to tear down the democracy.
@@ -57,17 +57,17 @@ The radical left might not realize it, but their entire anti-Western sentiment i
 To understand why a population living in the lap of luxury is desperate to burn it all down, we must look at the grape monkey experiment.
 
 ## The Grape Monkey
-To understand why the richest nation on earth is flirting with revolution, we have to look at a famous experiment conducted by primatologist Frans de Waal. It involved two Capuchin monkeys in side-by-side cages. The task was simple: hand the researcher a rock, get a food reward. At first, both monkeys were given a slice of cucumber. They were perfectly happy. They ate the cucumber, handed back the rock, and life was good. Then, the researcher changed the rules. The first monkey handed over the rock and got a cucumber. The second monkey handed over the rock and got a *grape*. Now, grapes are like caviar to Capuchins—high sugar, high value. When the first monkey saw his neighbor get a grape for doing the exact same task, he didn't just get sad; he went ballistic. He threw the cucumber at the researcher, rattled the cage bars, and screeched in primal fury. You can see a video demonstration of this experiment on [YouTube](https://www.youtube.com/watch?v=meiU6TxysCg). I highly suggest it, It's very entertaining. TODO: add source for experiment paper
+To understand why the richest nation on earth is flirting with revolution, we have to look at a famous experiment conducted by primatologist Frans de Waal. It involved two Capuchin monkeys in side-by-side cages. The task was simple: hand the researcher a rock, get a food reward. At first, both monkeys were given a slice of cucumber. They were perfectly happy. They ate the cucumber, handed back the rock, and life was good. Then, the researcher changed the rules. The first monkey handed over the rock and got a cucumber. The second monkey handed over the rock and got a *grape*. Now, grapes are like caviar to Capuchins—high sugar, high value. When the first monkey saw his neighbor get a grape for doing the exact same task, he didn't just get sad; he went ballistic. He threw the cucumber at the researcher, rattled the cage bars, and screeched in primal fury. You can see a video demonstration of this experiment on [YouTube](https://www.youtube.com/watch?v=meiU6TxysCg). I highly suggest it; it's very entertaining. TODO: add source for experiment paper
 
 It is a perfect demonstration of **Inequity Aversion**. The monkey was willing to work for a cucumber when everyone got cucumbers. But the moment he saw someone else doing better, the cucumber became an insult. He would rather starve than accept "unfairness." What many people misinterpret about this experiment is that they see it as a harbinger of morality. They use it to argue that equality is a universal moral truth written into our DNA. But this analogy falls apart the moment you apply it to a complex economy. In a capitalist society, you generally don't get grapes for the "same amount of work" (handing over a rock); you get grapes for *more* work, smarter work, or taking on higher risk. The billionaire founder who works 80-hour weeks for a decade isn't the same as the employee clocking in 9-to-5.
 
-But that’s missing the point entirely. Even if we mirrored the capitalist framework accurately in the cage, it wouldn't matter. Our framework for morality should not be based on monkeys. If we are going to use Capuchins as our moral compass, then we must also accept that murder, theft, and rape are "natural" and therefore "good." Monkeys do all of those things. The experiment doesn't tell us what is *fair* or what is most *efficient*. It tells us what we are **biologically programmed for**. And what we are programmed for is a zero-sum world.
+But that's missing the point entirely. Even if we mirrored the capitalist framework accurately in the cage, it wouldn't matter. Our framework for morality should not be based on monkeys. If we are going to use Capuchins as our moral compass, then we must also accept that murder, theft, and rape are "natural" and therefore "good." Monkeys do all of those things. The experiment doesn't tell us what is *fair* or what is most *efficient*. It tells us what we are **biologically programmed for**. And what we are programmed for is a zero-sum world.
 
 It doesn't matter how many times Paul Graham or economic libertarians lecture us on how wealth is "not zero-sum." They love the analogy of the "Growing Pie." They argue that if a billionaire gets a massive slice, it doesn't mean your slice gets smaller; it means the *whole pie got bigger*, and your small slice is now actually larger than the whole pie used to be. Logically, they are right. Biologically, they are screaming into the void.
 
 The biological reality is that for 99.9% of human history—up until about 300 years ago—wealth *was* absolutely zero-sum. We lived in small tribes where resources were finite. There was no "economic growth." There was only the Mammoth. If Ogg took two giant steaks, that meant Grog didn't eat. For 300,000 years, if your neighbor got rich, it literally meant you were going to die. Evolution has hardwired a "Kill the Rich" switch into our amygdala. It is a survival mechanism.
 
-So, even if we can definitively prove that we are growing the pie—that the average American is say, 60% wealthier today because of the innovations driven by trillion-dollar corporations and billionaires—it wouldn't matter. People's lizard brains cannot accept it.
+So, even if we can definitively prove that we are growing the pie—that the average American is, say, 60% wealthier today because of the innovations driven by trillion-dollar corporations and billionaires—it wouldn't matter. People's lizard brains cannot accept it.
 
 This is the **Crab Bucket Mentality**. If you put a single crab in a bucket, it can climb out. If you put a bunch of crabs in a bucket, the moment one tries to escape, the others will grab its legs and drag it back down. They would rather all die in the bucket than let one of them succeed. We see this playing out in real-time. We see policies that would arguably hurt the economy being cheered on simply because they hurt the rich *more*. We see a rejection of prosperity if that prosperity is unequally distributed. We would rather drag the prosperous down than grow together.
 
@@ -75,7 +75,7 @@ This is why socialist and communist ideologies are so seductive, despite their d
 
 No amount of academia, historical counter-examples, or GDP charts will fix that. You cannot logic a monkey out of a rage response.
 
-The only way to save the capitalist model is to save it from itself. If the wealth divide gets too large—if the guy in the next cage has a super-yacht while you’re struggling to buy eggs—the system doesn't fall to economics; it falls to biology. The monkey stops trading rocks, and starts breaking the cage.
+The only way to save the capitalist model is to save it from itself. If the wealth divide gets too large—if the guy in the next cage has a super-yacht while you're struggling to buy eggs—the system doesn't fall to economics; it falls to biology. The monkey stops trading rocks, and starts breaking the cage.
 
 ## Why We Can't "Reset" the Board
 The idiomatic solution to this biological crisis would be to simply give in to the monkeys. You reset the wealth divide to a tolerable level, you break up the giants, and you keep the enclosure from burning down.
@@ -88,11 +88,11 @@ To the monkeys' credit, this actually had positive economic consequences. While 
 
 So, if it worked for Teddy, why can't it work today? Why can't we just take an axe to Big Tech and Private Equity the way we did with Standard Oil?
 
-Because the monopolies of today, are no longer just companies selling a product. They are behemoths of digital infrastructure and complexity.
+Because the monopolies of today are no longer just companies selling a product. They are behemoths of digital infrastructure and complexity.
 
 We can see this distinction clearly in the recent Department of Justice crusade against Google. Congress and regulators have correctly identified that Google Chrome absolutely dominates the browser space, and they have suggested forcing Google to sell it off.
 
-This sounds like a "Roosevelt Reset," but it betrays a fundamental misunderstanding of how the internet works. Chrome dominates not just because of branding, but because its engine (Chromium) is an open-source foundation that Google maintains at a massive financial loss. Don't let the Firefox shills fool you: Chrome is simply the most complete implementation of W3 web standards.
+This sounds like a "Roosevelt Reset," but it betrays a fundamental misunderstanding of how the internet works. Chrome dominates not just because of branding, but because its engine (Chromium) is an open-source foundation that Google maintains at a massive financial loss. Don't let the Firefox shills fool you: Chrome is simply the most complete implementation of W3C web standards.
 
 The reason Google pours billions into what is ostensibly digital philanthropy is strategic, not charitable. They don't want to develop native applications for Windows or Mac. By funding the infrastructure of the web itself, they ensure that the browser is powerful enough to run Gmail, Google Earth, and the entire G-Suite as websites. If you force Google to sell Chrome, the new owner won't have the billions required to maintain the Chromium engine for free. The browser would rot, or worse, turn into a spyware nightmare to monetize itself. You wouldn't be "freeing the market"; you would be breaking the pipes the economy runs on.
 
@@ -100,7 +100,7 @@ Even though Congress is trying to break monopolies with good intentions, they ar
 
 There is a massive knowledge gap. The only people who understand how the algorithms, the chip architectures, and the cloud infrastructures actually work have very comfortable, high-paying jobs in Silicon Valley working *for* those giant corporations. The "Brain Drain" means that the regulators are always ten steps behind the engineers.
 
-Lawmakers don't understand, and neither do voters. Try explaining to your grandpa why Intel’s use of High-NA EUV lithography creates a natural monopoly that cannot be legislated away, or why you can't just "build another chip fab" without twenty years of supply chain integration. The complexity of the modern world has outpaced the cognitive bandwidth of the electorate.
+Lawmakers don't understand, and neither do voters. Try explaining to your grandpa why Intel's use of High-NA EUV lithography creates a natural monopoly that cannot be legislated away, or why you can't just "build another chip fab" without twenty years of supply chain integration. The complexity of the modern world has outpaced the cognitive bandwidth of the electorate.
 
 We have built a machine so complex that only the people running it know how to fix it, and they have no incentive to do so. A committee of 80-year-old Senators cannot reset this board. Only a benevolent dictator—a technocrat with absolute power and a PhD in computer engineering—could hope to stand a chance.
 
@@ -121,7 +121,7 @@ To stop the communists, MacArthur executed the ultimate "Roosevelt Reset." He us
 
 Okay, so Japan fixed their Zaibatsu problem, so what? We're still stuck in a corporate dead end. We don't have a charismatic authoritarian figure who is willing to completely do away with the current economic model at the price of short-term market volatility. We don't have a MacArthur.
 
-...Or do we? At first glance, President Donald Trump fits this model. He operates on executive fiat, gleefully disrupts free trade with sweeping tariffs, publicly threatens CEOs on social media, and treats the global economy like his personal negotiating table. If anyone possesses the sheer, norm-breaking audacity to smash the current system and forcibly restructure the American economy, it’s him. Is Trump America's MacArthur?
+...Or do we? At first glance, President Donald Trump fits this model. He operates on executive fiat, gleefully disrupts free trade with sweeping tariffs, publicly threatens CEOs on social media, and treats the global economy like his personal negotiating table. If anyone possesses the sheer, norm-breaking audacity to smash the current system and forcibly restructure the American economy, it's him. Is Trump America's MacArthur?
 
 Unfortunately, this line of thinking is pure copium. Trump has zero intentions to break apart the large tech companies. In fact, he wants to *complete* the Zaibatsu model. Remember how I said American tech companies are not part of the war effort? Well, Trump is looking to change that. He has declared a war—a spiritual, technological, and economic war—on China.
 
@@ -144,7 +144,7 @@ He is hacking our evolutionary biology. By providing an external, existential th
 
 ## The Biological Dead End
 
-Let me be clear. I am not saying that the Digital Zaibatsu model is going to be a catastrophic failure. In fact, it is likely to work very well. **In the short term**. If it all goes according to plan, the U.S. government’s merger with Big Tech will out-innovate, out-build, and out-compete its geopolitical rivals. Trump, or whoever succeeds him in maintaining this machine, is going to beat China and "make America great again" on paper.
+Let me be clear. I am not saying that the Digital Zaibatsu model is going to be a catastrophic failure. In fact, it is likely to work very well. **In the short term**. If it all goes according to plan, the US government's merger with Big Tech will out-innovate, out-build, and out-compete its geopolitical rivals. Trump, or whoever succeeds him in maintaining this machine, is going to beat China and "make America great again" on paper.
 
 But where does that leave us? Look across the Pacific. The answer is South Korea.
 
