@@ -6,11 +6,9 @@ draft = true
 
 ## Superstition & Vanity
 
-The CCP exercises comprehensive control over daily life through a pervasive system of censorship. This goes far beyond restricting political dissent or filtering news coverage.
+The CCP exercises comprehensive control over daily life through a pervasive system of censorship. They do not merely censore political content, but also non-political expressions of art, and culture. For example, television broadcasters routinely blur or ban visible tattoos. Video game developers recolor depictions of blood, the government even discourages depictions of homosexuality and "non-conforming gender expressions".
 
-State regulators heavily police entertainment, art, and cultural expression, targeting elements that are non-political. For example, television broadcasters routinely blur or ban visible tattoos. Video game developers must censor depictions of blood, the government even discourages depictions of homosexuality and "non-conforming gender expressions".
-
-This level of granular control over entertainment and personal expression raises a fundamental question: why bother? Sounds like a massive waste of resources.
+This raises a fundamental question: why bother? Sounds like a massive waste of resources.
 
 The official justifications tend to be pretty consistent:
 
@@ -26,34 +24,27 @@ Consider the military uniform. Shined boots or buttoned pockets do not improve t
 
 The CCP applies the same logic outward. Control the surface, and the depths will follow.
 
-This is, of course, complete superstition. There is no meaningful evidence that blurring tattoos reduces crime, that altering blood color decreases youth violence, or that removing gay characters from television produces straighter citizens. The logic is structurally identical to a rain dance. If we remove the tattoos, harmony will follow. If we correct the blood, the youth will be protected. The CCP is not governing by data. It is governing by aesthetic.
-
-This has a name: sympathetic magic. The belief that manipulating a symbol of a thing affects the thing itself. Stick a pin in the doll, harm the man. Alter the blood on screen, sanitize the world. And this is not alien to Chinese governance — it has deep roots in it. The Confucian concept of *zhengming*, the rectification of names, held that social order depended on things being called what they truly are. The Mandate of Heaven operated on similar logic: if the emperor performed the correct rituals with sufficient virtue, heaven would reciprocate with stability and harvest. The CCP inherited a political tradition in which the symbolic and the real are treated as interchangeable. They have simply updated the rituals.
+This is, of course, complete superstition. There is no meaningful evidence that blurring tattoos reduces crime, that altering blood color decreases youth violence, or that removing gay characters from television produces straighter citizens. This has a name: sympathetic magic. The belief that manipulating a symbol of a thing affects the thing itself. Stick a pin in the doll, harm the man. Alter the blood on screen, sanitize the world. And this is not alien to Chinese governance. In fact it has deep roots in it. The Confucian concept of *zhengming*, the rectification of names, held that social order depended on things being called what they truly are. The Mandate of Heaven operated on similar logic: if the emperor performed the correct rituals with sufficient virtue, heaven would reciprocate with stability and harvest. The Great Leap Forward didn't erase this. The CCP inherited a political tradition in which the symbolic and the real are treated as interchangeable. They have simply updated the rituals.
 
 It is a profoundly vain system. The state needs to *look* like it shapes reality, even when it demonstrably does not. That feeling — not the effect — is the product.
 
+TODO: compact next three paragraphs. We don't need so much detail on the event. It should be one longish paragraph
 The White Paper Protests of 2022 prove this. On November 24th, a blaze tore through a residential tower in Ürümqi, Xinjiang. At least ten people died. Residents and witnesses reported that COVID lockdown measures — sealed doors, blocked exits, and restricted emergency access had slowed evacuation and delayed firefighters. The state's pandemic theatre had burned people alive in their own homes.
 
 People took to the streets holding blank sheets of paper. The choice was practical before it was poetic. Every slogan, every accusation, every name that might appear on a sign had already been pre-emptively censored, and displaying one could mean arrest. A blank page gave the authorities nothing to charge. Protesters had found the one thing the system couldn't delete.
 
 What happened next was surprising. Facing the largest coordinated protests the country had seen in decades, the CCP did something it almost never does: it backed down. Zero Covid, the policy the censorship apparatus had spent years insulating from criticism, was quietly dismantled within weeks. No admission of failure. No accountability. Just a sudden reversal that tacitly confirmed everything the protesters already knew.
 
-The moment people were burning in their own homes, they didn't care what color the blood on TV was.
-
-The aesthetic of control had met reality. Reality won.
+The moment people were burning in their own homes, they didn't care what color the blood on TV was. The aesthetic of control had met reality. Reality won.
 
 
 ## Hiding the Cracks
 
 This is where the superstition stops being a mere waste of resources and becomes a catastrophic blind spot.
 
-When a regime is obsessed with the image of control, problems don't get reported — they get concealed. And a problem that cannot be reported cannot be fixed.
+When a regime is obsessed with the image of control, problems don't get reported — they get concealed. The practice is well documented. Chinese officials have been caught constructing entirely fake infrastructure for visiting inspectors — pristine model bathrooms, renovated facades, and Potemkin villages that will quietly revert the day the delegation leaves. These are so common they have a name: *miànzi gōngchéng*, or "face projects." The goal is not to deceive the public. It is to deceive the hierarchy itself. The result is a system in which the people responsible for fixing problems are the last to know they exist.
 
-The practice is well documented. Chinese officials have been caught constructing entirely fake infrastructure for visiting inspectors — pristine model bathrooms, renovated facades, and Potemkin villages that will quietly revert the day the delegation leaves. These are so common they have a name: *miànzi gōngchéng*, or "face projects." The goal is not to deceive the public. It is to deceive the hierarchy itself. Local officials, measured on metrics of progress, have every incentive to perform progress rather than produce it. The result is a system in which the people responsible for fixing problems are the last to know they exist.
-
-Political scientists call the downstream effect *preference falsification*. When people are punished for dissent, they learn to perform agreement. Bad policies don't get corrected because no one can safely report that they're bad policies. The feedback loop that any functioning system depends on is severed at the source.
-
-This creates what Nassim Taleb would call *fragility*. A system with open feedback mechanisms bends. A system that suppresses feedback snaps. Because the CCP cannot tolerate the appearance of cracks, it never learns how close it is to the edge.
+Political scientists call the downstream effect *preference falsification*. Bad policies don't get corrected because no one can safely report that they're bad policies. The feedback loop that any functioning system depends on is severed at the source. Because the CCP cannot tolerate the appearance of cracks, it never learns how close it is to the edge.
 
 Regimes obsessed with aesthetics do not decline slowly — they collapse overnight. The Soviet Union did not crumble; it dissolved in months once the preference cascade began. The Berlin Wall did not gradually lower; it fell in an evening. The White Paper Protests followed the same logic. The protests were not the cause of Zero Covid's failure — they were the moment its failure became impossible to hide. The policy had been visibly unraveling for months. The warnings existed. They simply hadn't been allowed to travel upward.
 
@@ -63,30 +54,45 @@ When you spend enough time perfecting the surface, you stop watching the foundat
 
 The CCP is not stupid. They know that any system this large, with this much punishment attached to bad news, will inevitably produce officials who tell their superiors what they want to hear. And so they have developed a structural solution: the inspection system.
 
-Central inspection teams are periodically dispatched from Beijing into provinces and institutions, operating outside the local chain of command, explicitly tasked with finding what local officials have been hiding. The logic is sound. If you cannot trust reports traveling upward, send your own eyes downward.
+Central inspection teams are periodically dispatched from Beijing into provinces and institutions, operating outside the local chain of command, explicitly tasked with finding what local officials have been hiding. The logic is that if you cannot trust reports traveling upward, send your own eyes downward.
 
-The problem is that the inspectors arrive in a system that has spent years perfecting the art of performing compliance for visitors. They get the clean bathrooms. They get the prepared officials. They get answers that have been rehearsed. The inspection team is not exempt from the same information environment that corrupted the reports they came to audit. They have simply become another audience for the performance.
+This is a hack which doesn't work. The inspectors arrive in a system that has spent years perfecting the art of performing compliance for visitors. They They get the prepared officials and answers that have been rehearsed. The inspection team is not exempt from the same information environment that corrupted the reports they came to audit. They have simply become another audience for the performance.
 
-And so the solution generates its own layer of concealment, which demands its own layer of oversight, which generates its own performance. The apparatus grows. The paranoia deepens. As we've discussed, the root issue here is that their superstition is motivating them to hide the flaws.
+And so the solution generates its own layer of concealment, which demands its own layer of oversight, which generates its own performance. The apparatus grows. The paranoia deepens.
 
+As we've discussed, the root issue here is that their superstition is motivating them to hide the flaws. This is the trap. The CCP cannot solve its echo chamber problem without dismantling the very structure that makes the echo chamber inevitable: the principle that authority must never visibly fail, that cracks must be sealed rather than examined, that the aesthetic of control takes precedence over its reality. That principle is not a policy. It is the foundation the entire system is built on.
 
-This is the trap. The CCP cannot solve its echo chamber problem without dismantling the very structure that makes the echo chamber inevitable: the principle that authority must never visibly fail, that cracks must be sealed rather than examined, that the aesthetic of control takes precedence over its reality. That principle is not a policy. It is the foundation the entire system is built on.
+You cannot fix the symptom without curing the disease. And the disease _is_ the CCP.
 
-You cannot fix the symptom without curing the disease. And the disease is the point.
+## The Result: China Invades Taiwan in 2027
 
-## The result: China invades Taiwan in 2027
+History tends to repeat. People tend to mean what they say.
 
-TODO: we already know that history tends to repeat and people tend to mean what they say. China says they'll invade Taiwan, they've done it to Tibet, it's going to happen. The only innovation from our breakdown is that we now know why they will fail.
+The Pentagon's most recent annual report to Congress, published in December 2025, is unambiguous. The PLA, it states, "continues to make steady progress toward its 2027 goals, whereby the PLA must be able to achieve 'strategic decisive victory' over Taiwan." The report then drops any diplomatic hedging: *"In other words, China expects to be able to fight and win a war on Taiwan by the end of 2027."* In 2024 alone, the PLA tested essential components of Taiwan invasion options, "including through exercises to strike sea and land targets, strike U.S. forces in the Pacific, and block access to key ports."
 
-TODO: On the surface, it might seem strange that China would choose 2027 to invade, when their economy is going down hill. Any reasonable government would wait for an uptick before trying something something so ambitious. But as discussed, China values vanity. A reuinification with Taiwan would give them the _image_ of control. The collapse of their export economy is secondary.
+Then came the ODNI's 2026 Annual Threat Assessment, released in March of this year. DNI Gabbard's language was notably different: the IC assesses that China "will likely seek to set the conditions for an eventual peaceful reunification with Taiwan, short of conflict." Some took this as a walk-back. It isn't. As we will come to, setting the conditions for reunification without firing a shot is precisely the plan.
 
-TODO: The reason I say 2027 and not 2028 or 2029 is that the CCP is superstitious. The years 2026 and 2027 have spritual sagnificance to the CPP. TODO: explain why. I would not be suprised if the exact date ends up being 1st of Augest 2027 for this reason.
+And there is precedent. In 1950, China invaded Tibet. The international community noted its concerns. Tibet ceased to exist as an independent state. The pattern — assertion, preparation, action — is not new. What China says it wants, it has historically moved to take. Meanwhile, Beijing has quietly dropped the phrase "peaceful reunification" from its official statements on Taiwan, removing it from the 2025 National People's Congress work report and the Taiwan Affairs Work Conference. The omission is the message.
 
-And since they are so vain, we know exactly how they're going to execute this reunification. It's not going to be a ground invasion, China's too smart for that. They saw what happened with Russia, TODO: explain why the Russia invasion was stupid and failed. China is too vain to start a war they think they'll loose.
+The only thing our analysis adds is an explanation of *why the attempt will fail*.
 
-What they'll actually do is start a modern-day seige on Taiwan by surounding it with battleships and drones. They don't even have to delcare war. Since every civilian ship China builds is fit for military specifications, they can simply claim that they are simply checking import packages to their own legal territory. After all, most the world recognizes the One China Policy - even the USA.
+Which brings us to the timing. On the surface, 2027 seems like a strange moment to attempt the most ambitious military operation in modern Chinese history. China's export economy is contracting. Demographics are deteriorating. The property sector is in crisis. Any rational government running a cost-benefit analysis would wait for a stronger position.
 
-The resulting battle lives in a 2D chart in which the x axis is time and the y axis is Taiwan's economy. China will simply calculate how long they need to squize Taiwan for and make sure they can keep it up.
+But as we have established, this is a government that governs by aesthetic. A successful reunification with Taiwan would be the ultimate face project — the restoration of a broken nation, the humiliation of the United States, the image of a China that cannot be stopped. That image is worth more to the CCP than a few points of GDP growth.
+
+The collapsing economy is not a reason to wait. To a system this vain, it may actually be a reason to accelerate.
+
+The specific year matters too, and not just strategically. August 1st, 2027 marks the centenary of the founding of the People's Liberation Army, born from the Nanchang Uprising on August 1st, 1927. The CCP has formally encoded this into its national planning as the "2027 Centennial Military Building Goal" — the date by which the PLA must have achieved decisive modernisation. For a regime that treats symbolic dates as load-bearing pillars of governance, this is not incidental. A military operation launched on the hundredth birthday of the PLA would be the kind of historical poetry that the CCP finds irresistible. I would not be surprised if, when it comes, the date is August 1st, 2027.
+
+And since they are so vain, we can also predict the method. It will not be a ground invasion. China watched Russia's attempt in Ukraine and drew the obvious conclusions. Russia had the largest land army in Europe, a shared border with its target, and the element of surprise. It still failed to take Kyiv in the opening weeks, got bogged down in a war of attrition it hadn't planned for, and has spent three years bleeding out in the mud. The more fundamental problem is that the PLA hasn't fought a sustained war since 1979. Its officer class is untested. Its logistics are unproven at scale. Taiwan's mountainous terrain is a defender's paradise. A ground invasion is a war China could visibly lose, and a system this vain cannot start a war it thinks it will lose.
+
+So it won't.
+
+What it will do instead is something far more patient and far more elegant: a modern siege. China surrounds Taiwan with warships and drones. No declaration of war. No first shot fired. Since every civilian vessel China builds is constructed to dual-use military specifications, they can frame the entire operation as a routine inspection of cargo entering what they consider their own sovereign territory. Most of the world already recognises the One China Policy — including, formally, the United States. The legal scaffolding is already in place.
+
+The battle that follows doesn't look like a war. It looks like a spreadsheet. The x-axis is time. The y-axis is Taiwan's economy. Taiwan imports over 97% of its energy. Squeeze the shipping lanes long enough and the calculation does itself. China simply has to hold the blockade longer than Taiwan can hold its economy together — and make sure it can sustain the squeeze before it begins.
+
+The ODNI's assessment that China will "seek to set the conditions for peaceful reunification, short of conflict" is not a reassurance. It is a description of exactly this strategy. The conditions get set. The economy contracts. And at some point, reunification stops being a military question and becomes an economic one.
 
 The implications on the global economy are devastating. Supply chains will fall, companies will go bankrupt and recessions will propagate. It is concievable that cetain industries could recover within a couple years by aggresivly pivoting to new technologies such as 3D printing. But one industry which will certainly be set back a decade is chip fabrication. Taiwan produces 90% of high-end silicon chips and 60% of chips overall.
 
