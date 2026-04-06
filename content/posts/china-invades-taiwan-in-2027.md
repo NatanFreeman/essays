@@ -72,7 +72,7 @@ The Pentagon's most recent annual report to Congress, published in December 2025
 
 Then came the ODNI's 2026 Annual Threat Assessment, released in March of this year. DNI Gabbard's language was notably different: the IC assesses that China "will likely seek to set the conditions for an eventual peaceful reunification with Taiwan, short of conflict." Some took this as a walk-back. It isn't. As we will come to, setting the conditions for reunification without firing a shot is precisely the plan.
 
-And there is precedent. In 1950, China invaded Tibet. The international community noted its concerns. Tibet ceased to exist as an independent state. The pattern — assertion, preparation, action — is not new. What China says it wants, it has historically moved to take. Meanwhile, Beijing has quietly dropped the phrase "peaceful reunification" from its official statements on Taiwan, removing it from the 2025 National People's Congress work report and the Taiwan Affairs Work Conference. The omission is the message.
+And there is precedent. In 1950, China invaded Tibet. The international community noted its concerns. Tibet ceased to exist as an independent state. The pattern — assertion, preparation, action — is not new. What China says it wants, it has historically moved to take. Meanwhile, Beijing has quietly dropped the phrase "peaceful reunification" from its official statements on Taiwan, removing it from the 2025 National People's Congress work report and the Taiwan Affairs Work Conference.
 
 The only thing our analysis adds is an explanation of *why the attempt will fail*.
 
@@ -80,20 +80,23 @@ Which brings us to the timing. On the surface, 2027 seems like a strange moment 
 
 But as we have established, this is a government that governs by aesthetic. A successful reunification with Taiwan would be the ultimate face project — the restoration of a broken nation, the humiliation of the United States, the image of a China that cannot be stopped. That image is worth more to the CCP than a few points of GDP growth.
 
-The collapsing economy is not a reason to wait. To a system this vain, it may actually be a reason to accelerate.
+In fact, to a system this vain, the collapsing economy is actually be a reason to accelerate.
 
 The specific year matters too, and not just strategically. August 1st, 2027 marks the centenary of the founding of the People's Liberation Army, born from the Nanchang Uprising on August 1st, 1927. The CCP has formally encoded this into its national planning as the "2027 Centennial Military Building Goal" — the date by which the PLA must have achieved decisive modernisation. For a regime that treats symbolic dates as load-bearing pillars of governance, this is not incidental. A military operation launched on the hundredth birthday of the PLA would be the kind of historical poetry that the CCP finds irresistible. I would not be surprised if, when it comes, the date is August 1st, 2027.
 
-And since they are so vain, we can also predict the method. It will not be a ground invasion. China watched Russia's attempt in Ukraine and drew the obvious conclusions. Russia had the largest land army in Europe, a shared border with its target, and the element of surprise. It still failed to take Kyiv in the opening weeks, got bogged down in a war of attrition it hadn't planned for, and has spent three years bleeding out in the mud. The more fundamental problem is that the PLA hasn't fought a sustained war since 1979. Its officer class is untested. Its logistics are unproven at scale. Taiwan's mountainous terrain is a defender's paradise. A ground invasion is a war China could visibly lose, and a system this vain cannot start a war it thinks it will lose.
+And since they are so vain, we can also predict the method. It will not be a ground invasion. China watched Russia's attempt in Ukraine and drew the obvious conclusions. Russia had the largest land army in Europe, a shared border with its target, and the element of surprise. It still failed to take Kyiv in the opening weeks, got bogged down in a war of attrition it hadn't planned for, and has spent three years bleeding out in the mud. But the more fundamental problem is that the PLA hasn't fought a sustained war since 1979. Its officer class is untested. Its logistics are unproven at scale. Taiwan's mountainous terrain is a defender's paradise. A ground invasion is a war China could visibly lose, and a system this vain cannot start a war it thinks it will lose.
 
 So it won't.
 
 What it will do instead is something far more patient and far more elegant: a modern siege. China surrounds Taiwan with warships and drones. No declaration of war. No first shot fired. Since every civilian vessel China builds is constructed to dual-use military specifications, they can frame the entire operation as a routine inspection of cargo entering what they consider their own sovereign territory. Most of the world already recognises the One China Policy — including, formally, the United States. The legal scaffolding is already in place.
 
-The battle that follows doesn't look like a war. It looks like a spreadsheet. The x-axis is time. The y-axis is Taiwan's economy. Taiwan imports over 97% of its energy. Squeeze the shipping lanes long enough and the calculation does itself. China simply has to hold the blockade longer than Taiwan can hold its economy together — and make sure it can sustain the squeeze before it begins.
+The battle that follows doesn't look like a war. It looks like a spreadsheet. The x-axis is time. The y-axis is Taiwan's economy. Taiwan imports over 97% of its energy. Squeeze the shipping lanes long enough and the calculation does itself. China simply has to hold the blockade longer than Taiwan can hold its economy together — and make sure it can sustain the squeeze before it begins. TODO: I think the pentagon or someone has already formalized this plan. if so, I should include it here
 
 The ODNI's assessment that China will "seek to set the conditions for peaceful reunification, short of conflict" is not a reassurance. It is a description of exactly this strategy. The conditions get set. The economy contracts. And at some point, reunification stops being a military question and becomes an economic one.
 
 The implications on the global economy are devastating. Supply chains will fall, companies will go bankrupt and recessions will propagate. It is concievable that cetain industries could recover within a couple years by aggresivly pivoting to new technologies such as 3D printing. But one industry which will certainly be set back a decade is chip fabrication. Taiwan produces 90% of high-end silicon chips and 60% of chips overall.
 
-This is no concidance.
+This is no concidance. Taiwan's national security in the past few decades has been entirely built on its "Silicon Shield". TODO: explain the silicon shield stratergy. TODO: explain the silicon shield stratergy
+
+Recently, this shield has started to form cracks. TODO: introduce pax silica. The USA no longer views Taiwan as a stratergic ally. They view them as an annoying bottleneck holding the global economy hostage.
+
