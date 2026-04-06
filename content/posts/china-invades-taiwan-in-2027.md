@@ -65,4 +65,14 @@ TODO: we already know that history tends to repeat and people tend to mean what 
 
 TODO: On the surface, it might seem strange that China would choose 2027 to invade, when their economy is going down hill. Any reasonable government would wait for an uptick before trying something something so ambitious. But as discussed, China values vanity. A reuinification with Taiwan would give them the _image_ of control. The collapse of their export economy is secondary.
 
-And since they are so vain, we know exactly how they're going to execute this reunification. It's not going to be a ground invasion, China's too smart for that. They saw what happened with Russia
+TODO: The reason I say 2027 and not 2028 or 2029 is that the CCP is superstitious. The years 2026 and 2027 have spritual sagnificance to the CPP. TODO: explain why. I would not be suprised if the exact date ends up being 1st of Augest 2027 for this reason.
+
+And since they are so vain, we know exactly how they're going to execute this reunification. It's not going to be a ground invasion, China's too smart for that. They saw what happened with Russia, TODO: explain why the Russia invasion was stupid and failed. China is too vain to start a war they think they'll loose.
+
+What they'll actually do is start a modern-day seige on Taiwan by surounding it with battleships and drones. They don't even have to delcare war. Since every civilian ship China builds is fit for military specifications, they can simply claim that they are simply checking import packages to their own legal territory. After all, most the world recognizes the One China Policy - even the USA.
+
+The resulting battle lives in a 2D chart in which the x axis is time and the y axis is Taiwan's economy. China will simply calculate how long they need to squize Taiwan for and make sure they can keep it up.
+
+The implications on the global economy are devastating. Supply chains will fall, companies will go bankrupt and recessions will propagate. It is concievable that cetain industries could recover within a couple years by aggresivly pivoting to new technologies such as 3D printing. But one industry which will certainly be set back a decade is chip fabrication. Taiwan produces 90% of high-end silicon chips and 60% of chips overall.
+
+This is no concidance. 
