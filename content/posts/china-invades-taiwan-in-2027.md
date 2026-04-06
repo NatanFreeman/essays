@@ -28,13 +28,7 @@ This is, of course, complete superstition. There is no meaningful evidence that 
 
 It is a profoundly vain system. The state needs to *look* like it shapes reality, even when it demonstrably does not. That feeling — not the effect — is the product.
 
-TODO: Compact the next three paragraphs. We don't need so much detail on the event. It should be one longer paragraph.
-
-The White Paper Protests of 2022 prove this. On November 24th, a blaze tore through a residential tower in Ürümqi, Xinjiang. At least ten people died. Residents and witnesses reported that COVID lockdown measures — sealed doors, blocked exits, and restricted emergency access — had slowed evacuation and delayed firefighters. The state's pandemic theatre had burned people alive in their own homes.
-
-People took to the streets holding blank sheets of paper. The choice was practical before it was poetic. Every slogan, every accusation, every name that might appear on a sign had already been pre-emptively censored, and displaying one could mean arrest. A blank page gave the authorities nothing to cite as a charge. Protesters had found the one thing the system couldn't delete.
-
-What happened next was surprising. Facing the largest coordinated protests the country had seen in decades, the CCP did something it almost never does: it backed down. Zero Covid, the policy the censorship apparatus had spent years insulating from criticism, was quietly dismantled within weeks. No admission of failure. No accountability. Just a sudden reversal that tacitly confirmed everything the protesters already knew.
+The White Paper Protests of 2022 proved this. After a fire tore through a residential tower in Ürümqi, Xinjiang, on November 24th, killing at least ten people, residents and witnesses reported that COVID lockdown measures — sealed doors, blocked exits, and restricted emergency access — had slowed evacuation and delayed firefighters. The state's pandemic theatre had burned people alive in their own homes. People then took to the streets holding blank sheets of paper, a choice that was practical before it was poetic: every slogan, accusation, or banned name had already been pre-emptively censored, and displaying one could mean arrest. A blank page gave the authorities nothing to cite as a charge. And then, facing the largest coordinated protests the country had seen in decades, the CCP did something it almost never does: it backed down. Zero Covid, the policy the censorship apparatus had spent years insulating from criticism, was quietly dismantled within weeks. No admission of failure. No accountability. Just a sudden reversal that tacitly confirmed everything the protesters already knew.
 
 The moment people were burning in their own homes, they didn't care what color the blood on TV was. The aesthetic of control had met reality. Reality won.
 
