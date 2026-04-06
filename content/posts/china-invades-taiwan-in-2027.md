@@ -99,7 +99,7 @@ A US government analysis estimated a blockade-triggered disruption to Taiwan's c
 
 ## Do Nothing, Win
 
-Recently, however, the shield has started to crack. Enter *Pax Silica*. Launched by the US State Department in December 2025, Pax Silica is a US-led framework coordinating "trusted partners" — Japan, South Korea, Australia, the UK, Singapore, the Netherlands, and others — to build resilient semiconductor and AI supply chains that do not depend on Taiwan. TSMC is already building fabs in Arizona and Japan. US Commerce Secretary Howard Lutnick called for a "50-50" production split between the US and Taiwan. The policy has a name in Washington: *"onshoring chips to survive Taiwan's loss."*
+Recently, however, the shield has started to crack. Enter *Pax Silica*. Launched by the US State Department in December 2025, Pax Silica is a US-led framework coordinating "trusted partners" — Japan, South Korea, Australia, the UK, Singapore, the Netherlands, and others — to build resilient semiconductor and AI supply chains that do not depend on Taiwan. TSMC is already building fabs in Arizona and Japan. Secretary Jacob Helberg (State Dept.) called for a "50-50" production split between the US and Taiwan. The policy has a name in Washington: *"onshoring chips to survive Taiwan's loss."*
 
 The United States no longer views Taiwan as a strategic ally it must protect at all costs. It views Taiwan as an annoying bottleneck holding the global economy hostage — and it is quietly building the exits. The shield only works if the people sheltering behind it have no way out. They're finding one.
 
