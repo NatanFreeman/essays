@@ -4,7 +4,7 @@ date = 2026-04-05T08:42:14Z
 draft = true
 +++
 
-## Superstition & Vanity
+## Sympathetic Magic
 
 The CCP exercises comprehensive control over daily life through a pervasive system of censorship. They do not merely censore political content, but also non-political expressions of art, and culture. For example, television broadcasters routinely blur or ban visible tattoos. Video game developers recolor depictions of blood, the government even discourages depictions of homosexuality and "non-conforming gender expressions".
 
@@ -38,7 +38,7 @@ What happened next was surprising. Facing the largest coordinated protests the c
 The moment people were burning in their own homes, they didn't care what color the blood on TV was. The aesthetic of control had met reality. Reality won.
 
 
-## Hiding the Cracks
+## Watching the Watchers
 
 This is where the superstition stops being a mere waste of resources and becomes a catastrophic blind spot.
 
@@ -50,7 +50,7 @@ Regimes obsessed with aesthetics do not decline slowly — they collapse overnig
 
 When you spend enough time perfecting the surface, you stop watching the foundation.
 
-## Paranoia
+## 1st of August, 2027
 
 The CCP is not stupid. They know that any system this large, with this much punishment attached to bad news, will inevitably produce officials who tell their superiors what they want to hear. And so they have developed a structural solution: the inspection system.
 
@@ -63,8 +63,6 @@ And so the solution generates its own layer of concealment, which demands its ow
 As we've discussed, the root issue here is that their superstition is motivating them to hide the flaws. This is the trap. The CCP cannot solve its echo chamber problem without dismantling the very structure that makes the echo chamber inevitable: the principle that authority must never visibly fail, that cracks must be sealed rather than examined, that the aesthetic of control takes precedence over its reality. That principle is not a policy. It is the foundation the entire system is built on.
 
 You cannot fix the symptom without curing the disease. And the disease _is_ the CCP.
-
-## The Result: China Invades Taiwan in 2027
 
 History tends to repeat. People tend to mean what they say.
 
@@ -103,6 +101,8 @@ The implications on the global economy are devastating. Supply chains will colla
 This is no coincidence. Taiwan's national security strategy for the past several decades has been built almost entirely on what analysts call the *Silicon Shield*. The theory, popularized in a 2001 book by Craig Addison and refined ever since, is straightforward: Taiwan's semiconductor industry is so indispensable to the global economy — to Chinese manufacturing, to American consumer electronics, to every modern military system — that attacking it would be economic suicide for the attacker. The threat is not military. It is the same logic as nuclear deterrence, but expressed in supply chains. Taiwan's former president Tsai Ing-wen called TSMC "the divine mountain that guards the nation." The world's dependence on it was supposed to be the wall.
 
 A US government analysis estimated a blockade-triggered disruption to Taiwan's chip supply would cost the global economy up to $2.5 trillion. Bloomberg's estimate was $5 trillion.
+
+## Do Nothing, Win
 
 Recently, however, the shield has started to crack. Enter *Pax Silica*. Launched by the US State Department in December 2025, Pax Silica is a US-led framework coordinating "trusted partners" — Japan, South Korea, Australia, the UK, Singapore, the Netherlands, and others — to build resilient semiconductor and AI supply chains that do not depend on Taiwan. TSMC is already building fabs in Arizona and Japan. US Commerce Secretary Howard Lutnick called for a "50-50" production split between the US and Taiwan. The policy has a name in Washington: *"onshoring chips to survive Taiwan's loss."*
 
