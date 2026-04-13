@@ -60,10 +60,22 @@ The copyright maximalist position — that styles, influences, and aesthetic DNA
 
 Applied now, it means no AI art. And the people demanding that are not defending artists. They are pulling up the ladder behind them.
 
-### Compensation
-Now you might say "okay, even if that worked for Shakespear, today we still need copyright to put food on our tables". TODO: Copyright doesn't help artists get compensated, it helps high-end studio executives. The fact that artists are anyway posting their art for free on twitter proves this. The revanue comes from patreon. musicians barely make anything from streaming, they make the money from concerts. Today is exactly like Shakespear. We have come full circle. That's why we have the term "starving artists". It's the passion tax, not AI art that's stealing from artists. You are just playing Disney's biggest advocate.
+## Compensation
+Now you might say: "okay, fine. Maybe Shakespeare didn't need copyright. But today, artists need it to eat."
 
-The twist. Flips their moral self-image. They came in as artist-defenders, they leave as corporate shills.
+Do they?
+
+Look at how artists actually make money in 2026. Illustrators post their work for free on Twitter, Instagram, and everywhere else — and make their living on Patreon, commissions, and merchandise. Musicians release their music on Spotify for fractions of a cent per stream, and make their money on tour. The art itself is not the product. It never really was. The art is the advertisement. The relationship with the audience is the product.
+
+This is not new. This is Shakespeare. He didn't sell books — he sold seats. We have come full circle, and copyright had nothing to do with it.
+
+So if copyright isn't putting food on artists' tables, who is it feeding?
+
+Disney has lobbied the US government to extend copyright terms four times since 1962 — every time Mickey Mouse was about to enter the public domain. The term is now 95 years. The major record labels own the masters to their artists' most valuable work, collecting royalties on songs that artists can no longer afford to buy back. Publishers capture the majority of revenue from books while authors earn advances they statistically never recoup.
+
+"Starving artist" is not a new phrase. It did not originate with AI. It describes a structural reality that existed long before Stable Diffusion was released — a reality that copyright created and sustains.
+
+When you fight for AI copyright restrictions in the name of protecting artists, you are not doing what you think you are doing. You are volunteering as Disney's most passionate lobbyist, for free, while the artists you think you're protecting remain exactly as broke as they were before.
 
 ### Do we loose something from comodetization:
 We have already been doing that. 16 year old Korean girls are starving themselves to be Kpop idols, and _now_ you're concerned about comoditization? Except you already said you love coperate art because of how you defend copyright
