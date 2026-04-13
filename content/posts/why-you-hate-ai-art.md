@@ -14,8 +14,24 @@ There's an important distinction here. He doesn't say that AI is inherently maki
 This is actually a very interesting observation. He is directly confirming that even if the pieces were exactly equal in quality, knowing that an AI made one, automatically makes it worse. He makes sure to point out that this isn't a deliberate, moral stance he decides to take - it's an instictual gut reaction.
 
 Understanding why this happens is key to the whole AI art debate. And I have a theory.
-TODO: explain that it's because you don't understand art. you confuse technique with novelty. You feel cheated because you are a fruad. Entry point. Establishes you understand their psychology before attacking it. Keep as opener but reframe it as diagnostic, not accusatory. "Here's why you feel this way" before "here's why you're wrong." The fraud conclusion lands harder after they've nodded along to the psychology.
 
+Most people have never been trained to evaluate art. They didn't study composition, color theory, or semiotics. So when they stand in front of a painting, they aren't actually evaluating the art — they're evaluating the *effort*. The thousands of hours of practice. The technical mastery. The suffering, essentially.
+
+This is called the labor illusion. The art is a proxy for human struggle, and the emotional response you feel isn't aesthetic appreciation — it's admiration for effort. You're rating paintings the same way you'd rate a student who pulled an all-nighter. Not on the quality of the output, but on the sacrifice that produced it.
+
+AI doesn't just make art. It exposes this. When you discover a piece was AI-generated, the illusion collapses. There was no struggle. No decade of practice. No 3am frustration. And suddenly you feel cheated.
+
+And yet, *the art didn't change*. You didn't suddenly develop better taste. The piece you were moved by a moment ago is identical. What changed is that you can no longer use it as a mirror for human suffering.
+
+You weren't appreciating art. You were appreciating labor. And you didn't know that about yourself until a machine pointed it out.
+
+That's not AI's failing. That's yours.
+
+What's frustrating abiout Inman's article is that he almost realized this. He aknowladges directly that intent is what matters when it comes to art, but he doesn't conceed, he doubles down.
+
+> [...] your toil is what makes your art beautiful. I mentioned the Sistine Chapel earlier. Michelangelo suffered horribly while painting it. He craned his neck upwards. His body twisted. Paint dripped in his eyes. This misery went on for years. So, does knowing that Michelangelo suffered for his art make the art better? I suppose that depends on the viewer and their experience. For me, it matters. It's not required, but it matters.
+
+His argument completely falls apart. He asks "does suffering make the art better?" and says "yea pretty much" without any justification. Well we know the justification. TODO: bring full circle
 ## Copyright concerns:
 Art _is_ influence. By trying to gatekeep styles, you are destroying art.
 
