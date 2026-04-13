@@ -1,7 +1,7 @@
 +++
 title = 'Why You Hate AI Art'
 date = 2026-04-13T13:05:28Z
-draft = false
+draft = true
 +++
 
 I recently read an
