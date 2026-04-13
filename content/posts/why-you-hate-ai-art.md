@@ -31,7 +31,7 @@ What's frustrating about Inman's article is that he almost realized this. He ack
 
 > [...] your toil is what makes your art beautiful. I mentioned the Sistine Chapel earlier. Michelangelo suffered horribly while painting it. He craned his neck upwards. His body twisted. Paint dripped in his eyes. This misery went on for years. So, does knowing that Michelangelo suffered for his art make the art better? I suppose that depends on the viewer and their experience. For me, it matters. It's not required, but it matters.
 
-His argument completely falls apart. He asks, "Does suffering make the art better?" and says, "Yeah, pretty much," without any justification. Well, we know the justification. TODO: bring this full circle.
+His argument completely falls apart. He asks, "Does suffering make the art better?" and says, "Yeah, pretty much," without any justification. But the justification is obvious: if suffering is what makes art meaningful, then the beauty was never in the work itself. It was in the pain you projected onto it. That brings us right back to the real issue. AI art doesn't offend people because it fails aesthetically. It offends them because it severs art from labor, and some people can't tell the difference.
 
 ## Copyright concerns
 Now I'd like to touch on some of the other issues regarding AI art. The first is copyright. When detractors are not trying to be sentimental, this is what they often fall back to. AI art is unethical because it's illegally using an artist's work without their permission.
@@ -87,9 +87,7 @@ Jonghyun of SHINee left a note before he died that described being "broken from 
 
 You care about K-pop idol welfare the way you care about fast fashion supply chains — sincerely, in theory, never in practice.
 
-And now Inman takes this somewhere almost sadistically revealing. His Michelangelo argument was that suffering *improves* art. That the neck pain, the twisted body, the years of misery dripping paint into his eyes — that this is what makes the Sistine Chapel transcendent.
-
-Follow that logic to Seoul. The sleep deprivation — four hours a night during comeback season. The bodies surgically reshaped at sixteen. The eating disorders, the contractual prohibition on relationships, the psychological collapse, the suicides. By Inman's own framework, all of that suffering should be making the music *better*. You should be grateful for it.
+Inman actually takes this a step further. His Michelangelo argument argues (almost sadistically), that suffering makes the art that much better. The sleep deprivation — four hours a night during comeback season. The bodies surgically reshaped at sixteen. The eating disorders, the contractual prohibition on relationships, the psychological collapse, the suicides. By Inman's own framework, all of that suffering should be making the music *better*. You should be grateful for it.
 
 ## It's Taking People's Jobs
 We've arrived at the argument that started all of this. AI art is wrong because it takes jobs from real people. From artists. From creatives who spent years honing their craft.
