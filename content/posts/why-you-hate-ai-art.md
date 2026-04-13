@@ -77,12 +77,21 @@ Disney has lobbied the US government to extend copyright terms four times since 
 
 When you fight for AI copyright restrictions in the name of protecting artists, you are not doing what you think you are doing. You are volunteering as Disney's most passionate lobbyist, for free, while the artists you think you're protecting remain exactly as broke as they were before.
 
-### Do we loose something from comodetization:
-We have already been doing that. 16 year old Korean girls are starving themselves to be Kpop idols, and _now_ you're concerned about comoditization? Except you already said you love coperate art because of how you defend copyright
+Now you might say "that's not true, I *don't* support sixteen-year-old Koreans starving themselves. I believe they should be fairly compensated." But do you really?
 
-Most explosive, hardest to recover from, catches them in direct personal contradiction. "You already chose commoditization." You want this ringing in their head after they finish reading.
+When Dynamite by BTS comes on, do you skip it? When BLACKPINK — managed by YG Entertainment, a label with a documented history of sexual abuse scandals and executive criminality — releases a new single, do you boycott it? Do you harass people who stream TWICE the same way you harass people who use Midjourney? Do you feel that same visceral gut reaction when you hear a song by SM Entertainment, a company whose artists have described being weighed weekly, having their diets controlled, and signing contracts at fourteen that surrendered their autonomy for a decade?
 
-### It's taking people's jobs
+You don't. You know you don't.
+
+Jonghyun of SHINee left a note before he died that described being "broken from the inside." Sulli, Goo Hara — both gone, both had spoken publicly about the psychological cost of being a manufactured product. The industry didn't change. The streams didn't stop. You kept listening.
+
+You care about K-pop idol welfare the way you care about fast fashion supply chains — sincerely, in theory, never in practice.
+
+And now Inman takes this somewhere almost sadistically revealing. His Michelangelo argument was that suffering *improves* art. That the neck pain, the twisted body, the years of misery dripping paint into his eyes — that this is what makes the Sistine Chapel transcendent.
+
+Follow that logic to Seoul. The sleep deprivation — four hours a night during comeback season. The bodies surgically reshaped at sixteen. The eating disorders, the contractual prohibition on relationships, the psychological collapse, the suicides. By Inman's own framework, all of that suffering should be making the music *better*. You should be grateful for it.
+
+## It's taking people's jobs
 You are an elitist who doesn't care about blue color workers. The elitist argument should be framed as the single mother coal miner with two kids and lung cancer she can no longer afford to treat.
 
 Why coal miner last:
