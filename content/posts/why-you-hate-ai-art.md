@@ -34,13 +34,15 @@ What's frustrating abiout Inman's article is that he almost realized this. He ak
 His argument completely falls apart. He asks "does suffering make the art better?" and says "yea pretty much" without any justification. Well we know the justification. TODO: bring full circle
 
 ## Copyright concerns:
-Now I'd like to touch on some of the other issues regarding AI art. The first of which is copyright. When detractors are not trying to be sentimental, this is what they often fall back to. AI art is unethical because it's illegaly using an artist's work without their permissions.
+Now I'd like to touch on some of the other issues regarding AI art. The first of which is copyright. When detractors are not trying to be sentimental, this is what they often fall back to. AI art is unethical because it's illegaly using an artist's work without their permission.
 
-So, is this true? Is AI art illegal? The answer is ruthlessly straightforward: no. TODO: talk about the Anthropic lawsuite case and how as long as the works are obtained legally, it's totally legal. This is the case in which they were sued over the pirated books but not the physically purchased ones. No consent required.
+So, is this true? Is AI art illegal? A federal court has now given us a direct answer.
 
-Art _is_ influence. By trying to gatekeep styles, you are destroying art.
+In 2024, a group of authors sued Anthropic alleging that training its models on their books constituted copyright infringement. In June 2025, Judge William Alsup of the Northern District of California issued a landmark ruling. He found that training an AI on copyrighted works is **fair use** — "exceedingly transformative," in his words. The court compared the AI to "any reader aspiring to be a writer," one who trains upon works "not to race ahead and replicate or supplant them — but to turn a hard corner and create something different."
 
-First logical strike while they're still open.
+The only part Anthropic lost was separate and unambiguous: they had also downloaded over seven million books from pirate websites like LibGen. *That* was ruled illegal — not because AI trained on them, but because they were stolen. The line the court drew is simple: obtain your training data legally, and training is fair use. No artist consent required.
+
+Art _is_ influence. By trying to gatekeep styles, you are destroying art. TODO: I really want to lean into the destroying art angle. Give examples like how picaso said that great artists steal and a bunch of other early examples in which people didn't care about copyright
 
 ### Compensation:
 Copyright doesn't help artists get compensated, it helps high-end studio executives. That's why we have the term "starving artists". It's the passion tax, not AI art that's stealing from artists. You are just playing Disney's biggest advocate.
