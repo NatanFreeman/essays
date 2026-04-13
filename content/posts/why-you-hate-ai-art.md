@@ -1,17 +1,17 @@
 +++
-title = 'Why You Hate Ai Art'
+title = 'Why You Hate AI Art'
 date = 2026-04-13T13:05:28Z
 draft = true
 +++
 
-I recently read an [article by Matthew Inman](https://theoatmeal.com/comics/ai_art) about AI art. A lot of his arguements were tired, but one was genuinly interesting. I decided to use this as an appritunity to explore the argument further, as well as tackling other arguments surounding AI art whilst we're at it
+I recently read an [article by Matthew Inman](https://theoatmeal.com/comics/ai_art) about AI art. A lot of his arguments were tired, but one was genuinely interesting. I decided to use this as an opportunity to explore the argument further and tackle other arguments surrounding AI art while I'm at it.
 
 ## I feel a visceral reaction towards AI art
-This was Inman's interesting argument. Although, it almost read like an admission of guilt. Rather than relying on any ethical argument, he simply expressed the visceral reaction he feels when he _finds out_ a piece was made by AI.
+This was Inman's interesting argument, though it almost read like an admission of guilt. Rather than relying on any ethical argument, he simply expressed the visceral reaction he feels when he _finds out_ a piece was made by AI.
 
-There's an important distinction here. He doesn't say that AI is inherently making worse art - in fact he was saying that he didn't even _notice_ it was AI. That suprise is what makes him upset.
+There's an important distinction here. He doesn't say that AI inherently makes worse art; in fact, he says that he didn't even _notice_ it was AI. That surprise is what makes him upset.
 
-This is actually a very interesting observation. He is directly confirming that even if the pieces were exactly equal in quality, knowing that an AI made one, automatically makes it worse. He makes sure to point out that this isn't a deliberate, moral stance he decides to take - it's an instictual gut reaction.
+This is actually a very interesting observation. He is directly confirming that even if the pieces were exactly equal in quality, knowing that an AI made one automatically makes it worse. He makes sure to point out that this isn't a deliberate moral stance he decides to take; it's an instinctual gut reaction.
 
 Understanding why this happens is key to the whole AI art debate. And I have a theory.
 
@@ -27,14 +27,14 @@ You weren't appreciating art. You were appreciating labor. And you didn't know t
 
 That's not AI's failing. That's yours.
 
-What's frustrating abiout Inman's article is that he almost realized this. He aknowladges directly that intent is what matters when it comes to art, but he doesn't conceed, he doubles down.
+What's frustrating about Inman's article is that he almost realized this. He acknowledges directly that intent is what matters when it comes to art, but he doesn't concede; he doubles down.
 
 > [...] your toil is what makes your art beautiful. I mentioned the Sistine Chapel earlier. Michelangelo suffered horribly while painting it. He craned his neck upwards. His body twisted. Paint dripped in his eyes. This misery went on for years. So, does knowing that Michelangelo suffered for his art make the art better? I suppose that depends on the viewer and their experience. For me, it matters. It's not required, but it matters.
 
-His argument completely falls apart. He asks "does suffering make the art better?" and says "yea pretty much" without any justification. Well we know the justification. TODO: bring full circle
+His argument completely falls apart. He asks, "Does suffering make the art better?" and says, "Yeah, pretty much," without any justification. Well, we know the justification. TODO: bring this full circle.
 
 ## Copyright concerns
-Now I'd like to touch on some of the other issues regarding AI art. The first of which is copyright. When detractors are not trying to be sentimental, this is what they often fall back to. AI art is unethical because it's illegaly using an artist's work without their permission.
+Now I'd like to touch on some of the other issues regarding AI art. The first is copyright. When detractors are not trying to be sentimental, this is what they often fall back to. AI art is unethical because it's illegally using an artist's work without their permission.
 
 So, is this true? Is AI art illegal? A federal court has now given us a direct answer.
 
@@ -61,7 +61,7 @@ The copyright maximalist position — that styles, influences, and aesthetic DNA
 Applied now, it means no AI art. And the people demanding that are not defending artists. They are pulling up the ladder behind them.
 
 ## Compensation
-Now you might say: "okay, fine. Maybe Shakespeare didn't need copyright. But today, artists need it to eat."
+Now you might say: "Okay, fine. Maybe Shakespeare didn't need copyright. But today, artists need it to eat."
 
 Do they?
 
@@ -77,13 +77,13 @@ Disney has lobbied the US government to extend copyright terms four times since 
 
 When you fight for AI copyright restrictions in the name of protecting artists, you are not doing what you think you are doing. You are volunteering as Disney's most passionate lobbyist, for free, while the artists you think you're protecting remain exactly as broke as they were before.
 
-Now you might say "that's not true, I *don't* support sixteen-year-old Koreans starving themselves. I believe they should be fairly compensated." But do you really?
+Now you might say, "That's not true, I *don't* support sixteen-year-old Koreans starving themselves. I believe they should be fairly compensated." But do you really?
 
 When Dynamite by BTS comes on, do you skip it? When BLACKPINK — managed by YG Entertainment, a label with a documented history of sexual abuse scandals and executive criminality — releases a new single, do you boycott it? Do you harass people who stream TWICE the same way you harass people who use Midjourney? Do you feel that same visceral gut reaction when you hear a song by SM Entertainment, a company whose artists have described being weighed weekly, having their diets controlled, and signing contracts at fourteen that surrendered their autonomy for a decade?
 
 You don't. You know you don't.
 
-Jonghyun of SHINee left a note before he died that described being "broken from the inside." Sulli, Goo Hara — both gone, both had spoken publicly about the psychological cost of being a manufactured product. The industry didn't change. The streams didn't stop. You kept listening.
+Jonghyun of SHINee left a note before he died that described being "broken from the inside." Sulli and Goo Hara are both gone, and both spoke publicly about the psychological cost of being a manufactured product. The industry didn't change. The streams didn't stop. You kept listening.
 
 You care about K-pop idol welfare the way you care about fast fashion supply chains — sincerely, in theory, never in practice.
 
@@ -114,13 +114,13 @@ The soul argument is not a technical observation. It is a feeling. Specifically,
 
 Which means the only remaining distinction between the coal miner and the illustrator is: *whose job is it?*
 
-The blue-collar worker's labor was mechanical, therefore automating it was progress. The creative worker's labor is soulful, therefore automating it is a moral outrage. The line between "mechanical" and "soulful" maps, with suspicious precision, onto the line between working-class and professional-class. Between the people who stand up and the people who sit down. Between the people who shower before work and the people who shower after.
+The blue-collar worker's labor was mechanical; therefore, automating it was progress. The creative worker's labor is soulful; therefore, automating it is a moral outrage. The line between "mechanical" and "soulful" maps, with suspicious precision, onto the line between the working class and the professional class. Between the people who stand up and the people who sit down. Between the people who shower before work and the people who shower after.
 
 You didn't discover a principled distinction between types of labor. You discovered that the machine finally came for someone you recognize in the mirror.
 
-Picture the woman in West Virginia. Single mother. Two kids. Worked the mines because it was the best-paying job within a hundred miles and she needed the health insurance. The automation came, the mine downsized, and she lost her coverage. The cough she'd been ignoring turned out to be something that required treatment she could no longer afford. Her kids spent eighteen months watching her deteriorate.
+Picture the woman in West Virginia. Single mother. Two kids. She worked the mines because it was the best-paying job within a hundred miles and she needed the health insurance. Then automation came, the mine downsized, and she lost her coverage. The cough she'd been ignoring turned out to be something that required treatment she could no longer afford. Her kids spent eighteen months watching her deteriorate.
 
-Now imagine walking into that hospital room. Her two kids sitting in the plastic chairs by the bed. And you lean in and say:
+Now imagine walking into that hospital room. Her two kids are sitting in the plastic chairs by the bed, and you lean in and say:
 
 *"I'm so sorry. But when AI can no longer draw whimsical backgrounds for Smiling Friends, that's where I draw the line."*
 
