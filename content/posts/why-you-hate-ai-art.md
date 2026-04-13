@@ -91,13 +91,41 @@ And now Inman takes this somewhere almost sadistically revealing. His Michelange
 
 Follow that logic to Seoul. The sleep deprivation — four hours a night during comeback season. The bodies surgically reshaped at sixteen. The eating disorders, the contractual prohibition on relationships, the psychological collapse, the suicides. By Inman's own framework, all of that suffering should be making the music *better*. You should be grateful for it.
 
-## It's taking people's jobs
-You are an elitist who doesn't care about blue color workers. The elitist argument should be framed as the single mother coal miner with two kids and lung cancer she can no longer afford to treat.
+## It's Taking People's Jobs
+We've arrived at the argument that started all of this. AI art is wrong because it takes jobs from real people. From artists. From creatives who spent years honing their craft.
 
-Why coal miner last:
+Let's talk about jobs.
 
-K-pop catches them in hypocrisy, which is intellectually damaging. But the coal miner ends on actual human death that they implicitly endorsed by saying nothing. That's not hypocrisy — that's moral culpability.
+In 1950, over 400,000 Americans worked in coal mines. By 2020, that number was under 43,000. The difference wasn't safety regulations or environmental policy — it was machines. Automated cutting equipment, longwall mining systems, conveyor technology that could do in an hour what took a crew a day.
 
-You want the last thing in their head to be a woman dying of lung cancer while they argued about logo design. That image doesn't let you retreat to "well technically copyright law..."
+Society's response was: that's progress. Retrain. Adapt. The market has spoken.
 
-K-pop is "you're a hypocrite." Coal miner is "people died and you were silent." One of those is harder to sleep on.
+Nobody who wrote think-pieces about creative destruction worked in a mine. The people absorbing the cost of progress were doing physical, unglamorous, invisible labor — and the people celebrating it were the ones whose jobs required a laptop. Steel workers. Textile workers. Assembly line workers. Every time automation reached blue-collar labor, the creative class wrote essays about economic inevitability. Every time, the workers were handed a pamphlet about retraining programs and told to stop being sentimental.
+
+You didn't fight for them. You consumed the fruits of their displacement without a second thought.
+
+But here's where the defender of artists makes their move. "That's different," they say. "Physical labor is mechanical. Art requires something fundamentally human — intent, expression, creativity. You can't automate the soul."
+
+But that argument is, strictly speaking, incorrect. There is no computational difference between automating a coal miner's job and automating an illustrator's job.
+
+Both are pattern recognition problems. The excavation robot was trained on geological data and human operators until it could replicate and extend their decisions. The image model was trained on pixels and human feedback until it could replicate and extend visual intuition. The underlying mathematics are identical. The economics are identical. One system learned to navigate physical space. The other learned to navigate aesthetic space. To a processor, these are the same problem — a high-dimensional input, a learned function, an output that satisfies the objective.
+
+The soul argument is not a technical observation. It is a feeling. Specifically, it is the labor illusion wearing a philosophy costume. We already established what that feeling actually is — and it isn't aesthetic sensitivity. It's the discomfort of watching your own effort become cheap.
+
+Which means the only remaining distinction between the coal miner and the illustrator is: *whose job is it?*
+
+The blue-collar worker's labor was mechanical, therefore automating it was progress. The creative worker's labor is soulful, therefore automating it is a moral outrage. The line between "mechanical" and "soulful" maps, with suspicious precision, onto the line between working-class and professional-class. Between the people who stand up and the people who sit down. Between the people who shower before work and the people who shower after.
+
+You didn't discover a principled distinction between types of labor. You discovered that the machine finally came for someone you recognize in the mirror.
+
+Picture the woman in West Virginia. Single mother. Two kids. Worked the mines because it was the best-paying job within a hundred miles and she needed the health insurance. The automation came, the mine downsized, and she lost her coverage. The cough she'd been ignoring turned out to be something that required treatment she could no longer afford. Her kids spent eighteen months watching her deteriorate.
+
+Now imagine walking into that hospital room. Her two kids sitting in the plastic chairs by the bed. And you lean in and say:
+
+*"I'm so sorry. But when AI can no longer draw whimsical backgrounds for Smiling Friends, that's where I draw the line."*
+
+Say it out loud. Hear what it sounds like.
+
+That is the position you are defending. That a freelance illustration contract is the automation that finally went too far. That society should have held the line at the algorithm — not at the machine that filled her lungs with dust, not at the conveyor belt that made her redundant, not at any of the hundred other technological displacements that destroyed working-class communities across the last century — but here. For this.
+
+Not because it's principled. But because this time, it's your desk.
