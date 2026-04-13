@@ -32,7 +32,12 @@ What's frustrating abiout Inman's article is that he almost realized this. He ak
 > [...] your toil is what makes your art beautiful. I mentioned the Sistine Chapel earlier. Michelangelo suffered horribly while painting it. He craned his neck upwards. His body twisted. Paint dripped in his eyes. This misery went on for years. So, does knowing that Michelangelo suffered for his art make the art better? I suppose that depends on the viewer and their experience. For me, it matters. It's not required, but it matters.
 
 His argument completely falls apart. He asks "does suffering make the art better?" and says "yea pretty much" without any justification. Well we know the justification. TODO: bring full circle
+
 ## Copyright concerns:
+Now I'd like to touch on some of the other issues regarding AI art. The first of which is copyright. When detractors are not trying to be sentimental, this is what they often fall back to. AI art is unethical because it's illegaly using an artist's work without their permissions.
+
+So, is this true? Is AI art illegal? The answer is ruthlessly straightforward: no. TODO: talk about the Anthropic lawsuite case and how as long as the works are obtained legally, it's totally legal. This is the case in which they were sued over the pirated books but not the physically purchased ones. No consent required.
+
 Art _is_ influence. By trying to gatekeep styles, you are destroying art.
 
 First logical strike while they're still open.
