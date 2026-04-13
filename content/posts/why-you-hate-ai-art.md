@@ -33,7 +33,7 @@ What's frustrating abiout Inman's article is that he almost realized this. He ak
 
 His argument completely falls apart. He asks "does suffering make the art better?" and says "yea pretty much" without any justification. Well we know the justification. TODO: bring full circle
 
-## Copyright concerns:
+## Copyright concerns
 Now I'd like to touch on some of the other issues regarding AI art. The first of which is copyright. When detractors are not trying to be sentimental, this is what they often fall back to. AI art is unethical because it's illegaly using an artist's work without their permission.
 
 So, is this true? Is AI art illegal? A federal court has now given us a direct answer.
@@ -60,8 +60,8 @@ The copyright maximalist position — that styles, influences, and aesthetic DNA
 
 Applied now, it means no AI art. And the people demanding that are not defending artists. They are pulling up the ladder behind them.
 
-### Compensation:
-Copyright doesn't help artists get compensated, it helps high-end studio executives. That's why we have the term "starving artists". It's the passion tax, not AI art that's stealing from artists. You are just playing Disney's biggest advocate.
+### Compensation
+Now you might say "okay, even if that worked for Shakespear, today we still need copyright to put food on our tables". TODO: Copyright doesn't help artists get compensated, it helps high-end studio executives. The fact that artists are anyway posting their art for free on twitter proves this. The revanue comes from patreon. musicians barely make anything from streaming, they make the money from concerts. Today is exactly like Shakespear. We have come full circle. That's why we have the term "starving artists". It's the passion tax, not AI art that's stealing from artists. You are just playing Disney's biggest advocate.
 
 The twist. Flips their moral self-image. They came in as artist-defenders, they leave as corporate shills.
 
