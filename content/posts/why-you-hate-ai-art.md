@@ -42,7 +42,23 @@ In 2024, a group of authors sued Anthropic alleging that training its models on 
 
 The only part Anthropic lost was separate and unambiguous: they had also downloaded over seven million books from pirate websites like LibGen. *That* was ruled illegal — not because AI trained on them, but because they were stolen. The line the court drew is simple: obtain your training data legally, and training is fair use. No artist consent required.
 
-Art _is_ influence. By trying to gatekeep styles, you are destroying art. TODO: I really want to lean into the destroying art angle. Give examples like how picaso said that great artists steal and a bunch of other early examples in which people didn't care about copyright
+Art *is* influence. By trying to gatekeep styles, you are destroying art.
+
+This is not a metaphor. It is a description of how every significant artistic movement in human history actually functioned.
+
+Picasso allegedly said "good artists borrow, great artists steal" — and he meant it literally. Cubism didn't emerge from a vacuum. Picasso absorbed African tribal masks, Cézanne's geometric fragmentation, and Braque's experiments, then synthesized them into something new. He did not ask permission. Neither did anyone expect him to.
+
+Shakespeare stole almost everything. *Hamlet* is lifted from a Scandinavian legend. *Romeo and Juliet* is a near-direct adaptation of Arthur Brooke's poem *The Tragicall Historye of Romeus and Juliet*. *Julius Caesar* is Plutarch, barely disguised. We don't call Shakespeare a plagiarist. We call him the greatest writer in the English language, because transformation is the point.
+
+The entire Renaissance was built on copying. Apprentices spent years producing exact reproductions of their masters' work — not as exercises, but as finished products sold to patrons. This was not considered theft. It was considered education, and the education produced Raphael, Michelangelo, and Da Vinci.
+
+Jazz — arguably America's most original cultural contribution — was built on shared musical phrases, chord progressions, and melodies that no one owned. Musicians absorbed each other's riffs, transformed them, passed them forward. Copyright would have strangled it in the cradle.
+
+T.S. Eliot put it plainly: "Immature poets imitate; mature poets steal." He understood that art advances through accumulation and transformation, not through isolated genius working in a sealed room.
+
+The copyright maximalist position — that styles, influences, and aesthetic DNA can be owned — is not protecting art. It is a historically illiterate argument that would have prevented every major artistic movement from existing. Applied retroactively, it would have meant no Renaissance, no Jazz, no Shakespeare.
+
+Applied now, it means no AI art. And the people demanding that are not defending artists. They are pulling up the ladder behind them.
 
 ### Compensation:
 Copyright doesn't help artists get compensated, it helps high-end studio executives. That's why we have the term "starving artists". It's the passion tax, not AI art that's stealing from artists. You are just playing Disney's biggest advocate.
