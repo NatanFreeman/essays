@@ -64,16 +64,22 @@ and responsibility don't exist; it's a category error. Trying to achieve moralit
 here is not only impractical - it's not desirable in the first place. It would be
 like judging a chess player for "killing" pieces.
 
-It is important we understand what I mean by "success" here. After all, if you
-enrich your economy at the expense of others, does that even constitute victory?
-It does, because I am using a Darwinian definition of success. Meaning, to
-preserve and grow your own culture. You may not find that desirable, but you
-don't need to. A culture which doesn't value self-preservation will be replaced
-by one which does. You cannot end the game, you can only resign.
+Once morality is jurisdictional, the next question is what governs relationships
+outside that jurisdiction. The answer is not moral accounting. It is selection.
+Cultures that preserve themselves continue. Cultures that don't are absorbed,
+conquered or replaced. This is where the Darwinian claim enters. Not because
+survival is morally beautiful, but because outside a shared moral community there
+is no common moral referee with the authority to make virtue pay.
 
-Therefore if you accept that this is how things work, you have no choice but to
-participate. If a lion wants to be vegetarian, it dies. A less reluctant lion
-would replace it. The lion should not feel bad for eating deer.
+That is the sense in which conquest can be a success even when it is immoral. If
+you enrich your economy at the expense of others, you have not become good. You
+have preserved and grown your own culture. You may not find that desirable, but
+you don't need to. A culture which doesn't value self-preservation will be
+replaced by one which does. You cannot end the game, you can only resign.
+
+This is why the lion metaphor matters. If a lion wants to be vegetarian, it dies.
+A less reluctant lion would replace it. The lion should not feel bad for eating
+deer.
 
 ## Where the Framework Holds
 
@@ -163,3 +169,15 @@ destabilize regions because leaders felt moral pressure, and aid that props up
 corrupt regimes because withdrawal "feels wrong", can both be explained by this
 clouded judgment. The confusion between geopolitical strategy and interpersonal
 morality doesn't make leaders more moral - it just makes them *worse at both*.
+
+## Polk Revisited
+
+So was Polk really in the wrong? From Mexico's perspective, obviously. From the
+perspective of Americans whose moral community extended to Mexico, also yes. But
+history did not punish him for that, because history is not a moral court. From
+the narrow standpoint of the American political community, Polk served his
+culture brutally and effectively.
+
+That is the uncomfortable answer. Mexico did not deserve to lose half its
+territory. The deer does not deserve to be eaten. But the lion is not guilty for
+being a lion. It only looks guilty if we pretend the forest is a courtroom.
