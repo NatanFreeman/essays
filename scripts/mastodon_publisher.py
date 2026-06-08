@@ -7,7 +7,7 @@ from urllib.parse import urlparse
 # Configuration
 MASTODON_INSTANCE = os.environ.get("MASTODON_INSTANCE", "https://mastodon.social")
 ACCESS_TOKEN = os.environ.get("MASTODON_ACCESS_TOKEN")
-RSS_FEED_PATH = "public/index.xml"
+RSS_FEED_PATH = os.environ.get("RSS_FEED_PATH", "public/index.xml")
 
 def get_latest_post(feed_path):
     """Parses the RSS feed and returns the latest entry."""
