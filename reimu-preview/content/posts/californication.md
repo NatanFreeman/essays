@@ -32,7 +32,7 @@ answer that, we need to look at the structure of Californication itself.
 
 ## The Hotdog
 
-![hotdog image](../image.png)
+![hotdog image](/images/hotdog.png)
 
 This is the situation. California is the hotdog. Cool as fuck and completely
 unbothered. Kiedis thinks he's the wojak with the thinking cap, squinting
