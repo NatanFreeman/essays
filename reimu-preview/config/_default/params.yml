@@ -482,7 +482,7 @@ algolia_search:
 ########################################
 
 preloader:
-  enable: true
+  enable: false
   text: 
     zh-CN: 灯火初上...
     zh-TW: 燈火初上...
@@ -638,7 +638,7 @@ home_categories:
 # Make sure your code snippet is safeHTML
 injector:
   head_begin: # Inject code snippet right after <head>
-  head_end: '<link rel="stylesheet" href="/css/chinese-preview.css?v=20260608-25">'
+  head_end: '<link rel="stylesheet" href="/css/chinese-preview.css?v=20260608-26">'
   body_begin: # Inject code snippet right after <body>
   body_end: '<a rel="me" href="https://mastodon.social/@natanfreeman" style="display:none;">Mastodon</a>'
   sidebar_begin: # Inject code snippet right after <aside>

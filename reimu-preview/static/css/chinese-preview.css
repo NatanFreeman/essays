@@ -9,6 +9,35 @@
     linear-gradient(90deg, rgba(24, 6, 10, 0.5), transparent 56%);
 }
 
+*,
+*::before,
+*::after {
+  scroll-behavior: auto !important;
+  transition-duration: 0s !important;
+  transition-delay: 0s !important;
+  animation-duration: 0s !important;
+  animation-delay: 0s !important;
+  animation-iteration-count: 1 !important;
+}
+
+[data-aos],
+[data-aos^="fade"],
+[data-aos^="zoom"],
+[data-aos^="slide"],
+.aos-init,
+.aos-animate,
+.lazyload,
+.lazyloading,
+.lazyloaded {
+  opacity: 1 !important;
+  transform: none !important;
+  animation: none !important;
+}
+
+#loader {
+  display: none !important;
+}
+
 :root {
   scrollbar-color: #c91f1f #f4f4f4;
   scrollbar-width: auto;
