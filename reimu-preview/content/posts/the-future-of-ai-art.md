@@ -1,0 +1,190 @@
++++
+title = 'The Future of AI Art'
+chineseTitle = 'AI 艺术的未来'
+date = 2026-02-15T14:44:40Z
+draft = false
++++
+
+## Art as a Casino
+
+It is tempting to treat artists as R&D researchers. Most artists aren’t making
+products; they’re doing R&D. That’s why they make no money. Very few artists
+like Taylor Swift are even interested in the product side of things. By this
+view, Disney’s best bet is hiring hundreds of artists to just do whatever and
+greenlight the most commercially compelling work.
+
+Groups like the
+[Midnight Oil Collective](https://www.midnightoilco.com/spark-portfolio) are
+trying to do exactly this by branding themselves as a "YC for artists." They
+treat art like a venture-backed startup, providing "pre-seed" funding for
+artists to develop prototypes. It’s a noble attempt to formalize the chaos, but
+it fundamentally misunderstands the scale of the waste involved in art. An
+incubator can help a software engineer build a database because databases have
+utility; an incubator cannot help an artist find "the vibe" because the vibe
+doesn't exist until the market creates it. You can't optimize a lottery ticket.
+
+This strategy doesn't work for art. The closest equivalent that actually works
+is A24, the "cool" indie studio that has become a global tastemaker. Recently
+valued at $3.5 billion, they’ve built a lifestyle brand around "prestige"
+cinema, but they aren't like YC in the sense that they don't build from scratch.
+They go to film festivals and acquire finished R&D projects like _Everything
+Everywhere All at Once_ or _The Brutalist_. In this sense, they're less of an
+incubator and more like a private equity firm. Moreover, it doesn't scale. This
+boutique model works for A24 because they can thrive on "small bites" of profit
+from $20 million movies. A studio like Disney, however, has such massive
+corporate overhead that it requires "Four-Quadrant" hits—billion-dollar
+behemoths that appeal to everyone simultaneously. You cannot reliably find a
+global, toy-selling franchise at a niche film festival. Disney needs hegemony,
+and hegemony doesn’t happen through auteur discovery; it happens through
+industrial engineering.
+
+You can't treat the art industry like tech because unlike tech, the art industry
+is fundamentally broken. It relies on irrational actors and extreme outliers.
+The math is terrible no matter how you cut it. The cost of R&D is astronomically
+high, not just in money, but in the years of uncompensated time an artist spends
+mastering a craft that the market might never want. The vast majority of artists
+go broke, having spent their prime years chasing a statistical impossibility.
+However, the payoff of becoming an outlier like Lady Gaga is so massive—both
+financially and culturally—that this asymmetric upside keeps the engine running.
+It’s a lottery where the ticket costs ten years of your life, but the jackpot is
+immortality.
+
+And who is paying this cost? If it was a rational market, you'd expect the VCs
+and companies to come in here. But in art, the Disneys of the world sleep. They
+let the _artists_ subsidize their own R&D. Artists are expected to work forty
+hours a week at a "day job" to pay for the privilege of doing their R&D at
+night. They buy their own equipment and fund their own marketing. As a result,
+corporations get a massive pool of "pre-vetted" talent and ideas for free. They
+don't have to bet on who _might_ be talented; they just wait for someone to go
+viral on their own dime and then offer them a contract.
+
+But why would artists do this to themselves? It is brutally inefficient and even
+cruel for an individual artist to work for years on a project that might never
+pay off. Economists and researchers have a name for this exploitation: the
+**"passion tax."** This is the systemic reality where the more an employee loves
+their work, the more the market feels entitled to underpay them. Because artists
+are intrinsically motivated to create, the industry can suppress wages to the
+point of subsistence, knowing the "enthusiastic" worker will keep producing even
+without a fair financial return.
+
+The only reason this isn't considered _pure exploitation_ is Psychic Income.
+Artists receive a "wage" in the form of identity, status, and emotional
+fulfillment. To the artist, the work is the reward; the money is just a bonus.
+To the corporation, the artist's fulfillment is a subsidy that lowers their
+production costs.
+
+This is why initiatives like
+[Adobe’s Film & TV Fund](https://blog.adobe.com/en/publish/2026/01/20/expanding-access-storytelling-adobe-film-tv-fund-direct-creators-contributions-product-donations)
+or
+[Ireland’s Basic Income for the Arts (BIA)](https://www.gov.ie/en/department-of-culture-communications-and-sport/campaigns/basic-income-for-the-arts-pilot-scheme/)
+are so misguided. Ireland’s BIA pilot literally hands out hundreds of euros a
+week to artists just for being artists. While boosters point to modest gains in
+artistic output, they ignore the quality dilution. By removing the evolutionary
+pressure of the "all-in" lifestyle, you stop producing outliers. Paying an
+artist a living wage to do R&D doesn't make the art better; it just makes the
+corporation’s eventual acquisition of that art more expensive. A
+government-subsidized artist is no longer an R&D researcher; they are a Civil
+Servant. Real breakthroughs require the existential risk of failure.
+
+This phenomenon creates a "Barbell Economy" where art becomes both cheaper and
+more expensive simultaneously, while the quality splits into two extremes. On
+one end of the barbell, you have $300 million blockbusters. On the other end,
+you have a sea of "content"—ultra-cheap media produced for pennies. The "middle
+class" of art—the $20 million mid-budget movie—is being squeezed out because it
+carries the risk of R&D without the safety of a massive franchise.
+
+## Enter AI
+
+So how does AI art fit into this "business model"? One might assume this shifts
+things by making the R&D free. I suspect a lot of people in Silicon Valley have
+this sentiment. But what they miss is that the R&D was _already_ free. As in,
+the artists were already eating the costs themselves. The problem for Disney,
+HBO, and Apple TV+ is not creating R&D but rather filtering out the garbage.
+
+The vast majority of new art is terrible. This is not a fault—R&D is allowed to
+be terrible, that's the whole point. But it creates a problem when trying to
+commercialize. Because there is no objective metric for what makes art "good,"
+we have to wait for the market to decide what sticks.
+
+This isn't my fringe out-of-touch high-tech take. Just listen to the argument
+made by critics like Anthony Fantano, who frames the overwhelming volume of new
+music as a fundamental distortion of our perception. In his article "There's Too
+Much Music," he cites a core statistic driving this shift:
+["According to a Music Radar study talked about in NME, apparently more music was released in a single day in 2024 than in the whole of 1989"](https://theneedledrop.com/opinion/theres-too-much-music/).
+
+When you realize the sheer scale of modern output, you realize that the common
+sentiment that 80s music was "better" is actually just a classic case of
+survivorship bias. As Fantano and other analysts have noted, we aren't comparing
+the average song of 1985 to the average song of today;
+[we are comparing today’s unfiltered, total output to the hand-picked, top 1% highlight reel that was good enough to survive forty years of cultural filtering](https://www.side-line.com/survivorship-bias-in-the-music-industry-an-underestimated-phenomenon/).
+
+An AI model that can predict what art will be good ahead of time will make
+billions. Except, such a model is impossible. In music and film, there is an
+incredibly low signal-to-noise ratio. Studios are already trying to solve this
+with big data, but it has led them straight into the "Safe-Hot Trap." They only
+greenlight "Safe" bets—sequels, reboots, and established IP—because they have a
+predictable, albeit mediocre, floor. They are terrified of "Hot" projects—the
+original, weird outliers—because they can't predict them. This is why we have
+twelve _Fast & Furious_ movies but almost no high-budget original sci-fi.
+Finding a black swan outlier is essentially random noise, and no algorithm can
+predict a "vibe shift" before it happens. The market is the only engine capable
+of doing this reliably because it's the only system large enough to process
+millions of human reactions simultaneously.
+
+A model that would have an accurate enough understanding of the world to predict
+success accurately wouldn't be predicting art. It would be predicting stocks and
+wars. It's the closest thing to an AI god.
+
+So what does the future of AI look like in this space? I argue its purpose will
+not be to make R&D cheaper, nor will it predict success. AI will be used to
+throw everything on the wall and see what sticks. This is how I predict the
+_pipeline_ will go. A "director" will create 100 movie trailers using generative
+tools, upload them to TikTok, and see what the **market** decides is most
+compelling. They will then rework and flesh out the concept into a finished
+product and release it in theaters. This will happen to everything from music to
+books and perhaps even video games. Game jams already fulfill a similar purpose
+there.
+
+Critics argue that humans require a "soul" to form the deep obsessions that lead
+to the Immortality Jackpot. This is nonsense of course. A "soul", so much as it
+can be said to exist - can be manufactured. We already see this with Hatsune
+Miku or K-Pop groups, where "Human Will" is distributed across a corporate
+architecture. In my pipeline, the Director becomes the face. People won't follow
+the AI; they will follow the Director who has a 100% track record of picking the
+best vibes from the noise. The "brand" moves from the performer to the director.
+
+There is an elephant in the room I have not addressed. Artists hate AI. They
+usually give a host of reasons for this, but the most common rhetoric is that AI
+steals art. This doesn't make any sense because it implies the artists were
+getting paid in the first place. But if you recall our economic model, you'd
+know that money was never part of the contract. The cold hard truth is that you
+didn't become an artist to make money; you did it because it's what you loved.
+The real reason artists don't use AI is because they don't find it enjoyable.
+The aspect of creation they hold most dear is going to be completely automated
+in my proposed pipeline.
+
+This is fantastic news! It means my pipeline kills the passion tax. Today’s
+displaced illustrators are the manual typists of the 1950s; they find
+fulfillment in the tactile nature of the work, but that labor is now obsolete.
+This new industry will attract an audience who don't care about
+"brushstrokes"—they call themselves Product Managers, Creative Technologists, or
+Prompt Architects. They want to optimize a product and get paid reliably. They
+find their fulfillment in Strategic Success rather than execution. The art
+industry stops being a casino and starts being an investment bank.
+
+Runway’s **"The Hundred Film Fund"** is the first true VC of this new industry.
+By promising to fund 100 films that use AI, they aren't looking for a "star" to
+subsidize; they are providing the capital to accelerate the "throwing everything
+at the wall" phase. They are the high-frequency traders of the art world.
+
+Critics point to the current "signal-to-noise" crisis on social media as proof
+this won't work, but they are looking at the messy "dial-up phase" of the
+industry. As we decouple "Labor" from "Art," the industry will stop being a
+cruel lottery and start being a high-precision engine.
+
+I'm sure artists are going to mourn and dub this "the death of art". In many
+ways they'll be correct. The wild west of art wonderland they hold dear _will_
+be gone. Personally, I won't be too bothered. People who love creating for the
+sake of creating can still do so. The difference is that their passion will no
+longer be exploited by the fantasy of commercial success. If you want a soul, go
+to a museum; if you want the future of culture, look at the data-stream.

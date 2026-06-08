@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Chinese knot">
+  <defs>
+    <linearGradient id="cord" x1="16" x2="80" y1="12" y2="84" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd37a"/>
+      <stop offset=".45" stop-color="#c91f1f"/>
+      <stop offset="1" stop-color="#8f1212"/>
+    </linearGradient>
+  </defs>
+  <path fill="none" stroke="#7c0f0f" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" d="M48 8v18M48 70v18M14 48h18M64 48h18"/>
+  <path fill="none" stroke="url(#cord)" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" d="M48 20c18 0 28 10 28 28S66 76 48 76 20 66 20 48s10-28 28-28Z"/>
+  <path fill="none" stroke="#ffd37a" stroke-linecap="round" stroke-linejoin="round" stroke-width="7" d="M33 33h30v30H33zM33 33l30 30M63 33 33 63"/>
+  <circle cx="48" cy="48" r="8" fill="#b51515" stroke="#ffe0a1" stroke-width="4"/>
+</svg>

@@ -1,3 +1,10 @@
+---
+title: "Shavuot in Exile"
+chineseTitle: "流亡中的七七节"
+date: 2026-05-23T12:00:00Z
+draft: false
+---
+
 ## Shavuot in exile
 
 It was the 23rd of May 2026. Shavuot. Also known as the Feast of Weeks,

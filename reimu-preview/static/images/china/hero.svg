@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 820" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#290d12"/>
+      <stop offset=".42" stop-color="#7f1f1f"/>
+      <stop offset="1" stop-color="#e2a34e"/>
+    </linearGradient>
+    <radialGradient id="sun" cx=".22" cy=".22" r=".42">
+      <stop offset="0" stop-color="#ffe3a7" stop-opacity=".85"/>
+      <stop offset=".45" stop-color="#d4562c" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#300b12" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="mist" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#fff2d0" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#fff2d0" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="soft" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+  </defs>
+  <rect width="1920" height="820" fill="url(#sky)"/>
+  <rect width="1920" height="820" fill="url(#sun)"/>
+  <path fill="#2b141b" opacity=".55" d="M0 640 120 520l72 44 102-168 94 106 80-76 108 130 82-58 132 116 92-66 126 90 96-76 136 98 92-62 160 108H0z"/>
+  <path fill="#4a1c20" opacity=".38" d="M0 700 168 560l112 70 138-176 116 156 112-118 156 164 140-92 150 118 142-80 186 106H0z" filter="url(#soft)"/>
+  <path fill="url(#mist)" d="M0 500c220-70 454-70 702 0 280 80 535 70 765-28 178-75 329-72 453 9v339H0z"/>
+  <g opacity=".55" stroke="#ffd88a" stroke-width="2" fill="none">
+    <path d="M0 226h360M120 260h440M62 294h240M520 222h340M710 274h280"/>
+    <path d="M1220 210h300M1320 250h390M1190 292h210M1500 318h260"/>
+  </g>
+  <g opacity=".78" transform="translate(-360 0)">
+    <path fill="#d92820" d="M270 128h54v72h-54z"/>
+    <path fill="#ffd67b" d="M264 120h66v10h-66zM264 198h66v10h-66z"/>
+    <path stroke="#ffd67b" stroke-width="3" d="M297 96v28M297 207v50"/>
+    <path fill="#d92820" d="M480 210h44v60h-44z"/>
+    <path fill="#ffd67b" d="M475 202h54v9h-54zM475 269h54v9h-54z"/>
+    <path stroke="#ffd67b" stroke-width="3" d="M502 182v24M502 278v40"/>
+  </g>
+  <image href="/images/china/jack-ma-transparent.png" x="1080" y="68" width="320" height="320" preserveAspectRatio="xMidYMid meet" opacity="0"/>
+  <path fill="#18080b" opacity=".3" d="M0 0h1920v820H0z"/>
+  <path fill="#0d0608" opacity=".42" d="M0 0h880v820H0z"/>
+</svg>

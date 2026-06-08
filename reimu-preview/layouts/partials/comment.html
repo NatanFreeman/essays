@@ -1,0 +1,98 @@
+{{- if and (not (eq .Params.comments false)) (in .Site.Params.mainSections .Type) -}}
+<section id="comments" class="mastodon-comments" data-aos="{{ .Site.Params.animation.options.article.whole }}">
+  <div class="comment-header">
+    <h2 class="comment-title">Comments</h2>
+  </div>
+  <div class="comment-content">
+    <p id="mastodon-comments-loading">Loading comments from the Fediverse...</p>
+    <div id="comments-wrapper"></div>
+    <p class="mastodon-comments-note">
+      Replies to
+      <a class="link" href="https://mastodon.social/@natanfreeman/{{ .Params.mastodon_post_id }}" target="_blank" rel="noopener noreferrer">this Mastodon post</a>
+      are synchronized here as comments.
+    </p>
+  </div>
+</section>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.0.6/purify.min.js"></script>
+<script>
+  (() => {
+    const postId = "{{ .Params.mastodon_post_id }}";
+    const instance = "mastodon.social";
+    const username = "natanfreeman";
+    const domains = ["natansessays.com", "NatanFreeman.github.io/essays"];
+    const pageTitle = "{{ .Title }}";
+    const urlPath = window.location.pathname;
+
+    async function loadComments() {
+      const wrapper = document.getElementById("comments-wrapper");
+      const loading = document.getElementById("mastodon-comments-loading");
+      if (!wrapper || !loading) return;
+
+      try {
+        let targetId = postId;
+
+        if (!targetId) {
+          const accountResponse = await fetch(`https://${instance}/api/v1/accounts/lookup?acct=${username}`);
+          const account = await accountResponse.json();
+          const statusesResponse = await fetch(`https://${instance}/api/v1/accounts/${account.id}/statuses?limit=100`);
+          const statuses = await statusesResponse.json();
+          const pathParts = urlPath.split("/").filter(Boolean);
+          const slug = pathParts[pathParts.length - 1];
+
+          const match = statuses.find((status) => {
+            const content = status.content || "";
+            const cardUrl = status.card?.url || "";
+            if (!slug) return false;
+            const slugMatch = content.includes(slug) || cardUrl.includes(slug);
+            const domainMatch = domains.some((domain) => content.includes(domain) || cardUrl.includes(domain));
+            const titleMatch = content.includes(pageTitle);
+            return (slugMatch && domainMatch) || titleMatch;
+          });
+
+          if (match) targetId = match.id;
+        }
+
+        if (!targetId) {
+          loading.style.display = "none";
+          wrapper.innerHTML = "<p>No linked Mastodon post found for this page.</p>";
+          return;
+        }
+
+        const postLink = document.querySelector(".mastodon-comments a.link");
+        if (postLink) postLink.href = `https://${instance}/@${username}/${targetId}`;
+
+        const contextResponse = await fetch(`https://${instance}/api/v1/statuses/${targetId}/context`);
+        const data = await contextResponse.json();
+        loading.style.display = "none";
+
+        if (data.descendants?.length) {
+          data.descendants.forEach((reply) => {
+            const comment = document.createElement("div");
+            comment.className = "mastodon-comment";
+            const content = DOMPurify.sanitize(reply.content);
+            comment.innerHTML = `
+              <div class="mastodon-comment-header">
+                <img class="mastodon-comment-avatar" src="${reply.account.avatar}" alt="${reply.account.display_name}">
+                <div>
+                  <div class="mastodon-comment-author">${reply.account.display_name}</div>
+                  <div class="mastodon-comment-meta"><a href="${reply.url}" target="_blank" rel="noopener noreferrer">@${reply.account.acct}</a></div>
+                </div>
+              </div>
+              <div class="mastodon-comment-content">${content}</div>
+            `;
+            wrapper.appendChild(comment);
+          });
+        } else {
+          wrapper.innerHTML = "<p>No comments yet. Be the first to reply on Mastodon.</p>";
+        }
+      } catch (error) {
+        loading.innerText = "Error loading comments.";
+        console.error(error);
+      }
+    }
+
+    loadComments();
+  })();
+</script>
+{{- end -}}
