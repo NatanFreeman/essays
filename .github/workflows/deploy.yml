@@ -45,8 +45,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --cleanDestinationDir \
-            --buildDrafts
+            --cleanDestinationDir
 
       - name: Auto-post to Mastodon
         env:
