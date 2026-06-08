@@ -1,3 +1,10 @@
++++
+title = 'Vibes Judaism'
+date = 2026-04-22T11:25:32Z
+draft = true
++++
+
+#TODO: fix date here using the git history to set the correct date and time
 ## Shavuot in exile
 
 It was the 23rd of May 2026. Shavuot. Also known as the Feast of Weeks,
