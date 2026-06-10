@@ -220,6 +220,7 @@ I would go so far as to argue that Yohanan at least partially recognized this. O
 
 "If I were being led before a human king who is here today and in the grave tomorrow...I would still weep. Now that I am being led before the King of Kings, the Holy One, blessed be He, who lives and endures forever...moreover, there are two paths before me, one to the Garden of Eden and one to Gehinnom, and I do not know on which they will lead me — shall I not weep?" (Berakhot 28b)
 
+TODO: is this really the most convincing traditional explaination? Also source?
 The traditional reading is that this is exemplary humility. A great man, on the edge of death, demonstrates that even he approaches divine judgment without presumption. His weeping is a virtue, a model for how to die.
 
 I find this reading a little too convenient.
@@ -229,3 +230,55 @@ This is the man who predicted Vespasian's rise to power and used that credential
 He invented a mechanism. He had to. The alternative was the complete dissolution of the religion. But he invented it in a context where God had stopped providing feedback, which means he had no way of knowing whether his invention was a faithful reconstruction or an extremely sophisticated piece of human engineering dressed up as divine mandate. He spent his life insisting it was the former. On his deathbed, he stopped insisting.
 
 The tradition records this as piety. I think it was honesty. The distinction matters because if it was honesty, then the architect of Rabbinic Judaism died with structural doubt about his own edifice. That is a different kind of testimony than the tradition wants it to be, and it indicts the system more thoroughly than any outside critic could.
+
+## Jesus Did Sir
+
+Now it's time for the second religion to tackle this issue: Christianity. See, Jesus actually *does* deliver that New Covenant I mentioned before. What does that New Covenant provide? Looking at the actual text we can piece together an answer.
+
+From the Sermon on the Mount (Matthew 5) — his own "but I say to you" list:
+
+- Don't just avoid murder — don't even harbor anger. "You have heard that it was said to those of old, 'You shall not murder; and whoever murders will be liable to judgment.' But I say to you that everyone who is angry with his brother will be liable to judgment." (Matthew 5:21-22, ESV)
+- Don't just avoid adultery — don't even lust. "You have heard that it was said, 'You shall not commit adultery.' But I say to you that everyone who looks at a woman with lustful intent has already committed adultery with her in his heart." (Matthew 5:27-28, ESV)
+- Divorce is essentially off the table (actually stricter than Moses who allowed it). "But I say to you that everyone who divorces his wife, except on the ground of sexual immorality, makes her commit adultery." (Matthew 5:31-32, ESV)
+- Don't swear oaths at all — just say yes or no. "But I say to you, do not take an oath at all... Let what you say be simply 'Yes' or 'No.'" (Matthew 5:34-37, ESV)
+- Abolish eye for an eye — turn the other cheek instead. "You have heard that it was said, 'An eye for an eye and a tooth for a tooth.' But I say to you, do not resist the one who is evil. But if anyone slaps you on the right cheek, turn to him the other also." (Matthew 5:38-39, ESV)
+- Don't just love your neighbor — love your enemies too. "But I say to you, love your enemies and pray for those who persecute you." (Matthew 5:43-44, ESV)
+
+Elsewhere:
+
+- All foods are clean (Mark 7) — essentially dissolves dietary law. "Do you not see that whatever goes into a person from outside cannot defile him, since it enters not his heart but his stomach, and is expelled?" The author then adds a parenthetical that has caused more theological argument than it probably deserves: "Thus he declared all foods clean." (Mark 7:18-19, ESV)
+- Sabbath rules are flexible. "The Sabbath was made for man, not man for the Sabbath." (Mark 2:27, ESV)
+- Worship is no longer tied to a specific place. "Woman, believe me, the hour is coming when neither on this mountain nor in Jerusalem will you worship the Father... But the hour is coming, and is now here, when the true worshipers will worship the Father in spirit and truth." (John 4:21-23, ESV)
+- Love one another as the defining new commandment. "A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another." (John 13:34, ESV)
+
+The most significant of these is probably the diminishing of Jerusalem's importance. It solves the Temple problem, *in theory*. Except he never actually explicitly addresses animal sacrifice. He kinda runs into the Jeremiah tendency to give vague, vibe-based advice. So we're going to cross these off to see what material patches he actually made.
+
+- Don't harbor anger — how would you even know?
+- Don't lust — completely internal, unenforceable
+- Love your enemies — what does this actually *require* you to do?
+- Love one another — same problem, no specifics
+- Sabbath made for man — he's gesturing at flexibility but gives no actual rule
+- Worship in spirit and truth — inspiring but tells you nothing concrete
+
+So what does that leave us with?
+
+- No divorce (or near enough — he allows one exception: infidelity)
+- No oaths — just say yes or no, full stop
+- Abolish eye for an eye — specifically turn the other cheek
+- All foods are clean — this one is actually pretty material and had huge consequences
+
+As we can see, he did make *some* adjustments. But none of the ones we care about. He didn't fully commit to solving the Temple issue, and he said *nothing* about farming or the festivals. Four commandments does not a covenant make. And frankly, two of those four — no divorce, no oaths — are tightenings of existing law. He made it stricter in some places, looser in others, and left everything that actually mattered structurally untouched.
+
+This is the Jeremiah problem all over again. Jeremiah announced the new covenant was coming. Jesus announced it had arrived. Neither of them wrote the actual terms sheet.
+
+TODO: this theoritically sounds like a solution, except the theology is terrible. Paul was completely conditioning this on the fact that the world was ending. If Paul was alive today, he would no longer have faith. This should be the core spine of this paragraph
+The vacuum that Jesus left was, predictably, filled by humans. The most important of these is Paul of Tarsus, who was not one of the twelve apostles, who never met Jesus in person, and whose authority rested entirely on a road-to-Damascus vision that he himself reported. Paul is the one who explicitly abolishes the Torah's legal requirements for Gentiles (Galatians 3), develops the theology of faith over works, establishes Jesus's death as the final atoning sacrifice that renders the Temple system obsolete, and in doing so essentially creates the religion we now call Christianity. Jesus gestured vaguely at a new covenant. Paul built the operating system. The situation is structurally identical to Yohanan ben Zakkai, except Paul didn't even have the courtesy to weep about it on his deathbed.
+
+And Paul was just the beginning. Most of what we associate with Christianity today has no basis in anything Jesus said, and some of it has a very obvious basis in what was happening in the Mediterranean world at the time. The doctrine of the Trinity — that Jesus is co-equal with God the Father and the Holy Spirit, one substance, three persons — does not appear in Jesus's own words. It was formalized at the Council of Nicaea in 325 CE, called by Constantine, a Roman emperor who had converted to Christianity and had strong political reasons to want doctrinal unity across his empire. Jesus is actually somewhat ambiguous on the question of his own divinity, saying things like "the Father is greater than I" (John 14:28) alongside things like "I and the Father are one" (John 10:30). The church spent three centuries arguing about what this meant before a council of bishops voted on it. That is not how divine revelation is supposed to work.
+
+TODO: we should highlight that the most fun and innovative features like Christmas or the egg holiday have very little to do with christianity. This should be the tone. Christianity doesn't even give you the best features or the experience that _feels_ like a coherent religion. Jesus only gave like four commandments. Most of what we think of Christianity isn't even Christianity
+Then there is the more uncomfortable category: the things that are blatantly pagan. Christmas is commemorated on December 25th, which was already the festival of Sol Invictus, the unconquered sun, and closely associated with the Roman festival of Saturnalia. The Gospels give us no date for Jesus's birth and what clues they do provide — shepherds outside at night, for instance — suggest spring or summer. Nobody moved the holiday to December. They just absorbed the holiday that was already there. Easter presents the same problem. The English name derives from Eostre, a Germanic spring goddess, and the timing is pegged to the spring equinox. The eggs and the fertility symbolism are pre-Christian spring festival imagery that the church grafted onto the resurrection story as it moved into Northern Europe. These are not fringe conspiracy theories. They are the mainstream position of religious historians.
+
+The point is not that Christianity is fake because pagans also had winter festivals. The point is that what we call Christianity is a layered artifact assembled by councils, emperors, missionaries, and theologians across several centuries, operating in a world where God had also stopped sending prophets and nobody was getting direct feedback. Yohanan ben Zakkai rebuilt Judaism without a divine mandate because the alternative was dissolution. Paul, Nicaea, Constantine, and the medieval church did the same thing for Christianity. The results are different. The epistemological situation is identical.
+
+Which leaves us where we started. Jeremiah announced a new covenant. Jesus announced its arrival. Paul drafted the terms. And the terms still don't cover farming.
