@@ -1,10 +1,9 @@
 +++
 title = 'Vibes Judaism'
-date = 2026-04-22T11:25:32Z
+date = 2026-06-06T19:51:33Z
 draft = true
 +++
 
-#TODO: fix date in the title using the git history to set the correct date and time
 ## Shavuot in exile
 
 It was the 23rd of May 2026. Shavuot. Also known as the Feast of Weeks,
@@ -77,7 +76,7 @@ building a Third Temple in a few decades. So with maybe another decade
 spent on construction and infrastructure, that's still 40 Shavuot
 devoid of much meaning. What are we supposed to do now?
 
-## The lost society
+## The sealed system
 
 This brings us to a core truth which I've been avoiding for years: the
 Torah was fundamentally designed for an agrarian tribal society. It has
@@ -198,24 +197,61 @@ Now I am making an assumption here. I am presuming that all of the commandments 
 TODO: these two sections are too long. They should be one shorter section that focuses on the Deut 4:2 problem, the chain of authority problem and the farming + temple problem
 ## My children have defeated me
 
-What do I mean by "chain of authority being broken"? Well simply put, we can't reliably prove what God's true intentions are. There have been multiple religions claiming divine authority, to be a continuation of this "chain", but the evidence to back them up is shaky. Nontheless, they do provide novel patches to the Torah, making it more relevant to modern life. It is worth discussing these changes and where they ultimately fall short.
+Orthodox Judaism is the most serious attempt to solve the problem from
+inside Judaism. It does not call itself a patch. It claims to be the
+authorized continuation of Sinai. That claim matters, because without it
+Rabbinic Judaism is exactly what Deuteronomy 4:2 appears to forbid.
 
-We will discuss two of these religions: Orthodox Judaism and Christianity. Let's start with the former.
-
+TODO: this history can be made a little more brief
 The story opens in 70 CE, during the Roman siege of Jerusalem. The city is starving. The Zealots controlling it are killing anyone who suggests surrender and burning the food stores to prevent flight. Yohanan ben Zakkai, the leading Pharisaic scholar of his generation, sees clearly what is coming: the Temple is going to fall, and Judaism as it currently exists cannot survive that. He arranges to be smuggled out of the city in a coffin — the Zealots allowed corpses to leave for burial — and presents himself to Vespasian, the Roman general commanding the siege. He tells Vespasian he will become emperor. Shortly after, news arrives from Rome confirming exactly that. An impressed Vespasian offers him a reward. Yohanan asks for one thing: "Give me Yavneh and its sages" (Gittin 56b). A small coastal town where he can establish an academy.
 
 What happens next is the most consequential act of institutional design in Jewish history. From Yavneh, Yohanan and his successors rebuilt the entire operating system. The Temple's three daily sacrifices became three daily prayer services. The Sanhedrin's legal authority was transferred to rabbinic consensus. The agricultural calendar was abstracted into a liturgical one that could be observed anywhere on earth. The priestly functions were redistributed to scholars and local communities. And critically, the Oral Torah — a body of legal interpretation claimed to have been transmitted from Moses alongside the written Torah — was elevated to co-equal authority, providing the flexibility to answer any question the written text left open. Including all the ones about what to do when you have no Temple. Including all the ones about what to do when you are no longer a farmer.
 
 It worked. Two thousand years of coherent Jewish civilization across five continents is the proof of concept. The engineering was genuinely brilliant.
 
-TODO: we aready mentioned Deuteronomy 4:2. We need to circle back to this section here. We will explain how Orthodox Judaism tries to hand-wave it, but it's not very convincing. For all practical purposes they _did_ add and remove from the Torah
-The fatal flaw is obvious: the Oral Torah has no textual basis. Not just no explicit basis — active textual contradiction. Deuteronomy 4:2 says "You shall not add to the word that I command you." The Oral Torah is, by definition, additions. The Sadducees knew this and said so loudly for centuries. They were the priestly aristocracy who controlled the Temple, and they rejected the entire Pharisaic oral tradition as fabrication. The reason you have never met a Sadducee is not that they were wrong. It is that the Temple was destroyed and the Sadducees, whose entire authority structure depended on it, had no contingency plan. The Pharisees survived because they had already built the backup. They won by default.
+This brings us back to Deuteronomy 4:2. Orthodoxy does not ignore the
+problem. It builds a very careful escape hatch. The first move is to say
+that the Oral Torah is not an addition at all. It was given at Sinai
+alongside the written Torah, transmitted from Moses to Joshua, from
+Joshua to the Elders, and so on down the chain (Avot 1:1). You cannot
+"add" something that was already there.
 
-Even the Rabbinic transmission chain — Moses received the Oral Torah at Sinai, gave it to Joshua, Joshua to the Elders, and so on down to the rabbis (Avot 1:1) — is transparently a retroactive construction. It solves the authority problem by inventing an authority chain that predates the problem. It is elegant. It is also made up. The solution is completely artificial.
+The second move handles the cases where this obviously does not work:
+the rabbinic enactments and fences that are explicitly post-biblical and
+which the rabbis themselves never claimed were Sinaitic. For these, the
+argument shifts to Deuteronomy 17:11. The Torah commands Israel to obey
+the judges of each generation, so the rabbis are not adding to the
+Torah. They are exercising the Torah's own authorized legislative
+mechanism. Unauthorized additions are forbidden. Authorized rabbinic
+extensions are a different category.
 
-The standard Orthodox response to Deuteronomy 4:2 is layered and, I'll grant, not unsophisticated. The first move is to deny that the Oral Torah constitutes an addition at all. It was given at Sinai simultaneously with the written Torah, transmitted in parallel down the chain in Avot 1:1, and therefore predates any human innovation. You cannot "add" something that was already there. The second move handles the cases where this obviously doesn't work — the rabbinic enactments and fences that are explicitly post-biblical and which the rabbis themselves never claimed were Sinaitic. For these, the argument shifts register: Deuteronomy 17:11 commands the people to obey the judges of each generation, which means the Torah itself grants the rabbis legislative authority. Their additions are therefore not additions to the Torah — they are the Torah's own authorized extensions. The prohibition in Deuteronomy 4:2 applies to unauthorized humans adding on their own initiative. Authorized rabbis adding under divine mandate are a different category entirely.
+Bava Metzia 59b makes the move even sharper. A heavenly voice tries to
+settle a legal dispute, and Rabbi Joshua rejects it by quoting
+Deuteronomy 30:12: "It is not in heaven." God then laughs and says, "My
+children have defeated Me." The story is brilliant because it turns the
+absence of divine intervention into a doctrine of rabbinic autonomy. God
+gave the Torah away, so even God no longer gets to overrule the
+authorized interpreters.
 
-It is an elegant construction. It is also circular in a way that should embarrass anyone willing to look at it directly. The authority to interpret Deuteronomy 17:11 as granting rabbinic legislative power derives from the rabbis. The claim that the Oral Torah was transmitted from Sinai is a claim the Oral Torah makes about itself. The entire edifice is self-referential: the thing being validated is doing the validating. For all practical purposes, the rabbis added to and removed from the Torah. They simply developed a comprehensive vocabulary for describing this in terms that would not technically count as doing so.
+The problem is that the entire construction is self-referential. The
+authority to interpret Deuteronomy 17:11 as granting rabbinic
+legislative power derives from the rabbis. The claim that the Oral Torah
+was transmitted from Sinai is a claim the Oral Torah makes about itself.
+The legal myth that God accepts rabbinic defeat is preserved by the
+rabbinic literature whose authority is under dispute. The thing being
+validated is doing the validating.
+
+The Sadducees saw the issue clearly. They were the priestly aristocracy
+who controlled the Temple, and they rejected the Pharisaic oral
+tradition as fabrication. The reason you have never met a Sadducee is
+not that they were obviously wrong. It is that the Temple was destroyed
+and the Sadducees, whose entire authority structure depended on it, had
+no contingency plan. The Pharisees survived because they had already
+built the backup. They won by default.
+
+For all practical purposes, the rabbis added to and removed from the
+Torah. They simply developed a comprehensive vocabulary for describing
+this in terms that would not technically count as doing so.
 
 I would go so far as to argue that Yohanan at least partially recognized this. On his deathbed his students come to visit and find him weeping. They address him in the most extravagant terms available — "Lamp of Israel, pillar of the right hand, mighty hammer" — clearly expecting reassurance from a man of this stature. He weeps harder. When they ask why, he gives this answer:
 
@@ -228,7 +264,7 @@ This is the man who predicted Vespasian's rise to power and used that credential
 He invented a mechanism. He had to. The alternative was the complete dissolution of the religion. But he invented it in a context where God had stopped providing feedback, which means he had no way of knowing whether his invention was a faithful reconstruction or an extremely sophisticated piece of human engineering dressed up as divine mandate. He spent his life insisting it was the former. On his deathbed, he stopped insisting.
 
 ## Jesus Did Sir
-
+TODO: the Christianity section needs to be made shorter just like the Orthodox Judaism one
 Now it's time for the second religion to tackle this issue: Christianity. See, Jesus actually *does* deliver that New Covenant I mentioned before. But before we get to its contents, we need to ask how he justifies making it in the first place. Deuteronomy 4:2 is still sitting there. Matthew 5:17 is where Jesus addresses this directly: "Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them." He then immediately follows this with six substantial revisions. The theological move embedded in this is actually fairly coherent: Deuteronomy 4:2 binds *humans* from adding or subtracting. If Jesus is divine — the same God who gave the Torah at Sinai — then the prohibition doesn't apply to him. He isn't adding to God's law. He is God revising his own law. The whole structure of the "but I say to you" passages depends on this claim. Without it, what he's doing is flagrantly prohibited by the very Torah he claims to fulfill. He has answered the Deuteronomy 4:2 problem, but only by staking everything on an authority claim that you either accept before you open the book or you don't. The move is logically sound and theologically circular in equal measure. Welcome to the pattern.
 
 What does that New Covenant actually provide? Looking at the actual text we can piece together an answer.
