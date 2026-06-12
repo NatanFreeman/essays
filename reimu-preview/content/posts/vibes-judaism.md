@@ -194,7 +194,6 @@ I expect to hear some pushback here. After all, the Torah doesn't say that all t
 Now I am making an assumption here. I am presuming that all of the commandments of the Torah have to be achievable to be meaningful. I am unapologetic about this point. To me, it is pretty clear that the Torah is describing a system. One that doesn't make sense when the components are missing. But the Torah doesn't make any such claim. This is a theologically consistent and yet unhelpful point. You see the Torah never actually clarifies what its purpose is. We don't know for certain if it's supposed to be a system. To me it looks pretty obvious, but that could simply be because I am a systems thinker. I cannot prove it one way or the other. And this brings us to the next major issue: the chain of authority has been broken.
 
 
-TODO: these two sections are too long. They should be one shorter section that focuses on the Deut 4:2 problem, the chain of authority problem and the farming + temple problem
 ## My children have defeated me
 
 Orthodox Judaism is the most serious attempt to solve the problem from
@@ -202,45 +201,33 @@ inside Judaism. It does not call itself a patch. It claims to be the
 authorized continuation of Sinai. That claim matters, because without it
 Rabbinic Judaism is exactly what Deuteronomy 4:2 appears to forbid.
 
-TODO: this history can be made a little more brief
-The story opens in 70 CE, during the Roman siege of Jerusalem. The city is starving. The Zealots controlling it are killing anyone who suggests surrender and burning the food stores to prevent flight. Yohanan ben Zakkai, the leading Pharisaic scholar of his generation, sees clearly what is coming: the Temple is going to fall, and Judaism as it currently exists cannot survive that. He arranges to be smuggled out of the city in a coffin — the Zealots allowed corpses to leave for burial — and presents himself to Vespasian, the Roman general commanding the siege. He tells Vespasian he will become emperor. Shortly after, news arrives from Rome confirming exactly that. An impressed Vespasian offers him a reward. Yohanan asks for one thing: "Give me Yavneh and its sages" (Gittin 56b). A small coastal town where he can establish an academy.
+The historical pivot is Yohanan ben Zakkai. In 70 CE, with Jerusalem
+under Roman siege and the Temple about to fall, he escaped the city and
+asked Vespasian for "Yavneh and its sages" (Gittin 56b). From that
+small academy, Yohanan and his successors rebuilt the operating system:
+sacrifices became prayer services, Temple-centered worship became
+portable liturgy, and the Oral Torah became the mechanism by which the
+written Torah could keep functioning without the world it originally
+assumed. It worked. Two thousand years of Jewish civilization across
+five continents is a serious proof of concept.
 
-What happens next is the most consequential act of institutional design in Jewish history. From Yavneh, Yohanan and his successors rebuilt the entire operating system. The Temple's three daily sacrifices became three daily prayer services. The Sanhedrin's legal authority was transferred to rabbinic consensus. The agricultural calendar was abstracted into a liturgical one that could be observed anywhere on earth. The priestly functions were redistributed to scholars and local communities. And critically, the Oral Torah — a body of legal interpretation claimed to have been transmitted from Moses alongside the written Torah — was elevated to co-equal authority, providing the flexibility to answer any question the written text left open. Including all the ones about what to do when you have no Temple. Including all the ones about what to do when you are no longer a farmer.
+But the proof of concept is not the same thing as proof of authority.
+The rabbinic answer has two parts. First, the Oral Torah is not an
+addition because it was supposedly given at Sinai alongside the written
+Torah and transmitted down the chain (Avot 1:1). Second, later rabbinic
+enactments are not additions because Deuteronomy 17:11 commands Israel
+to obey the judges of each generation. Unauthorized additions are
+forbidden. Authorized rabbinic extensions are a different category.
 
-It worked. Two thousand years of coherent Jewish civilization across five continents is the proof of concept. The engineering was genuinely brilliant.
-
-This brings us back to Deuteronomy 4:2. Orthodoxy does not ignore the
-problem. It builds a very careful escape hatch. The first move is to say
-that the Oral Torah is not an addition at all. It was given at Sinai
-alongside the written Torah, transmitted from Moses to Joshua, from
-Joshua to the Elders, and so on down the chain (Avot 1:1). You cannot
-"add" something that was already there.
-
-The second move handles the cases where this obviously does not work:
-the rabbinic enactments and fences that are explicitly post-biblical and
-which the rabbis themselves never claimed were Sinaitic. For these, the
-argument shifts to Deuteronomy 17:11. The Torah commands Israel to obey
-the judges of each generation, so the rabbis are not adding to the
-Torah. They are exercising the Torah's own authorized legislative
-mechanism. Unauthorized additions are forbidden. Authorized rabbinic
-extensions are a different category.
-
-Bava Metzia 59b makes the move even sharper. A heavenly voice tries to
-settle a legal dispute, and Rabbi Joshua rejects it by quoting
-Deuteronomy 30:12: "It is not in heaven." God then laughs and says, "My
-children have defeated Me." The story is brilliant because it turns the
-absence of divine intervention into a doctrine of rabbinic autonomy. God
-gave the Torah away, so even God no longer gets to overrule the
-authorized interpreters.
-
-The problem is that the entire construction is self-referential. The
-authority to interpret Deuteronomy 17:11 as granting rabbinic
-legislative power derives from the rabbis. The claim that the Oral Torah
-was transmitted from Sinai is a claim the Oral Torah makes about itself.
-The legal myth that God accepts rabbinic defeat is preserved by the
-rabbinic literature whose authority is under dispute. The thing being
-validated is doing the validating.
-
+The problem is that the argument validates itself. The authority to
+interpret Deuteronomy 17:11 as granting rabbinic legislative power comes
+from the rabbis. The claim that the Oral Torah was transmitted from
+Sinai is a claim the Oral Torah makes about itself. Bava Metzia 59b
+sharpens the move by having Rabbi Joshua reject a heavenly voice with
+"It is not in heaven," after which God laughs and says, "My children
+have defeated Me." It is a brilliant story because it turns the absence
+of divine feedback into a doctrine of rabbinic autonomy. It is also
+exactly the problem. The thing being validated is doing the validating.
 The Sadducees saw the issue clearly. They were the priestly aristocracy
 who controlled the Temple, and they rejected the Pharisaic oral
 tradition as fabrication. The reason you have never met a Sadducee is
@@ -264,60 +251,107 @@ This is the man who predicted Vespasian's rise to power and used that credential
 He invented a mechanism. He had to. The alternative was the complete dissolution of the religion. But he invented it in a context where God had stopped providing feedback, which means he had no way of knowing whether his invention was a faithful reconstruction or an extremely sophisticated piece of human engineering dressed up as divine mandate. He spent his life insisting it was the former. On his deathbed, he stopped insisting.
 
 ## Jesus Did Sir
-TODO: the Christianity section needs to be made shorter just like the Orthodox Judaism one
-Now it's time for the second religion to tackle this issue: Christianity. See, Jesus actually *does* deliver that New Covenant I mentioned before. But before we get to its contents, we need to ask how he justifies making it in the first place. Deuteronomy 4:2 is still sitting there. Matthew 5:17 is where Jesus addresses this directly: "Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them." He then immediately follows this with six substantial revisions. The theological move embedded in this is actually fairly coherent: Deuteronomy 4:2 binds *humans* from adding or subtracting. If Jesus is divine — the same God who gave the Torah at Sinai — then the prohibition doesn't apply to him. He isn't adding to God's law. He is God revising his own law. The whole structure of the "but I say to you" passages depends on this claim. Without it, what he's doing is flagrantly prohibited by the very Torah he claims to fulfill. He has answered the Deuteronomy 4:2 problem, but only by staking everything on an authority claim that you either accept before you open the book or you don't. The move is logically sound and theologically circular in equal measure. Welcome to the pattern.
 
-What does that New Covenant actually provide? Looking at the actual text we can piece together an answer.
+Christianity tries the bolder solution: the patch is legitimate because
+God Himself has arrived to deliver it. Matthew 5:17 is the key move:
+"Do not think that I have come to abolish the Law or the Prophets; I
+have not come to abolish them but to fulfill them" (ESV). He then
+immediately says "but I say to you" and revises several commandments.
+That only works if Jesus is divine. Deuteronomy 4:2 forbids humans from
+adding to or subtracting from the Torah. If Jesus is the same God who
+gave the Torah, then He is not adding to someone else's law. He is God
+revising His own law. The move is logically sound and theologically
+circular in equal measure. Welcome to the pattern.
 
-From the Sermon on the Mount (Matthew 5) — his own "but I say to you" list:
+What does that New Covenant actually provide? Less than the label
+suggests. In the Sermon on the Mount, Jesus intensifies murder into
+anger, adultery into lust, divorce into near-prohibition, oath-taking
+into plain speech, retaliation into turning the other cheek, and
+neighbor-love into enemy-love. Elsewhere, he gestures toward clean
+foods, Sabbath flexibility, worship no longer centered in Jerusalem,
+and love as the defining commandment.
 
-- Don't just avoid murder — don't even harbor anger. "You have heard that it was said to those of old, 'You shall not murder; and whoever murders will be liable to judgment.' But I say to you that everyone who is angry with his brother will be liable to judgment." (Matthew 5:21-22, ESV)
-- Don't just avoid adultery — don't even lust. "You have heard that it was said, 'You shall not commit adultery.' But I say to you that everyone who looks at a woman with lustful intent has already committed adultery with her in his heart." (Matthew 5:27-28, ESV)
-- Divorce is essentially off the table (actually stricter than Moses who allowed it). "But I say to you that everyone who divorces his wife, except on the ground of sexual immorality, makes her commit adultery." (Matthew 5:31-32, ESV)
-- Don't swear oaths at all — just say yes or no. "But I say to you, do not take an oath at all... Let what you say be simply 'Yes' or 'No.'" (Matthew 5:34-37, ESV)
-- Abolish eye for an eye — turn the other cheek instead. "You have heard that it was said, 'An eye for an eye and a tooth for a tooth.' But I say to you, do not resist the one who is evil. But if anyone slaps you on the right cheek, turn to him the other also." (Matthew 5:38-39, ESV)
-- Don't just love your neighbor — love your enemies too. "But I say to you, love your enemies and pray for those who persecute you." (Matthew 5:43-44, ESV)
+This sounds substantial until you sort the list by what can actually
+function as law. The most important structural move is probably
+de-centering Jerusalem. That solves the Temple problem, in theory.
+Except Jesus never explicitly addresses animal sacrifice, never says
+what replaces the priesthood, and never explains what happens to
+pilgrimage festivals. He kind of runs into the Jeremiah tendency to
+give vague, vibe-based advice. So let's cross these off and see what
+material patches he actually made.
 
-Elsewhere:
-
-- All foods are clean (Mark 7) — essentially dissolves dietary law. "Do you not see that whatever goes into a person from outside cannot defile him, since it enters not his heart but his stomach, and is expelled?" The author then adds a parenthetical that has caused more theological argument than it probably deserves: "Thus he declared all foods clean." (Mark 7:18-19, ESV)
-- Sabbath rules are flexible. "The Sabbath was made for man, not man for the Sabbath." (Mark 2:27, ESV)
-- Worship is no longer tied to a specific place. "Woman, believe me, the hour is coming when neither on this mountain nor in Jerusalem will you worship the Father... But the hour is coming, and is now here, when the true worshipers will worship the Father in spirit and truth." (John 4:21-23, ESV)
-- Love one another as the defining new commandment. "A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another." (John 13:34, ESV)
-
-The most significant of these is probably the diminishing of Jerusalem's importance. It solves the Temple problem, *in theory*. Except he never actually explicitly addresses animal sacrifice. He kinda runs into the Jeremiah tendency to give vague, vibe-based advice. So we're going to cross these off to see what material patches he actually made.
-
-- Don't harbor anger — how would you even know?
-- Don't lust — completely internal, unenforceable
-- Love your enemies — what does this actually *require* you to do?
-- Love one another — same problem, no specifics
-- Sabbath made for man — he's gesturing at flexibility but gives no actual rule
-- Worship in spirit and truth — inspiring but tells you nothing concrete
+* Don't harbor anger (Matthew 5:21-22) — how would you even know?
+* Don't lust (Matthew 5:27-28) — completely internal, unenforceable.
+* Love your enemies (Matthew 5:43-44) — what does this actually require
+  you to do?
+* Love one another (John 13:34) — same problem, no specifics.
+* Sabbath made for man (Mark 2:27) — he gestures at flexibility but
+  gives no actual rule.
+* Worship in spirit and truth (John 4:21-23) — inspiring, but tells you
+  nothing concrete.
 
 So what does that leave us with?
 
-- No divorce (or near enough — he allows one exception: infidelity)
-- No oaths — just say yes or no, full stop
-- Abolish eye for an eye — specifically turn the other cheek
-- All foods are clean — this one is actually pretty material and had huge consequences
+* No divorce, or near enough (Matthew 5:31-32). He allows one
+  exception: infidelity.
+* No oaths (Matthew 5:34-37). Just say yes or no, full stop.
+* Abolish eye for an eye (Matthew 5:38-39). Specifically, turn the
+  other cheek.
+* All foods are clean (Mark 7:18-19). This one is actually material and
+  had huge consequences.
 
-As we can see, he did make *some* adjustments. But none of the ones we care about. He didn't fully commit to solving the Temple issue, and he said *nothing* about farming or the festivals. Four commandments does not a covenant make. And frankly, two of those four — no divorce, no oaths — are tightenings of existing law. He made it stricter in some places, looser in others, and left everything that actually mattered structurally untouched.
+So yes, Jesus made adjustments. But he did not make the adjustments this
+essay is looking for. He did not fully commit to solving the Temple
+issue, and he said nothing about farming or the festivals. Four
+commandments does not a covenant make. And frankly, two of those four —
+no divorce and no oaths — are tightenings of existing law. He made the
+Torah stricter in some places, looser in others, and left everything
+that mattered structurally untouched. Jeremiah announced a new covenant.
+Jesus announced its arrival. Neither wrote the terms sheet.
 
-This is the Jeremiah problem all over again. Jeremiah announced the new covenant was coming. Jesus announced it had arrived. Neither of them wrote the actual terms sheet.
+The vacuum was filled by Paul of Tarsus, who was not one of the twelve
+apostles, never met Jesus in person, and grounded his authority in a
+road-to-Damascus vision. Paul is the one who explicitly frees Gentiles
+from the Torah's legal requirements (Galatians 3), makes faith rather
+than works central, and turns Jesus's death into the final atoning
+sacrifice that renders the Temple system obsolete. Jesus gestured toward
+a new covenant. Paul built the operating system.
 
-The vacuum that Jesus left was, predictably, filled by humans. The most important of these is Paul of Tarsus, who was not one of the twelve apostles, who never met Jesus in person, and whose authority rested entirely on a road-to-Damascus vision that he himself reported. Paul is the one who explicitly abolishes the Torah's legal requirements for Gentiles (Galatians 3), develops the theology of faith over works, and establishes Jesus's death as the final atoning sacrifice that renders the Temple system obsolete. Jesus gestured vaguely at a new covenant. Paul built the operating system. The situation is structurally identical to Yohanan ben Zakkai, except Paul didn't even have the courtesy to weep about it on his deathbed.
+But Paul was not designing a civilization. His letters are saturated
+with the expectation that the world is about to end: "The time is short"
+(1 Corinthians 7:29, ESV); "The night is nearly over; the day is almost
+here" (Romans 13:12, ESV). If the kingdom is arriving next week, you do
+not need a durable replacement for farming, pilgrimage, sacrifice, or
+Torah observance. Paul does not solve the structural problem so much as
+dissolve it: none of this matters because the age requiring it is about
+to be replaced. That move only works if the world actually ends. It did
+not.
 
-But the Pauline framework rests on a premise that is never foregrounded yet saturates every letter he wrote: the world is about to end. Not metaphorically. Literally. "The time is short. From now on those who have wives should live as if they do not" (1 Corinthians 7:29, ESV). "The night is nearly over; the day is almost here" (Romans 13:12, ESV). Paul was not designing a sustainable civilization. He was issuing emergency instructions for the last days before the kingdom arrived. This matters enormously because every theological innovation he made only makes sense against that background assumption. You don't need a functional legal system if the king is arriving next week to establish a perfect one. You don't need to worry about farming, or Temple sacrifice, or the specific mechanics of Torah observance, if the age requiring all of that is ending imminently. Paul didn't solve the problem so much as dissolve it: none of this matters because it is all about to be replaced. It is a compelling move, and it would have been entirely convincing — if the world had actually ended. It has been two thousand years. The parousia has not arrived. Christianity quietly repurposed Paul's letters into a long-term ethical framework they were never designed to be, stripped the eschatological urgency out of them, and presented the result as timeless theology. If Paul were alive today, looking out at a world that has been not-ending for two millennia, it is genuinely unclear whether his faith would survive. The logic of the system requires the ending. Without it, the mechanism that makes everything else cohere simply isn't there.
+And Paul was just the beginning. The Christianity people actually live
+with was assembled over centuries by apostles, councils, emperors,
+missionaries, theologians, and local traditions. The doctrine of the
+Trinity is formalized through church argument and imperial council. The
+calendar, holidays, rituals, and sensory texture of Christian life are
+layered onto the sparse instructions Jesus actually gave.
 
-And Paul was just the beginning. Most of what we associate with Christianity today has no basis in anything Jesus said, and some of it has a very obvious basis in what was happening in the Mediterranean world at the time. The doctrine of the Trinity — that Jesus is co-equal with God the Father and the Holy Spirit, one substance, three persons — does not appear in Jesus's own words. It was formalized at the Council of Nicaea in 325 CE, called by Constantine, a Roman emperor who had converted to Christianity and had strong political reasons to want doctrinal unity across his empire. Jesus is actually somewhat ambiguous on the question of his own divinity, saying things like "the Father is greater than I" (John 14:28) alongside things like "I and the Father are one" (John 10:30). The church spent three centuries arguing about what this meant before a council of bishops voted on it. That is not how divine revelation is supposed to work.
+This is where it gets rather disappointing, because the best and most
+fun parts of Christianity are mostly not Jesus's ideas. He gives you
+maybe four concrete commandments and a lot of morally elevated
+atmosphere. He does not give you Christmas trees, midnight mass, Advent
+candles, Halloween, Easter eggs, chocolate rabbits, saints' days,
+stained glass, organs, incense, or most of the things that make
+Christianity feel like a thick, coherent religious world. Christianity
+does not even give you the best version of Christianity. The best
+features were made by other people.
 
-Then there is the more uncomfortable observation, which is worth pausing on before we get to the theology: the parts of Christianity that actually feel like a *religion* — the calendar, the holidays, the rituals, the sensory experience of it — are almost entirely not Christianity. Jesus gave you four commandments and some inspiring but structurally useless advice about love. He said nothing about a decorated tree in December, nothing about eggs and chocolate and a rabbit in spring, nothing about Advent candles, midnight mass, or frankly most of what makes the winter and spring holidays worth attending. The Christianity most people actually live with is a product assembled from pagan substrates, Roman administrative decisions, and medieval folk traditions, with a layer of theological veneer applied after the fact. Christianity doesn't even deliver the best version of itself. The most beloved features of the religion were made by other people.
-
-Christmas is commemorated on December 25th, which was already the festival of Sol Invictus, the unconquered sun, and closely tied to the Roman Saturnalia. The Gospels give no date for Jesus's birth, and the clues they do provide — shepherds outside with their flocks at night — suggest spring or early summer. Nobody moved the holiday to December. They simply absorbed the festival already happening there. Easter presents the same situation. The English name derives from Eostre, a Germanic spring goddess, and the timing is set by the spring equinox. The eggs, the fertility imagery, the general vibe of new life and renewal — this is pre-Christian spring festival material that the church grafted onto the resurrection narrative as it moved into Northern Europe. These are not fringe conspiracy theories. They are the mainstream position of religious historians.
-
-The point is not that Christianity is fraudulent because other people also had winter festivals. The point is that what we call Christianity is a layered artifact assembled by councils, emperors, missionaries, and theologians across several centuries, operating in a world where God had also stopped sending prophets and nobody was getting direct feedback. Yohanan ben Zakkai rebuilt Judaism without a divine mandate because the alternative was dissolution. Paul, Nicaea, Constantine, and the medieval church did the same thing for Christianity. The results are different. The epistemological situation is identical. And neither of them covers farming.
-
-Which leaves us where we started. Jeremiah announced a new covenant. Jesus announced its arrival. Paul drafted the terms. And the terms still don't cover farming.
+Some of those features are Christian folk tradition. Some are Roman
+administrative inheritance. Some are plainly adapted from pagan or
+pre-Christian seasonal rituals. The point is not that Christianity is
+fraudulent because institutions developed it. The point is that Yohanan
+ben Zakkai rebuilt Judaism without direct divine feedback, and Paul,
+Nicaea, Constantine, and the later church did the same thing for
+Christianity. The results are different. The epistemological situation
+is identical. And neither of them covers farming.
 
 ## Unfalsifiable
 
