@@ -1,7 +1,7 @@
 +++
 title = 'Turtles Trees and Turing: The Architecture of Reality'
 date = 2026-03-14T22:29:03Z
-draft = false
+draft = true
 +++
 
 ## The Initialization Error and the Middle-Turtle Crisis

@@ -1,7 +1,7 @@
 +++
 title = 'The Five State Solution'
 date = 2026-02-17T19:48:48Z
-draft = false
+draft = true
 +++
 
 ## Thesis

@@ -1,7 +1,7 @@
 ---
 title: "The Digital Ghost in Daniel-1Q114"
 date: 2026-02-08T12:00:00-05:00
-draft: false
+draft: true
 ---
 
 ## The Digital Ghost

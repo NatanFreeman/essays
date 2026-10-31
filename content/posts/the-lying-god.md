@@ -1,7 +1,7 @@
 +++
 title = 'The Lying God'
 date = 2026-02-14T20:05:27Z
-draft = false
+draft = true
 +++
 
 ## Introduction

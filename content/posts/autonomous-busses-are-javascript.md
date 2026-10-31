@@ -1,7 +1,7 @@
 +++
 title = 'Autonomous buses Are Javascript'
 date = 2026-04-12T20:15:21Z
-draft = false
+draft = true
 +++
 
 On paper, buses have a surprising number of advantages compared to trains. They're lighter, so bridges and overpasses cost less to build. They're mass-produced at a scale trains simply aren't, which makes each unit significantly cheaper. The infrastructure is just pavement — no tracks, no signaling systems, no electrification. You can open a corridor in stages rather than waiting for the whole line to be finished. And maintenance is surprisingly more manageable: when a single bus breaks down, you take that bus out of service. When a train breaks down, you have a problem. You can even add or remove vehicles dynamically based on demand, something no train operator in the world can do. You can even repurpose existing roads for a test corridor without building anything from scratch.

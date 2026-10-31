@@ -2,7 +2,7 @@
 title = 'The Lion is Innocent'
 chineseTitle = '狮子无罪'
 date = 2026-05-09T20:00:00Z
-draft = false
+draft = true
 +++
 
 ## Thesis

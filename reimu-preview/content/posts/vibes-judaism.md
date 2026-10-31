@@ -1,7 +1,7 @@
 +++
 title = 'Vibes Judaism'
 date = 2026-06-06T19:51:33Z
-draft = false
+draft = true
 +++
 
 ## Shavuot in exile

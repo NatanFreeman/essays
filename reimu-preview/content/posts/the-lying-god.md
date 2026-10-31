@@ -2,7 +2,7 @@
 title = 'The Lying God'
 chineseTitle = '说谎的上帝'
 date = 2026-02-14T20:05:27Z
-draft = false
+draft = true
 +++
 
 ## Introduction

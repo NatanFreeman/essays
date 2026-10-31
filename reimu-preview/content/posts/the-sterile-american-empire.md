@@ -2,7 +2,7 @@
 title = 'The Sterile American Empire'
 chineseTitle = '不育的美利坚帝国'
 date = 2026-03-05T21:01:19Z
-draft = false
+draft = true
 +++
 
 ## "Death to America"

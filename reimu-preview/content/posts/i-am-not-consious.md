@@ -2,7 +2,7 @@
 title: "I Am Not Conscious"
 chineseTitle: "我没有意识"
 date: 2026-04-01T12:00:00Z
-draft: false
+draft: true
 ---
 
 **"Consciousness: A Concept Past Its Expiration Date"**

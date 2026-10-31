@@ -2,7 +2,7 @@
 title = 'Turtles Trees and Turing: The Architecture of Reality'
 chineseTitle = '海龟、树与图灵：现实的架构'
 date = 2026-03-14T22:29:03Z
-draft = false
+draft = true
 +++
 
 ## The Initialization Error and the Middle-Turtle Crisis

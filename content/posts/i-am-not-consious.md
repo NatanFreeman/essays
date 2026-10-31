@@ -1,3 +1,9 @@
+---
+title: "I Am Not Conscious"
+date: 2026-04-01T12:00:00Z
+draft: true
+---
+
 **"Consciousness: A Concept Past Its Expiration Date"**
 
 **I. The Core Problem**

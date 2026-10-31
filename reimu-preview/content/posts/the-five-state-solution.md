@@ -2,7 +2,7 @@
 title = 'The Five State Solution'
 chineseTitle = '五国方案'
 date = 2026-02-17T19:48:48Z
-draft = false
+draft = true
 +++
 
 ## Thesis

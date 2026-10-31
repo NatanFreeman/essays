@@ -2,7 +2,7 @@
 title = 'The Future of AI Art'
 chineseTitle = 'AI 艺术的未来'
 date = 2026-02-15T14:44:40Z
-draft = false
+draft = true
 +++
 
 ## Art as a Casino
